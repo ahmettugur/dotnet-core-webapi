@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubTest/webapi/WebApi/ATCommon.Logging/ATCommon.Logging.csproj": {}
+    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging\\ATCommon.Logging.csproj": {}
   },
   "projects": {
-    "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubTest/webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
+    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging.Contracts\\ATCommon.Logging.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubTest/webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging.Contracts\\ATCommon.Logging.Contracts.csproj",
         "projectName": "ATCommon.Logging.Contracts",
-        "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubTest/webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubTest/webapi/WebApi/ATCommon.Logging.Contracts/obj/",
+        "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging.Contracts\\ATCommon.Logging.Contracts.csproj",
+        "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging.Contracts\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,33 +55,38 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubTest/webapi/WebApi/ATCommon.Logging/ATCommon.Logging.csproj": {
+    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging\\ATCommon.Logging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubTest/webapi/WebApi/ATCommon.Logging/ATCommon.Logging.csproj",
+        "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging\\ATCommon.Logging.csproj",
         "projectName": "ATCommon.Logging",
-        "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubTest/webapi/WebApi/ATCommon.Logging/ATCommon.Logging.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubTest/webapi/WebApi/ATCommon.Logging/obj/",
+        "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging\\ATCommon.Logging.csproj",
+        "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubTest/webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
-                "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubTest/webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj"
+              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging.Contracts\\ATCommon.Logging.Contracts.csproj": {
+                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging.Contracts\\ATCommon.Logging.Contracts.csproj"
               }
             }
           }
@@ -110,7 +120,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

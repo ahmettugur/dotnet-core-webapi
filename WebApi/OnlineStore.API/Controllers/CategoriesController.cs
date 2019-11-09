@@ -9,6 +9,7 @@ using OnlineStore.Entity.Concrete;
 using Microsoft.AspNetCore.Authorization;
 using System.Threading;
 using ATCommon.Aspect.Contracts.Proxy;
+using System.Xml;
 
 namespace OnlineStore.API.Controllers
 {
@@ -27,6 +28,9 @@ namespace OnlineStore.API.Controllers
         [HttpGet]
         public IActionResult CategoryList()
         {
+            XmlDocument xmlDocument = new XmlDocument();
+            var t = AppDomain.CurrentDomain.BaseDirectory + "XMLFile.config";
+            xmlDocument.Load(System.IO.File.OpenRead(t));
             try
             {
                 return Ok(_categoryService.GetAll());

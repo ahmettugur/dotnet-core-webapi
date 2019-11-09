@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/aspnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj": {}
+    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.GrpcClient\\OnlineStore.GrpcClient.csproj": {}
   },
   "projects": {
-    "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/aspnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj": {
+    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.GrpcClient\\OnlineStore.GrpcClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/aspnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
+        "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.GrpcClient\\OnlineStore.GrpcClient.csproj",
         "projectName": "OnlineStore.GrpcClient",
-        "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/aspnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/aspnet-core-webapi/WebApi/OnlineStore.GrpcClient/obj/",
+        "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.GrpcClient\\OnlineStore.GrpcClient.csproj",
+        "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.GrpcClient\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

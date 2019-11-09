@@ -54,3 +54,11 @@ D:/GithubProjectExample/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATC
 /home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.AssemblyInfo.cs
 /home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.dll
 /home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.pdb
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Contracts\bin\Debug\netcoreapp3.0\ATCommon.Caching.Contracts.deps.json
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Contracts\bin\Debug\netcoreapp3.0\ATCommon.Caching.Contracts.dll
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Contracts\bin\Debug\netcoreapp3.0\ATCommon.Caching.Contracts.pdb
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Contracts\obj\Debug\netcoreapp3.0\ATCommon.Caching.Contracts.csprojAssemblyReference.cache
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Contracts\obj\Debug\netcoreapp3.0\ATCommon.Caching.Contracts.AssemblyInfoInputs.cache
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Contracts\obj\Debug\netcoreapp3.0\ATCommon.Caching.Contracts.AssemblyInfo.cs
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Contracts\obj\Debug\netcoreapp3.0\ATCommon.Caching.Contracts.dll
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Contracts\obj\Debug\netcoreapp3.0\ATCommon.Caching.Contracts.pdb

@@ -53,3 +53,14 @@ D:/GithubProjectExample/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATC
 /home/ahmet/Desktop/Applications/AspNetCoreApps/GithubTest/webapi/WebApi/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.csproj.CopyComplete
 /home/ahmet/Desktop/Applications/AspNetCoreApps/GithubTest/webapi/WebApi/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.dll
 /home/ahmet/Desktop/Applications/AspNetCoreApps/GithubTest/webapi/WebApi/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.pdb
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Logging\bin\Debug\netcoreapp3.0\ATCommon.Logging.deps.json
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Logging\bin\Debug\netcoreapp3.0\ATCommon.Logging.dll
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Logging\bin\Debug\netcoreapp3.0\ATCommon.Logging.pdb
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Logging\bin\Debug\netcoreapp3.0\ATCommon.Logging.Contracts.dll
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Logging\bin\Debug\netcoreapp3.0\ATCommon.Logging.Contracts.pdb
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Logging\obj\Debug\netcoreapp3.0\ATCommon.Logging.csprojAssemblyReference.cache
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Logging\obj\Debug\netcoreapp3.0\ATCommon.Logging.AssemblyInfoInputs.cache
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Logging\obj\Debug\netcoreapp3.0\ATCommon.Logging.AssemblyInfo.cs
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Logging\obj\Debug\netcoreapp3.0\ATCommon.Logging.csproj.CopyComplete
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Logging\obj\Debug\netcoreapp3.0\ATCommon.Logging.dll
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Logging\obj\Debug\netcoreapp3.0\ATCommon.Logging.pdb

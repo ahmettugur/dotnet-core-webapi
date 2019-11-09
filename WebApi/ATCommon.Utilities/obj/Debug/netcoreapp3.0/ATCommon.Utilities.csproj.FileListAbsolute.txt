@@ -53,3 +53,11 @@ D:/GithubProjectExample/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATC
 /home/ahmet/Desktop/WebApi/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.AssemblyInfo.cs
 /home/ahmet/Desktop/WebApi/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.dll
 /home/ahmet/Desktop/WebApi/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.pdb
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Utilities\bin\Debug\netcoreapp3.0\ATCommon.Utilities.deps.json
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Utilities\bin\Debug\netcoreapp3.0\ATCommon.Utilities.dll
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Utilities\bin\Debug\netcoreapp3.0\ATCommon.Utilities.pdb
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Utilities\obj\Debug\netcoreapp3.0\ATCommon.Utilities.csprojAssemblyReference.cache
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Utilities\obj\Debug\netcoreapp3.0\ATCommon.Utilities.AssemblyInfoInputs.cache
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Utilities\obj\Debug\netcoreapp3.0\ATCommon.Utilities.AssemblyInfo.cs
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Utilities\obj\Debug\netcoreapp3.0\ATCommon.Utilities.dll
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Utilities\obj\Debug\netcoreapp3.0\ATCommon.Utilities.pdb

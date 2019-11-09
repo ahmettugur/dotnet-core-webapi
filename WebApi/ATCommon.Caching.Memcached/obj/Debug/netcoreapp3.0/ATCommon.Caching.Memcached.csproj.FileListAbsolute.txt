@@ -50,3 +50,16 @@ D:/GithubProjectExample/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATC
 /home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/aspnet-core-webapi/WebApi/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.csproj.CopyComplete
 /home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/aspnet-core-webapi/WebApi/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.dll
 /home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/aspnet-core-webapi/WebApi/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.pdb
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Memcached\bin\Debug\netcoreapp3.0\ATCommon.Caching.Memcached.deps.json
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Memcached\bin\Debug\netcoreapp3.0\ATCommon.Caching.Memcached.dll
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Memcached\bin\Debug\netcoreapp3.0\ATCommon.Caching.Memcached.pdb
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Memcached\bin\Debug\netcoreapp3.0\ATCommon.Caching.Contracts.dll
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Memcached\bin\Debug\netcoreapp3.0\ATCommon.Utilities.dll
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Memcached\bin\Debug\netcoreapp3.0\ATCommon.Caching.Contracts.pdb
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Memcached\bin\Debug\netcoreapp3.0\ATCommon.Utilities.pdb
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Memcached\obj\Debug\netcoreapp3.0\ATCommon.Caching.Memcached.csprojAssemblyReference.cache
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Memcached\obj\Debug\netcoreapp3.0\ATCommon.Caching.Memcached.AssemblyInfoInputs.cache
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Memcached\obj\Debug\netcoreapp3.0\ATCommon.Caching.Memcached.AssemblyInfo.cs
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Memcached\obj\Debug\netcoreapp3.0\ATCommon.Caching.Memcached.csproj.CopyComplete
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Memcached\obj\Debug\netcoreapp3.0\ATCommon.Caching.Memcached.dll
+C:\Users\ALPEREN\Desktop\testapi-master\testapi-master\WebApi\ATCommon.Caching.Memcached\obj\Debug\netcoreapp3.0\ATCommon.Caching.Memcached.pdb
