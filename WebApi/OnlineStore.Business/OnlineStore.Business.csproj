@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac" Version="4.9.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ATCommon.Aspect\ATCommon.Aspect.csproj" />
+    <ProjectReference Include="..\OnlineStore.Business.Contracts\OnlineStore.Business.Contracts.csproj" />
+    <ProjectReference Include="..\OnlineStore.Data.Contracts\OnlineStore.Data.Contracts.csproj" />
+    <ProjectReference Include="..\OnlineStore.Data\OnlineStore.Data.csproj" />
+    <ProjectReference Include="..\OnlineStore.Entity\OnlineStore.Entity.csproj" />
+    <ProjectReference Include="..\OnlineStore.MQ\OnlineStore.MQ.csproj" />
+    <ProjectReference Include="..\ATCommon.Logging.Log4net\ATCommon.Logging.Log4net.csproj" />
+  </ItemGroup>
+
+</Project>
