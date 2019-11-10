@@ -38,6 +38,7 @@ namespace OnlineStore.Business.Services
         }
 
         [BeforeLogAspect(typeof(JsonFileLogger))]
+        [AfterLogAspect(typeof(JsonFileLogger))]
         public IResult<List<Category>> GetAll(Expression<Func<Category, bool>> predicate = null)
         {
             return new Result<List<Category>>(200, _categoryRepository.GetAll(predicate).OrderByDescending(_ => _.Id).ToList());

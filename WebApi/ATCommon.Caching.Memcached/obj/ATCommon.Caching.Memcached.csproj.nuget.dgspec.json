@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Caching.Memcached\\ATCommon.Caching.Memcached.csproj": {}
+    "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Memcached/ATCommon.Caching.Memcached.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Caching.Contracts\\ATCommon.Caching.Contracts.csproj": {
+    "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Caching.Contracts\\ATCommon.Caching.Contracts.csproj",
+        "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj",
         "projectName": "ATCommon.Caching.Contracts",
-        "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Caching.Contracts\\ATCommon.Caching.Contracts.csproj",
-        "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Caching.Contracts\\obj\\",
+        "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ahmet/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,47 +44,36 @@
             "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     },
-    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Caching.Memcached\\ATCommon.Caching.Memcached.csproj": {
+    "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Memcached/ATCommon.Caching.Memcached.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Caching.Memcached\\ATCommon.Caching.Memcached.csproj",
+        "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Memcached/ATCommon.Caching.Memcached.csproj",
         "projectName": "ATCommon.Caching.Memcached",
-        "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Caching.Memcached\\ATCommon.Caching.Memcached.csproj",
-        "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Caching.Memcached\\obj\\",
+        "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Memcached/ATCommon.Caching.Memcached.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Memcached/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ahmet/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Caching.Contracts\\ATCommon.Caching.Contracts.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Caching.Contracts\\ATCommon.Caching.Contracts.csproj"
+              "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj"
               },
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Utilities\\ATCommon.Utilities.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Utilities\\ATCommon.Utilities.csproj"
+              "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj"
               }
             }
           }
@@ -125,37 +109,26 @@
             "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     },
-    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Utilities\\ATCommon.Utilities.csproj": {
+    "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Utilities\\ATCommon.Utilities.csproj",
+        "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj",
         "projectName": "ATCommon.Utilities",
-        "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Utilities\\ATCommon.Utilities.csproj",
-        "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Utilities\\obj\\",
+        "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ahmet/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -194,13 +167,7 @@
             "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     }

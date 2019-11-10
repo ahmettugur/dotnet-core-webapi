@@ -272,30 +272,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ALPEREN\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/ahmet/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.GrpcClient\\OnlineStore.GrpcClient.csproj",
+      "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
       "projectName": "OnlineStore.GrpcClient",
-      "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.GrpcClient\\OnlineStore.GrpcClient.csproj",
-      "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.GrpcClient\\obj\\",
+      "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
+      "packagesPath": "/home/ahmet/.nuget/packages/",
+      "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.GrpcClient/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/ahmet/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -336,13 +330,7 @@
           "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }

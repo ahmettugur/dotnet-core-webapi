@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATCommon.Caching.Memcached/ATCommon.Caching.Memcached.csproj",
+    "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Memcached/ATCommon.Caching.Memcached.csproj",
     "projectName": "ATCommon.Caching.Memcached",
-    "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATCommon.Caching.Memcached/ATCommon.Caching.Memcached.csproj",
-    "outputPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATCommon.Caching.Memcached/obj/",
+    "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Memcached/ATCommon.Caching.Memcached.csproj",
+    "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Memcached/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.0"
@@ -15,11 +15,11 @@
     "frameworks": {
       "netcoreapp3.0": {
         "projectReferences": {
-          "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj": {
-            "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj"
+          "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj": {
+            "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj"
           },
-          "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATCommon.Utilities/ATCommon.Utilities.csproj": {
-            "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATCommon.Utilities/ATCommon.Utilities.csproj"
+          "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj": {
+            "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj"
           }
         }
       }

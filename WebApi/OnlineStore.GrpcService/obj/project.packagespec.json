@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.GrpcService/OnlineStore.GrpcService.csproj",
+    "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.GrpcService/OnlineStore.GrpcService.csproj",
     "projectName": "OnlineStore.GrpcService",
-    "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.GrpcService/OnlineStore.GrpcService.csproj",
-    "outputPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.GrpcService/obj/",
+    "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.GrpcService/OnlineStore.GrpcService.csproj",
+    "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.GrpcService/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.0"
@@ -15,11 +15,11 @@
     "frameworks": {
       "netcoreapp3.0": {
         "projectReferences": {
-          "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.Business/OnlineStore.Business.csproj": {
-            "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.Business/OnlineStore.Business.csproj"
+          "/home/ahmet/Desktop/WebApi/OnlineStore.Business/OnlineStore.Business.csproj": {
+            "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Business/OnlineStore.Business.csproj"
           },
-          "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.Data/OnlineStore.Data.csproj": {
-            "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.Data/OnlineStore.Data.csproj"
+          "/home/ahmet/Desktop/WebApi/OnlineStore.Data/OnlineStore.Data.csproj": {
+            "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Data/OnlineStore.Data.csproj"
           }
         }
       }

@@ -54,6 +54,7 @@ namespace ATCommon.Aspect.Logging
 
             LogDetail logDetail = new LogDetail
             {
+                MethodCallDate = DateTime.Now,
                 ClassName = exceptionMethodArgs.MethodInfo.DeclaringType.FullName,
                 MethodName = exceptionMethodArgs.MethodInfo.Name,
                 Parameters = logParameters,

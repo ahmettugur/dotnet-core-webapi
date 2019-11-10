@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj",
+    "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj",
     "projectName": "OnlineStore.Business.Contracts",
-    "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj",
-    "outputPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.Business.Contracts/obj/",
+    "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj",
+    "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Business.Contracts/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.0"
@@ -15,11 +15,11 @@
     "frameworks": {
       "netcoreapp3.0": {
         "projectReferences": {
-          "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATCommon.Utilities/ATCommon.Utilities.csproj": {
-            "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATCommon.Utilities/ATCommon.Utilities.csproj"
+          "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj": {
+            "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj"
           },
-          "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.Entity/OnlineStore.Entity.csproj": {
-            "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.Entity/OnlineStore.Entity.csproj"
+          "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj": {
+            "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj"
           }
         }
       }

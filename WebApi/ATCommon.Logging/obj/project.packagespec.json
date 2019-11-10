@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATCommon.Logging/ATCommon.Logging.csproj",
+    "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Logging/ATCommon.Logging.csproj",
     "projectName": "ATCommon.Logging",
-    "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATCommon.Logging/ATCommon.Logging.csproj",
-    "outputPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATCommon.Logging/obj/",
+    "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging/ATCommon.Logging.csproj",
+    "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.0"
@@ -15,8 +15,8 @@
     "frameworks": {
       "netcoreapp3.0": {
         "projectReferences": {
-          "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
-            "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj"
+          "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
+            "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj"
           }
         }
       }

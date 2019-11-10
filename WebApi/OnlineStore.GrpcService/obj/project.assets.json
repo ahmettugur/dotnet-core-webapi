@@ -2210,6 +2210,7 @@
           "ATCommon.Logging.Contracts": "1.0.0",
           "Microsoft.Extensions.Logging.Abstractions": "3.0.0",
           "Newtonsoft.Json": "12.0.2",
+          "System.Data.SqlClient": "4.7.0",
           "log4net": "2.0.8"
         },
         "compile": {
@@ -7642,40 +7643,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ALPEREN\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/ahmet/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.GrpcService\\OnlineStore.GrpcService.csproj",
+      "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.GrpcService/OnlineStore.GrpcService.csproj",
       "projectName": "OnlineStore.GrpcService",
-      "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.GrpcService\\OnlineStore.GrpcService.csproj",
-      "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.GrpcService\\obj\\",
+      "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.GrpcService/OnlineStore.GrpcService.csproj",
+      "packagesPath": "/home/ahmet/.nuget/packages/",
+      "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.GrpcService/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/ahmet/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Business\\OnlineStore.Business.csproj": {
-              "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Business\\OnlineStore.Business.csproj"
+            "/home/ahmet/Desktop/WebApi/OnlineStore.Business/OnlineStore.Business.csproj": {
+              "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Business/OnlineStore.Business.csproj"
             },
-            "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Data\\OnlineStore.Data.csproj": {
-              "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Data\\OnlineStore.Data.csproj"
+            "/home/ahmet/Desktop/WebApi/OnlineStore.Data/OnlineStore.Data.csproj": {
+              "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Data/OnlineStore.Data.csproj"
             }
           }
         }
@@ -7703,16 +7698,7 @@
           "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.AspNetCore.App": {
-            "privateAssets": "none"
-          },
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }

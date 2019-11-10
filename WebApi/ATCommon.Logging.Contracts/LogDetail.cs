@@ -9,6 +9,8 @@ namespace ATCommon.Logging.Contracts
     public class LogDetail
     {
         [DataMember]
+        public DateTime MethodCallDate { get; set; } 
+        [DataMember]
         public string ClassName { get; set; }
         [DataMember]
         public string MethodName { get; set; }

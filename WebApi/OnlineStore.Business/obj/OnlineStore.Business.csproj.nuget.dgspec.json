@@ -1,30 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Business\\OnlineStore.Business.csproj": {}
+    "/home/ahmet/Desktop/WebApi/OnlineStore.Business/OnlineStore.Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Aspect.Contracts\\ATCommon.Aspect.Contracts.csproj": {
+    "/home/ahmet/Desktop/WebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Aspect.Contracts\\ATCommon.Aspect.Contracts.csproj",
+        "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj",
         "projectName": "ATCommon.Aspect.Contracts",
-        "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Aspect.Contracts\\ATCommon.Aspect.Contracts.csproj",
-        "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Aspect.Contracts\\obj\\",
+        "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Aspect.Contracts/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ahmet/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,44 +50,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Aspect\\ATCommon.Aspect.csproj": {
+    "/home/ahmet/Desktop/WebApi/ATCommon.Aspect/ATCommon.Aspect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Aspect\\ATCommon.Aspect.csproj",
+        "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Aspect/ATCommon.Aspect.csproj",
         "projectName": "ATCommon.Aspect",
-        "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Aspect\\ATCommon.Aspect.csproj",
-        "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Aspect\\obj\\",
+        "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Aspect/ATCommon.Aspect.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Aspect/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ahmet/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Aspect.Contracts\\ATCommon.Aspect.Contracts.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Aspect.Contracts\\ATCommon.Aspect.Contracts.csproj"
+              "/home/ahmet/Desktop/WebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj"
               },
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Caching.Contracts\\ATCommon.Caching.Contracts.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Caching.Contracts\\ATCommon.Caching.Contracts.csproj"
+              "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj"
               },
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging.Contracts\\ATCommon.Logging.Contracts.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging.Contracts\\ATCommon.Logging.Contracts.csproj"
+              "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj"
               }
             }
           }
@@ -130,31 +120,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Caching.Contracts\\ATCommon.Caching.Contracts.csproj": {
+    "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Caching.Contracts\\ATCommon.Caching.Contracts.csproj",
+        "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj",
         "projectName": "ATCommon.Caching.Contracts",
-        "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Caching.Contracts\\ATCommon.Caching.Contracts.csproj",
-        "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Caching.Contracts\\obj\\",
+        "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ahmet/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -185,31 +170,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging.Contracts\\ATCommon.Logging.Contracts.csproj": {
+    "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging.Contracts\\ATCommon.Logging.Contracts.csproj",
+        "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj",
         "projectName": "ATCommon.Logging.Contracts",
-        "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging.Contracts\\ATCommon.Logging.Contracts.csproj",
-        "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging.Contracts\\obj\\",
+        "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ahmet/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -240,38 +220,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging.Log4net\\ATCommon.Logging.Log4net.csproj": {
+    "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging.Log4net\\ATCommon.Logging.Log4net.csproj",
+        "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj",
         "projectName": "ATCommon.Logging.Log4net",
-        "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging.Log4net\\ATCommon.Logging.Log4net.csproj",
-        "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging.Log4net\\obj\\",
+        "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Log4net/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ahmet/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging.Contracts\\ATCommon.Logging.Contracts.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging.Contracts\\ATCommon.Logging.Contracts.csproj"
+              "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj"
               }
             }
           }
@@ -293,6 +268,10 @@
               "target": "Package",
               "version": "[12.0.2, )"
             },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
             "log4net": {
               "target": "Package",
               "version": "[2.0.8, )"
@@ -313,31 +292,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Utilities\\ATCommon.Utilities.csproj": {
+    "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Utilities\\ATCommon.Utilities.csproj",
+        "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj",
         "projectName": "ATCommon.Utilities",
-        "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Utilities\\ATCommon.Utilities.csproj",
-        "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Utilities\\obj\\",
+        "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ahmet/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -382,41 +356,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Business.Contracts\\OnlineStore.Business.Contracts.csproj": {
+    "/home/ahmet/Desktop/WebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Business.Contracts\\OnlineStore.Business.Contracts.csproj",
+        "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj",
         "projectName": "OnlineStore.Business.Contracts",
-        "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Business.Contracts\\OnlineStore.Business.Contracts.csproj",
-        "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Business.Contracts\\obj\\",
+        "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Business.Contracts/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ahmet/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Utilities\\ATCommon.Utilities.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Utilities\\ATCommon.Utilities.csproj"
+              "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj"
               },
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Entity\\OnlineStore.Entity.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Entity\\OnlineStore.Entity.csproj"
+              "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj"
               }
             }
           }
@@ -444,56 +413,51 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Business\\OnlineStore.Business.csproj": {
+    "/home/ahmet/Desktop/WebApi/OnlineStore.Business/OnlineStore.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Business\\OnlineStore.Business.csproj",
+        "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.Business/OnlineStore.Business.csproj",
         "projectName": "OnlineStore.Business",
-        "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Business\\OnlineStore.Business.csproj",
-        "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Business\\obj\\",
+        "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Business/OnlineStore.Business.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Business/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ahmet/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Aspect\\ATCommon.Aspect.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Aspect\\ATCommon.Aspect.csproj"
+              "/home/ahmet/Desktop/WebApi/ATCommon.Aspect/ATCommon.Aspect.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Aspect/ATCommon.Aspect.csproj"
               },
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging.Log4net\\ATCommon.Logging.Log4net.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Logging.Log4net\\ATCommon.Logging.Log4net.csproj"
+              "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj"
               },
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Business.Contracts\\OnlineStore.Business.Contracts.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Business.Contracts\\OnlineStore.Business.Contracts.csproj"
+              "/home/ahmet/Desktop/WebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj"
               },
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Data.Contracts\\OnlineStore.Data.Contracts.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Data.Contracts\\OnlineStore.Data.Contracts.csproj"
+              "/home/ahmet/Desktop/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj"
               },
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Data\\OnlineStore.Data.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Data\\OnlineStore.Data.csproj"
+              "/home/ahmet/Desktop/WebApi/OnlineStore.Data/OnlineStore.Data.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Data/OnlineStore.Data.csproj"
               },
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Entity\\OnlineStore.Entity.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Entity\\OnlineStore.Entity.csproj"
+              "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj"
               },
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.MQ\\OnlineStore.MQ.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.MQ\\OnlineStore.MQ.csproj"
+              "/home/ahmet/Desktop/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj"
               }
             }
           }
@@ -527,31 +491,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Core.Contracts\\OnlineStore.Core.Contracts.csproj": {
+    "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Core.Contracts\\OnlineStore.Core.Contracts.csproj",
+        "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj",
         "projectName": "OnlineStore.Core.Contracts",
-        "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Core.Contracts\\OnlineStore.Core.Contracts.csproj",
-        "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Core.Contracts\\obj\\",
+        "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ahmet/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -582,38 +541,33 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Core\\OnlineStore.Core.csproj": {
+    "/home/ahmet/Desktop/WebApi/OnlineStore.Core/OnlineStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Core\\OnlineStore.Core.csproj",
+        "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.Core/OnlineStore.Core.csproj",
         "projectName": "OnlineStore.Core",
-        "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Core\\OnlineStore.Core.csproj",
-        "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Core\\obj\\",
+        "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core/OnlineStore.Core.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ahmet/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Core.Contracts\\OnlineStore.Core.Contracts.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Core.Contracts\\OnlineStore.Core.Contracts.csproj"
+              "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj"
               }
             }
           }
@@ -659,41 +613,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Data.Contracts\\OnlineStore.Data.Contracts.csproj": {
+    "/home/ahmet/Desktop/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Data.Contracts\\OnlineStore.Data.Contracts.csproj",
+        "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj",
         "projectName": "OnlineStore.Data.Contracts",
-        "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Data.Contracts\\OnlineStore.Data.Contracts.csproj",
-        "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Data.Contracts\\obj\\",
+        "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Data.Contracts/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ahmet/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Core.Contracts\\OnlineStore.Core.Contracts.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Core.Contracts\\OnlineStore.Core.Contracts.csproj"
+              "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj"
               },
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Entity\\OnlineStore.Entity.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Entity\\OnlineStore.Entity.csproj"
+              "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj"
               }
             }
           }
@@ -721,41 +670,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Data\\OnlineStore.Data.csproj": {
+    "/home/ahmet/Desktop/WebApi/OnlineStore.Data/OnlineStore.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Data\\OnlineStore.Data.csproj",
+        "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.Data/OnlineStore.Data.csproj",
         "projectName": "OnlineStore.Data",
-        "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Data\\OnlineStore.Data.csproj",
-        "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Data\\obj\\",
+        "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Data/OnlineStore.Data.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Data/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ahmet/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Core\\OnlineStore.Core.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Core\\OnlineStore.Core.csproj"
+              "/home/ahmet/Desktop/WebApi/OnlineStore.Core/OnlineStore.Core.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core/OnlineStore.Core.csproj"
               },
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Data.Contracts\\OnlineStore.Data.Contracts.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Data.Contracts\\OnlineStore.Data.Contracts.csproj"
+              "/home/ahmet/Desktop/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj"
               }
             }
           }
@@ -809,41 +753,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Entity\\OnlineStore.Entity.csproj": {
+    "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Entity\\OnlineStore.Entity.csproj",
+        "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj",
         "projectName": "OnlineStore.Entity",
-        "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Entity\\OnlineStore.Entity.csproj",
-        "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Entity\\obj\\",
+        "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ahmet/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Core.Contracts\\OnlineStore.Core.Contracts.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Core.Contracts\\OnlineStore.Core.Contracts.csproj"
+              "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj"
               },
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Core\\OnlineStore.Core.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Core\\OnlineStore.Core.csproj"
+              "/home/ahmet/Desktop/WebApi/OnlineStore.Core/OnlineStore.Core.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core/OnlineStore.Core.csproj"
               }
             }
           }
@@ -871,41 +810,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.MQ\\OnlineStore.MQ.csproj": {
+    "/home/ahmet/Desktop/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.MQ\\OnlineStore.MQ.csproj",
+        "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj",
         "projectName": "OnlineStore.MQ",
-        "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.MQ\\OnlineStore.MQ.csproj",
-        "packagesPath": "C:\\Users\\ALPEREN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.MQ\\obj\\",
+        "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.MQ/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ALPEREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/ahmet/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Utilities\\ATCommon.Utilities.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\ATCommon.Utilities\\ATCommon.Utilities.csproj"
+              "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj"
               },
-              "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Core.Contracts\\OnlineStore.Core.Contracts.csproj": {
-                "projectPath": "C:\\Users\\ALPEREN\\Desktop\\testapi-master\\testapi-master\\WebApi\\OnlineStore.Core.Contracts\\OnlineStore.Core.Contracts.csproj"
+              "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
+                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj"
               }
             }
           }
@@ -943,7 +877,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

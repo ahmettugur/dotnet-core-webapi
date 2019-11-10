@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.MQService/OnlineStore.MQService.csproj",
+    "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.MQService/OnlineStore.MQService.csproj",
     "projectName": "OnlineStore.MQService",
-    "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.MQService/OnlineStore.MQService.csproj",
-    "outputPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.MQService/obj/",
+    "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.MQService/OnlineStore.MQService.csproj",
+    "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.MQService/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.0"
@@ -15,11 +15,11 @@
     "frameworks": {
       "netcoreapp3.0": {
         "projectReferences": {
-          "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.Entity/OnlineStore.Entity.csproj": {
-            "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.Entity/OnlineStore.Entity.csproj"
+          "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj": {
+            "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj"
           },
-          "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.MQ/OnlineStore.MQ.csproj": {
-            "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.MQ/OnlineStore.MQ.csproj"
+          "/home/ahmet/Desktop/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj": {
+            "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj"
           }
         }
       }

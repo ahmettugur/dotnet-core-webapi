@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.API/OnlineStore.API.csproj",
+    "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.API/OnlineStore.API.csproj",
     "projectName": "OnlineStore.API",
-    "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.API/OnlineStore.API.csproj",
-    "outputPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.API/obj/",
+    "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.API/OnlineStore.API.csproj",
+    "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.API/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.0"
@@ -15,14 +15,14 @@
     "frameworks": {
       "netcoreapp3.0": {
         "projectReferences": {
-          "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj": {
-            "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj"
+          "/home/ahmet/Desktop/WebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj": {
+            "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj"
           },
-          "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj": {
-            "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj"
+          "/home/ahmet/Desktop/WebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj": {
+            "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj"
           },
-          "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.Business/OnlineStore.Business.csproj": {
-            "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.Business/OnlineStore.Business.csproj"
+          "/home/ahmet/Desktop/WebApi/OnlineStore.Business/OnlineStore.Business.csproj": {
+            "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Business/OnlineStore.Business.csproj"
           }
         }
       }

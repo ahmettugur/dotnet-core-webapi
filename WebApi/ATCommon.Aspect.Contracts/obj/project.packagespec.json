@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj",
+    "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj",
     "projectName": "ATCommon.Aspect.Contracts",
-    "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj",
-    "outputPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/ATCommon.Aspect.Contracts/obj/",
+    "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj",
+    "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Aspect.Contracts/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.0"

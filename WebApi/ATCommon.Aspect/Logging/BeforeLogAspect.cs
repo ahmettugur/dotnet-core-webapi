@@ -9,12 +9,12 @@ using ATCommon.Logging.Contracts;
 
 namespace ATCommon.Aspect.Logging
 {
-    public class LogAspect : InterceptionAttribute, IBeforeVoidInterception
+    public class BeforeLogAspect : InterceptionAttribute, IBeforeVoidInterception
     {
         private readonly Type _loggerType;
         private readonly ICommonLogger _logger;
 
-        public LogAspect(Type loggerType)
+        public BeforeLogAspect(Type loggerType)
         {
 
             _loggerType = loggerType;
@@ -62,6 +62,7 @@ namespace ATCommon.Aspect.Logging
 
             LogDetail logDetail = new LogDetail
             {
+                MethodCallDate = DateTime.Now,
                 ClassName = beforeMethodArgs.MethodInfo.DeclaringType.FullName,
                 MethodName = beforeMethodArgs.MethodInfo.Name,
                 Parameters = logParameters

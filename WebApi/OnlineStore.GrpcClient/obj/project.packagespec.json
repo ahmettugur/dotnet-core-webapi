@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
+    "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
     "projectName": "OnlineStore.GrpcClient",
-    "projectPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
-    "outputPath": "/home/ahmet/Desktop/Applications/AspNetCoreApps/GithubProjectsTest/react-redux-aspnet-core-webapi/OnlineStoreCoreWebApi/OnlineStore.GrpcClient/obj/",
+    "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
+    "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.GrpcClient/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.0"

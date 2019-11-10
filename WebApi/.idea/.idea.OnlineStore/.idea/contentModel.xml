@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="$USER_HOME$/.Rider2019.2/system/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/.Rider2019.2/system/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_OnlineStore.787212675.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.2/system/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_OnlineStore.-932639635.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="API" t="Include" />
       <e p="ATCommon.Aspect" t="IncludeRecursive">
@@ -15,8 +15,9 @@
           <e p="CacheRemoveAspect.cs" t="Include" />
         </e>
         <e p="Logging" t="Include">
+          <e p="AfterLogAspect.cs" t="Include" />
+          <e p="BeforeLogAspect.cs" t="Include" />
           <e p="ExceptionLogAspect.cs" t="Include" />
-          <e p="LogAspect.cs" t="Include" />
         </e>
         <e p="Validation" t="Include">
           <e p="FluentValidation" t="Include">
@@ -124,6 +125,26 @@
           </e>
         </e>
       </e>
+      <e p="ATCommon.Logging.Log4net" t="IncludeRecursive">
+        <e p="ATCommon.Logging.Log4net.csproj" t="IncludeRecursive" />
+        <e p="Layouts" t="Include">
+          <e p="JsonLayout.cs" t="Include" />
+        </e>
+        <e p="LoggerServiceBase.cs" t="Include" />
+        <e p="Loggers" t="Include">
+          <e p="DatabaseLogger.cs" t="Include" />
+          <e p="JsonFileLogger.cs" t="Include" />
+        </e>
+        <e p="SerializableLogEvent.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="ATCommon.Logging.Log4net.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="ATCommon.Utilities" t="IncludeRecursive">
         <e p="ATCommon.Utilities.csproj" t="IncludeRecursive" />
         <e p="AppSettingsHelper.cs" t="Include" />
@@ -159,8 +180,15 @@
           <e p="ProductsController.cs" t="Include" />
           <e p="TokenController.cs" t="Include" />
         </e>
-        <e p="Middlewares" t="Include">
-          <e p="DependencyInjectionMiddleware.cs" t="Include" />
+        <e p="Log" t="Include">
+          <e p="2019" t="Include">
+            <e p="11" t="Include">
+              <e p="2019-11-10" t="Include">
+                <e p="2019-11-10-02-00.json" t="Include" />
+                <e p="2019-11-10-12-00.json" t="Include" />
+              </e>
+            </e>
+          </e>
         </e>
         <e p="Models" t="Include">
           <e p="LoginViewModel.cs" t="Include" />
@@ -177,6 +205,7 @@
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="log4net.config" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">

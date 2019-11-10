@@ -28,9 +28,6 @@ namespace OnlineStore.API.Controllers
         [HttpGet]
         public IActionResult CategoryList()
         {
-            XmlDocument xmlDocument = new XmlDocument();
-            var t = AppDomain.CurrentDomain.BaseDirectory + "XMLFile.config";
-            xmlDocument.Load(System.IO.File.OpenRead(t));
             try
             {
                 return Ok(_categoryService.GetAll());
