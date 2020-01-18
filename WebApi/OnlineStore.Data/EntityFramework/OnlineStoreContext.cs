@@ -20,13 +20,13 @@ namespace OnlineStore.Data.EntityFramework
 
             string connectionString = Configuration.GetConnectionString("OnlineStoreContext");
 
-            optionsBuilder.AddPostgreSqlOptionBuilder(connectionString);
+            optionsBuilder.AddMySqlOptionBuilder(connectionString);
 
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.AddPostgreSqlModelBuilder();
+            modelBuilder.AddMySqlModelBuilder();
         }
 
         public DbSet<Product> Products { get; set; }

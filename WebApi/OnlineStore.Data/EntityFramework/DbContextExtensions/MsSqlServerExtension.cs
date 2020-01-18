@@ -7,7 +7,7 @@ namespace OnlineStore.Data.EntityFramework.DbContextExtensions
 {
     public static class MsSqlServerExtension
     {
-        public static ModelBuilder AddSqlMsServerModelBuilder(this ModelBuilder modelBuilder)
+        public static ModelBuilder AddMsSqlServerModelBuilder(this ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Product>().ToTable("Products", schema: "dbo");
             modelBuilder.Entity<Category>().ToTable("Categories", schema: "dbo");
@@ -24,7 +24,7 @@ namespace OnlineStore.Data.EntityFramework.DbContextExtensions
             return modelBuilder;
         }
 
-        public static DbContextOptionsBuilder AddSqlServerOptionBuilder(this DbContextOptionsBuilder optionsBuilder,string connectionString)
+        public static DbContextOptionsBuilder AddMsSqlServerOptionBuilder(this DbContextOptionsBuilder optionsBuilder,string connectionString)
         {
             optionsBuilder.UseSqlServer(connectionString);
             return optionsBuilder;
