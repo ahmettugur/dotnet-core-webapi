@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj": {}
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj": {}
   },
   "projects": {
-    "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj",
+        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj",
         "projectName": "ATCommon.Logging.Contracts",
-        "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/obj/",
+        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj",
+        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "/Users/ahmettugur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -50,21 +50,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj": {
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj",
+        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj",
         "projectName": "ATCommon.Logging.Log4net",
-        "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Log4net/obj/",
+        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj",
+        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Log4net/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "/Users/ahmettugur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -75,8 +75,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj"
               }
             }
           }
@@ -122,7 +122,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     }

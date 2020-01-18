@@ -41,7 +41,8 @@ namespace OnlineStore.Business.Services
         [AfterLogAspect(typeof(JsonFileLogger))]
         public IResult<List<Category>> GetAll(Expression<Func<Category, bool>> predicate = null)
         {
-            return new Result<List<Category>>(200, _categoryRepository.GetAll(predicate).OrderByDescending(_ => _.Id).ToList());
+            var model = _categoryRepository.GetAll(predicate).OrderByDescending(_ => _.Id).ToList();
+            return new Result<List<Category>>(200, model);
         }
 
         public IResult<Category> Update(Category entity)

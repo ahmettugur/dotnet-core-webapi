@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj": {}
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj": {}
   },
   "projects": {
-    "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj": {
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj",
+        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj",
         "projectName": "ATCommon.Caching.Contracts",
-        "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/obj/",
+        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj",
+        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "/Users/ahmettugur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1426,19 +1426,19 @@
     ]
   },
   "packageFolders": {
-    "/home/ahmet/.nuget/packages/": {}
+    "/Users/ahmettugur/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.MQService/OnlineStore.MQService.csproj",
+      "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQService/OnlineStore.MQService.csproj",
       "projectName": "OnlineStore.MQService",
-      "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.MQService/OnlineStore.MQService.csproj",
-      "packagesPath": "/home/ahmet/.nuget/packages/",
-      "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.MQService/obj/",
+      "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQService/OnlineStore.MQService.csproj",
+      "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+      "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQService/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/ahmet/.config/NuGet/NuGet.Config"
+        "/Users/ahmettugur/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -1449,11 +1449,11 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj": {
-              "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj"
+            "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj": {
+              "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj"
             },
-            "/home/ahmet/Desktop/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj": {
-              "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj"
+            "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj": {
+              "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj"
             }
           }
         }
@@ -1489,7 +1489,13 @@
           "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
       }
     }
   }

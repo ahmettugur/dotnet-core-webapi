@@ -128,3 +128,16 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/OnlineStore.Entity
 /home/ahmet/Desktop/testapi/testapi/WebApi/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.csproj.CopyComplete
 /home/ahmet/Desktop/testapi/testapi/WebApi/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.dll
 /home/ahmet/Desktop/testapi/testapi/WebApi/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Entity.deps.json
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Entity.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Entity.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Core.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Core.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.csprojAssemblyReference.cache
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.AssemblyInfoInputs.cache
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.AssemblyInfo.cs
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.csproj.CopyComplete
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.pdb

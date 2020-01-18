@@ -69,3 +69,11 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/ATCommon.Logging.C
 /home/ahmet/Desktop/testapi/testapi/WebApi/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.AssemblyInfo.cs
 /home/ahmet/Desktop/testapi/testapi/WebApi/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.dll
 /home/ahmet/Desktop/testapi/testapi/WebApi/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.deps.json
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.csprojAssemblyReference.cache
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.AssemblyInfoInputs.cache
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.AssemblyInfo.cs
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.pdb

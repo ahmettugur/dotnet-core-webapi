@@ -21,14 +21,14 @@ namespace OnlineStore.Business.DependencyResolvers.Autofac
             builder.RegisterType<UserService>().As<IUserService>();
 
 
-            //builder.RegisterType<EFProductRepository>().As<IProductRepository>();
-            //builder.RegisterType<EFCategoryRepository>().As<ICategoryRepository>();
-            //builder.RegisterType<EFUserRepository>().As<IUserRespository>();
-            //builder.RegisterType<OnlineStoreContext>().As<DbContext>();
+            builder.RegisterType<EFProductRepository>().As<IProductRepository>();
+            builder.RegisterType<EFCategoryRepository>().As<ICategoryRepository>();
+            builder.RegisterType<EFUserRepository>().As<IUserRespository>();
+            builder.RegisterType<OnlineStoreContext>().As<DbContext>();
 
-            builder.RegisterType<DapperProductRepository>().As<IProductRepository>();
-            builder.RegisterType<DapperCategoryRepository>().As<ICategoryRepository>();
-            builder.RegisterType<DapperUserRepository>().As<IUserRespository>();
+            //builder.RegisterType<DapperProductRepository>().As<IProductRepository>();
+            //builder.RegisterType<DapperCategoryRepository>().As<ICategoryRepository>();
+            //builder.RegisterType<DapperUserRepository>().As<IUserRespository>();
 
 
         }

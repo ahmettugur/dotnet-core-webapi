@@ -69,3 +69,11 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/ATCommon.Utilities
 /home/ahmet/Desktop/testapi/testapi/WebApi/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.AssemblyInfo.cs
 /home/ahmet/Desktop/testapi/testapi/WebApi/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.dll
 /home/ahmet/Desktop/testapi/testapi/WebApi/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/bin/Debug/netcoreapp3.0/ATCommon.Utilities.deps.json
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.csprojAssemblyReference.cache
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.AssemblyInfoInputs.cache
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.AssemblyInfo.cs
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.pdb

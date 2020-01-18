@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/ahmet/Desktop/WebApi/OnlineStore.Business/OnlineStore.Business.csproj": {}
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/OnlineStore.Business.csproj": {}
   },
   "projects": {
-    "/home/ahmet/Desktop/WebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj": {
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj",
+        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj",
         "projectName": "ATCommon.Aspect.Contracts",
-        "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Aspect.Contracts/obj/",
+        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj",
+        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "/Users/ahmettugur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -50,21 +50,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ahmet/Desktop/WebApi/ATCommon.Aspect/ATCommon.Aspect.csproj": {
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect/ATCommon.Aspect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Aspect/ATCommon.Aspect.csproj",
+        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect/ATCommon.Aspect.csproj",
         "projectName": "ATCommon.Aspect",
-        "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Aspect/ATCommon.Aspect.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Aspect/obj/",
+        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect/ATCommon.Aspect.csproj",
+        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "/Users/ahmettugur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -75,14 +75,14 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/home/ahmet/Desktop/WebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj"
               },
-              "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj"
               },
-              "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj"
               }
             }
           }
@@ -120,21 +120,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj": {
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj",
+        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj",
         "projectName": "ATCommon.Caching.Contracts",
-        "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Caching.Contracts/obj/",
+        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj",
+        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "/Users/ahmettugur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -170,21 +170,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj",
+        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj",
         "projectName": "ATCommon.Logging.Contracts",
-        "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/obj/",
+        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj",
+        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "/Users/ahmettugur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -220,21 +220,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj": {
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj",
+        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj",
         "projectName": "ATCommon.Logging.Log4net",
-        "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Log4net/obj/",
+        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj",
+        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Log4net/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "/Users/ahmettugur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -245,8 +245,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj"
               }
             }
           }
@@ -292,21 +292,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj": {
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj",
+        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj",
         "projectName": "ATCommon.Utilities",
-        "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/obj/",
+        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj",
+        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "/Users/ahmettugur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -356,21 +356,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ahmet/Desktop/WebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj": {
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj",
+        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj",
         "projectName": "OnlineStore.Business.Contracts",
-        "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Business.Contracts/obj/",
+        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj",
+        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "/Users/ahmettugur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -381,11 +381,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj"
               },
-              "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj"
               }
             }
           }
@@ -413,21 +413,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ahmet/Desktop/WebApi/OnlineStore.Business/OnlineStore.Business.csproj": {
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/OnlineStore.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.Business/OnlineStore.Business.csproj",
+        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/OnlineStore.Business.csproj",
         "projectName": "OnlineStore.Business",
-        "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Business/OnlineStore.Business.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Business/obj/",
+        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/OnlineStore.Business.csproj",
+        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "/Users/ahmettugur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -438,26 +438,26 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/home/ahmet/Desktop/WebApi/ATCommon.Aspect/ATCommon.Aspect.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Aspect/ATCommon.Aspect.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect/ATCommon.Aspect.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect/ATCommon.Aspect.csproj"
               },
-              "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj"
               },
-              "/home/ahmet/Desktop/WebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj"
               },
-              "/home/ahmet/Desktop/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj"
               },
-              "/home/ahmet/Desktop/WebApi/OnlineStore.Data/OnlineStore.Data.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Data/OnlineStore.Data.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data/OnlineStore.Data.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data/OnlineStore.Data.csproj"
               },
-              "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj"
               },
-              "/home/ahmet/Desktop/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj"
               }
             }
           }
@@ -491,21 +491,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj",
+        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj",
         "projectName": "OnlineStore.Core.Contracts",
-        "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/obj/",
+        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj",
+        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "/Users/ahmettugur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -541,21 +541,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ahmet/Desktop/WebApi/OnlineStore.Core/OnlineStore.Core.csproj": {
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core/OnlineStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.Core/OnlineStore.Core.csproj",
+        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core/OnlineStore.Core.csproj",
         "projectName": "OnlineStore.Core",
-        "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core/OnlineStore.Core.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core/obj/",
+        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core/OnlineStore.Core.csproj",
+        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "/Users/ahmettugur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -566,8 +566,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj"
               }
             }
           }
@@ -613,21 +613,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ahmet/Desktop/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj": {
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj",
+        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj",
         "projectName": "OnlineStore.Data.Contracts",
-        "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Data.Contracts/obj/",
+        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj",
+        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "/Users/ahmettugur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -638,11 +638,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj"
               },
-              "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj"
               }
             }
           }
@@ -670,21 +670,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ahmet/Desktop/WebApi/OnlineStore.Data/OnlineStore.Data.csproj": {
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data/OnlineStore.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.Data/OnlineStore.Data.csproj",
+        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data/OnlineStore.Data.csproj",
         "projectName": "OnlineStore.Data",
-        "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Data/OnlineStore.Data.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Data/obj/",
+        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data/OnlineStore.Data.csproj",
+        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "/Users/ahmettugur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -695,11 +695,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/home/ahmet/Desktop/WebApi/OnlineStore.Core/OnlineStore.Core.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core/OnlineStore.Core.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core/OnlineStore.Core.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core/OnlineStore.Core.csproj"
               },
-              "/home/ahmet/Desktop/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj"
               }
             }
           }
@@ -733,6 +733,10 @@
               "target": "Package",
               "version": "[3.0.0, )"
             },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.7.0, )"
@@ -753,21 +757,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj": {
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj",
+        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj",
         "projectName": "OnlineStore.Entity",
-        "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Entity/obj/",
+        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj",
+        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "/Users/ahmettugur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -778,11 +782,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj"
               },
-              "/home/ahmet/Desktop/WebApi/OnlineStore.Core/OnlineStore.Core.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core/OnlineStore.Core.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core/OnlineStore.Core.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core/OnlineStore.Core.csproj"
               }
             }
           }
@@ -810,21 +814,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ahmet/Desktop/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj": {
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj",
+        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj",
         "projectName": "OnlineStore.MQ",
-        "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.MQ/obj/",
+        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/OnlineStore.MQ.csproj",
+        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "/Users/ahmettugur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -835,11 +839,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj"
               },
-              "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj"
               }
             }
           }
@@ -877,7 +881,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     }

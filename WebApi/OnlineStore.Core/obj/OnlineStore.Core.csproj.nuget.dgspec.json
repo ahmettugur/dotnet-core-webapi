@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/ahmet/Desktop/WebApi/OnlineStore.Core/OnlineStore.Core.csproj": {}
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core/OnlineStore.Core.csproj": {}
   },
   "projects": {
-    "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj",
+        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj",
         "projectName": "OnlineStore.Core.Contracts",
-        "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/obj/",
+        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj",
+        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "/Users/ahmettugur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -50,21 +50,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/home/ahmet/Desktop/WebApi/OnlineStore.Core/OnlineStore.Core.csproj": {
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core/OnlineStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.Core/OnlineStore.Core.csproj",
+        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core/OnlineStore.Core.csproj",
         "projectName": "OnlineStore.Core",
-        "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core/OnlineStore.Core.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core/obj/",
+        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core/OnlineStore.Core.csproj",
+        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ahmet/.nuget/NuGet/NuGet.Config"
+          "/Users/ahmettugur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -75,8 +75,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
-                "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj"
+              "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
+                "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj"
               }
             }
           }
@@ -122,7 +122,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     }

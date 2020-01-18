@@ -128,3 +128,16 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/OnlineStore.MQ/obj
 /home/ahmet/Desktop/testapi/testapi/WebApi/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.csproj.CopyComplete
 /home/ahmet/Desktop/testapi/testapi/WebApi/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.dll
 /home/ahmet/Desktop/testapi/testapi/WebApi/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.MQ.deps.json
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.MQ.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.MQ.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.csprojAssemblyReference.cache
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.AssemblyInfoInputs.cache
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.AssemblyInfo.cs
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.csproj.CopyComplete
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.pdb

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/ahmet/Desktop/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj": {}
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj": {}
   },
   "projects": {
-    "/home/ahmet/Desktop/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj": {
+    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
+        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
         "projectName": "OnlineStore.GrpcClient",
-        "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
-        "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.GrpcClient/obj/",
+        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
+        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/ahmet/.config/NuGet/NuGet.Config"
+          "/Users/ahmettugur/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -60,7 +60,13 @@
             "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     }

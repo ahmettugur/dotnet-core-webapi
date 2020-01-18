@@ -67,19 +67,19 @@
     ]
   },
   "packageFolders": {
-    "/home/ahmet/.nuget/packages/": {}
+    "/Users/ahmettugur/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Logging/ATCommon.Logging.csproj",
+      "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/ATCommon.Logging.csproj",
       "projectName": "ATCommon.Logging",
-      "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging/ATCommon.Logging.csproj",
-      "packagesPath": "/home/ahmet/.nuget/packages/",
-      "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging/obj/",
+      "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/ATCommon.Logging.csproj",
+      "packagesPath": "/Users/ahmettugur/.nuget/packages/",
+      "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/ahmet/.config/NuGet/NuGet.Config"
+        "/Users/ahmettugur/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -90,8 +90,8 @@
       "frameworks": {
         "netcoreapp3.0": {
           "projectReferences": {
-            "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
-              "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj"
+            "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
+              "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj"
             }
           }
         }
@@ -119,7 +119,13 @@
           "net48"
         ],
         "assetTargetFallback": true,
-        "warn": true
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
       }
     }
   }

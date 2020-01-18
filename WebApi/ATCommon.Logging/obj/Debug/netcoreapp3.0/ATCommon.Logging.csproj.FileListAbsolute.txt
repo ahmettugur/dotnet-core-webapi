@@ -75,3 +75,14 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/ATCommon.Logging/o
 /home/ahmet/Desktop/WebApi/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.csproj.CopyComplete
 /home/ahmet/Desktop/WebApi/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.dll
 /home/ahmet/Desktop/WebApi/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/bin/Debug/netcoreapp3.0/ATCommon.Logging.deps.json
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/bin/Debug/netcoreapp3.0/ATCommon.Logging.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/bin/Debug/netcoreapp3.0/ATCommon.Logging.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.csprojAssemblyReference.cache
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.AssemblyInfoInputs.cache
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.AssemblyInfo.cs
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.csproj.CopyComplete
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.pdb

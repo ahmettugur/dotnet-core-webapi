@@ -11,6 +11,7 @@
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="3.0.0" />
     <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.0.0" />
     <PackageReference Include="System.Data.SqlClient" Version="4.7.0" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="3.0.0" />
   </ItemGroup>
 
   <ItemGroup>
@@ -18,4 +19,13 @@
     <ProjectReference Include="..\OnlineStore.Data.Contracts\OnlineStore.Data.Contracts.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="EntityFramework\Mappings\" />
+    <Folder Include="EntityFramework\Mappings\PostgreSQL\" />
+    <Folder Include="EntityFramework\Mappings\SqlServer\" />
+    <Folder Include="EntityFramework\DbContextExtensions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="EntityFramework\Contexts\OnlineStoreSqlServerContext.cs" />
+  </ItemGroup>
 </Project>

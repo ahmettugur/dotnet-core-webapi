@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-using OnlineStore.Data.EntityFramework.Mappings;
+using OnlineStore.Data.EntityFramework.Mappings.PostgreSQL;
+using OnlineStore.Data.EntityFramework.DbContextExtensions;
 using OnlineStore.Entity.Concrete;
 using System.IO;
 
@@ -19,24 +20,13 @@ namespace OnlineStore.Data.EntityFramework
 
             string connectionString = Configuration.GetConnectionString("OnlineStoreContext");
 
-            optionsBuilder.UseSqlServer(connectionString);
+            optionsBuilder.AddPostgreSqlOptionBuilder(connectionString);
 
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-
-            modelBuilder.Entity<Product>().ToTable("Products", schema: "dbo");
-            modelBuilder.Entity<Category>().ToTable("Categories", schema: "dbo");
-            modelBuilder.Entity<User>().ToTable("Users", schema: "dbo");
-            modelBuilder.Entity<Role>().ToTable("Roles", schema: "dbo");
-            modelBuilder.Entity<UserRole>().ToTable("UserRoles", schema: "dbo");
-
-            modelBuilder.ApplyConfiguration(new ProductMap());
-            modelBuilder.ApplyConfiguration(new CategoryMap());
-            modelBuilder.ApplyConfiguration(new UserMap());
-            modelBuilder.ApplyConfiguration(new RoleMap());
-            modelBuilder.ApplyConfiguration(new UserRoleMap());
+            modelBuilder.AddPostgreSqlModelBuilder();
         }
 
         public DbSet<Product> Products { get; set; }

@@ -1,0 +1,63 @@
+﻿<Properties StartupConfiguration="{7E87CD06-F5C9-4253-9050-1CCD19676652}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnlineStore.API/Models/LoginViewModel.cs">
+    <Files>
+      <File FileName="OnlineStore.Business/DependencyResolvers/Autofac/AutofacBusinessModule.cs" Line="31" Column="15" />
+      <File FileName="OnlineStore.API/Program.cs" Line="1" Column="1" />
+      <File FileName="OnlineStore.API/Startup.cs" Line="1" Column="1" />
+      <File FileName="OnlineStore.Data/EntityFramework/DbContextExtensions/SqlServerExtension.cs" Line="10" Column="44" />
+      <File FileName="OnlineStore.Data/EntityFramework/DbContextExtensions/PostgreSqlExtension.cs" Line="7" Column="2" />
+      <File FileName="OnlineStore.API/Controllers/ProductsController.cs" Line="41" Column="16" />
+      <File FileName="OnlineStore.API/Controllers/TokenController.cs" Line="35" Column="52" />
+      <File FileName="OnlineStore.API/Models/LoginViewModel.cs" Line="9" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="OnlineStore" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="OnlineStore.API" expanded="True">
+                <Node name="Controllers" expanded="True" />
+                <Node name="Models" expanded="True">
+                  <Node name="LoginViewModel.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Aspect" expanded="True">
+              <Node name="ATCommon.Aspect.Contracts" expanded="True">
+                <Node name="Proxy" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Business" expanded="True">
+              <Node name="OnlineStore.Business" expanded="True">
+                <Node name="DependencyResolvers" expanded="True">
+                  <Node name="Autofac" expanded="True" />
+                </Node>
+                <Node name="Services" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Data" expanded="True">
+              <Node name="OnlineStore.Data" expanded="True">
+                <Node name="EntityFramework" expanded="True">
+                  <Node name="DbContextExtensions" expanded="True" />
+                  <Node name="Mappings" expanded="True">
+                    <Node name="PostgreSQL" expanded="True" />
+                    <Node name="SqlServer" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data/EntityFramework/743a3wo4.zjy~" relfile="OnlineStore.Data/EntityFramework/743a3wo4.zjy~" line="43" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.API.OnlineStore.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

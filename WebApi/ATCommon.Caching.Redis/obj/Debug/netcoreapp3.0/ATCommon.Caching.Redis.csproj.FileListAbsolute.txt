@@ -76,3 +76,16 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/ATCommon.Caching.R
 /home/ahmet/Desktop/WebApi/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.csproj.CopyComplete
 /home/ahmet/Desktop/WebApi/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.dll
 /home/ahmet/Desktop/WebApi/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Caching.Redis.deps.json
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Caching.Redis.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Caching.Redis.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.csprojAssemblyReference.cache
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.AssemblyInfoInputs.cache
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.AssemblyInfo.cs
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.csproj.CopyComplete
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.pdb
