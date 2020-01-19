@@ -1,12 +1,5 @@
 ﻿<Properties StartupConfiguration="{7E87CD06-F5C9-4253-9050-1CCD19676652}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="OnlineStore.Data/EntityFramework/OnlineStoreContext.cs">
-    <Files>
-      <File FileName="OnlineStore.Data/EntityFramework/DbContextExtensions/MySqlExtension.cs" Line="3" Column="1" />
-      <File FileName="OnlineStore.Data/EntityFramework/DbContextExtensions/PostgreSqlExtension.cs" Line="12" Column="7" />
-      <File FileName="OnlineStore.API/appsettings.json" Line="13" Column="88" />
-      <File FileName="OnlineStore.Data/EntityFramework/DbContextExtensions/MsSqlServerExtension.cs" Line="1" Column="1" />
-      <File FileName="OnlineStore.Data/EntityFramework/OnlineStoreContext.cs" Line="29" Column="32" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -14,16 +7,19 @@
             <Node name="API" expanded="True">
               <Node name="OnlineStore.API" expanded="True" />
             </Node>
+            <Node name="Core" expanded="True">
+              <Node name="OnlineStore.Core" expanded="True">
+                <Node name="Repository" expanded="True">
+                  <Node name="Dapper" expanded="True">
+                    <Node name="DynamicQueryResult.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
             <Node name="Data" expanded="True">
               <Node name="OnlineStore.Data" expanded="True">
                 <Node name="EntityFramework" expanded="True">
                   <Node name="DbContextExtensions" expanded="True" />
-                  <Node name="Mappings" expanded="True">
-                    <Node name="MySql" expanded="True" />
-                    <Node name="PostgreSQL" expanded="True" />
-                    <Node name="SqlServer" expanded="True" />
-                  </Node>
-                  <Node name="OnlineStoreContext.cs" selected="True" />
                 </Node>
               </Node>
             </Node>
