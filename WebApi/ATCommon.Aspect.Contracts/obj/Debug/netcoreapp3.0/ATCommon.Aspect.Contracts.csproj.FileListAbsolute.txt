@@ -77,3 +77,4 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/ATCommon.Aspect.Co
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.AssemblyInfo.cs
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.csproj.CoreCompileInputs.cache

@@ -86,3 +86,4 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/ATCommon.Logging/o
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.csproj.CopyComplete
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.csproj.CoreCompileInputs.cache

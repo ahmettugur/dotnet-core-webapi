@@ -148,3 +148,4 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/ATCommon.Aspect/ob
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect/obj/Debug/netcoreapp3.0/ATCommon.Aspect.csproj.CopyComplete
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect/obj/Debug/netcoreapp3.0/ATCommon.Aspect.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect/obj/Debug/netcoreapp3.0/ATCommon.Aspect.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect/obj/Debug/netcoreapp3.0/ATCommon.Aspect.csproj.CoreCompileInputs.cache

@@ -16,12 +16,14 @@ namespace OnlineStore.Data.EntityFramework.DbContextExtensions
             modelBuilder.Entity<User>().ToTable("users");
             modelBuilder.Entity<Role>().ToTable("roles");
             modelBuilder.Entity<UserRole>().ToTable("user_roles");
+            modelBuilder.Entity<Log>().ToTable("log");
 
             modelBuilder.ApplyConfiguration(new ProductMap());
             modelBuilder.ApplyConfiguration(new CategoryMap());
             modelBuilder.ApplyConfiguration(new UserMap());
             modelBuilder.ApplyConfiguration(new RoleMap());
             modelBuilder.ApplyConfiguration(new UserRoleMap());
+            modelBuilder.ApplyConfiguration(new LogMap());
 
             return modelBuilder;
         }

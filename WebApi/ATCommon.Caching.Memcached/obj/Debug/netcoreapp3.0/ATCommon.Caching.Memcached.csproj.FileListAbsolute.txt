@@ -89,3 +89,4 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/ATCommon.Caching.M
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.csproj.CopyComplete
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.csproj.CoreCompileInputs.cache

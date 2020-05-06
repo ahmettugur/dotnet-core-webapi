@@ -18,4 +18,7 @@
     <ProjectReference Include="..\ATCommon.Logging.Log4net\ATCommon.Logging.Log4net.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Aspects\" />
+  </ItemGroup>
 </Project>

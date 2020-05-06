@@ -117,7 +117,6 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/OnlineStore.GrpcCl
 /home/ahmet/Desktop/WebApi/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.csproj.CopyComplete
 /home/ahmet/Desktop/WebApi/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.dll
 /home/ahmet/Desktop/WebApi/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.pdb
-/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/OnlineStore.GrpcClient
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/OnlineStore.GrpcClient.deps.json
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/OnlineStore.GrpcClient.runtimeconfig.json
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/OnlineStore.GrpcClient.runtimeconfig.dev.json
@@ -134,3 +133,5 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/OnlineStore.GrpcCl
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.csproj.CopyComplete
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.csproj.CoreCompileInputs.cache
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.genruntimeconfig.cache

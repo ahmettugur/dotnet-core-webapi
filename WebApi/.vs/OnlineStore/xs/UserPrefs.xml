@@ -3,27 +3,7 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="OnlineStore" expanded="True">
-            <Node name="API" expanded="True">
-              <Node name="OnlineStore.API" expanded="True" />
-            </Node>
-            <Node name="Core" expanded="True">
-              <Node name="OnlineStore.Core" expanded="True">
-                <Node name="Repository" expanded="True">
-                  <Node name="Dapper" expanded="True">
-                    <Node name="DynamicQueryResult.cs" selected="True" />
-                  </Node>
-                </Node>
-              </Node>
-            </Node>
-            <Node name="Data" expanded="True">
-              <Node name="OnlineStore.Data" expanded="True">
-                <Node name="EntityFramework" expanded="True">
-                  <Node name="DbContextExtensions" expanded="True" />
-                </Node>
-              </Node>
-            </Node>
-          </Node>
+          <Node name="OnlineStore" expanded="True" />
         </State>
       </Pad>
     </Pads>
@@ -33,6 +13,7 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data/EntityFramework/743a3wo4.zjy~" relfile="OnlineStore.Data/EntityFramework/743a3wo4.zjy~" line="43" column="1" />
+      <Breakpoint file="/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/Services/CategoryService.cs" relfile="OnlineStore.Business/Services/CategoryService.cs" line="37" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

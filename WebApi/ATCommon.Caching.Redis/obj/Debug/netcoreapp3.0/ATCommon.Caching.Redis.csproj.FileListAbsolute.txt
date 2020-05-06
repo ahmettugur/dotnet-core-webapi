@@ -89,3 +89,4 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/ATCommon.Caching.R
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.csproj.CopyComplete
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.csproj.CoreCompileInputs.cache

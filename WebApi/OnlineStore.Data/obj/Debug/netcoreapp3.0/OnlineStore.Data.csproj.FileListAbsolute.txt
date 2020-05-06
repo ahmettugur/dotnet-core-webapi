@@ -185,3 +185,4 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/OnlineStore.Data/o
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data/obj/Debug/netcoreapp3.0/OnlineStore.Data.csproj.CopyComplete
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data/obj/Debug/netcoreapp3.0/OnlineStore.Data.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data/obj/Debug/netcoreapp3.0/OnlineStore.Data.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data/obj/Debug/netcoreapp3.0/OnlineStore.Data.csproj.CoreCompileInputs.cache

@@ -163,3 +163,4 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/OnlineStore.Data.C
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Data.Contracts.csproj.CopyComplete
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Data.Contracts.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Data.Contracts.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Data.Contracts.csproj.CoreCompileInputs.cache

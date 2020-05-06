@@ -2,6 +2,7 @@
 using ATCommon.Logging.Log4net.Loggers;
 using ATCommon.Utilities.Response;
 using OnlineStore.Business.Contracts;
+using OnlineStore.Business.DependencyResolvers.Autofac;
 using OnlineStore.Data.Contracts;
 using OnlineStore.Entity.Concrete;
 using System;
