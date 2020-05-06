@@ -3,7 +3,11 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="OnlineStore" expanded="True" />
+          <Node name="OnlineStore" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="OnlineStore.API" expanded="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
