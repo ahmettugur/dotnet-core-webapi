@@ -14,6 +14,7 @@ namespace OnlineStore.Data.EntityFramework.Mappings.MySql
             builder.Property(_ => _.Id).HasColumnName("id");
             builder.Property(_ => _.CreateDate).HasColumnName("create_date");
             builder.Property(_ => _.LogDetail).HasColumnName("log_detail");
+            builder.Property(_ => _.LogName).HasColumnName("log_name");
         }
     }
 }

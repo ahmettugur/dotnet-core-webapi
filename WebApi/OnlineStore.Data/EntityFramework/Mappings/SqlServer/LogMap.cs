@@ -14,6 +14,7 @@ namespace OnlineStore.Data.EntityFramework.Mappings.SqlServer
             builder.Property(_ => _.Id).HasColumnName("Id");
             builder.Property(_ => _.CreateDate).HasColumnName("CreateDate");
             builder.Property(_ => _.LogDetail).HasColumnName("LogDetail");
+            builder.Property(_ => _.LogName).HasColumnName("LogName");
         }
     }
 }

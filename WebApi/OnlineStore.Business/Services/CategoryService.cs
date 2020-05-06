@@ -3,6 +3,7 @@ using ATCommon.Logging.Log4net.Loggers;
 using ATCommon.Utilities.Response;
 using OnlineStore.Business.Contracts;
 using OnlineStore.Business.DependencyResolvers.Autofac;
+using OnlineStore.Business.Logging;
 using OnlineStore.Data.Contracts;
 using OnlineStore.Entity.Concrete;
 using System;
@@ -39,7 +40,7 @@ namespace OnlineStore.Business.Services
         }
 
         [BeforeLogAspect(typeof(JsonFileLogger))]
-        [AfterLogAspect(typeof(JsonFileLogger))]
+        [AfterLogAspect(typeof(DatabaseLogger))]
         public IResult<List<Category>> GetAll(Expression<Func<Category, bool>> predicate = null)
         {
             var model = _categoryRepository.GetAll(predicate).OrderByDescending(_ => _.Id).ToList();

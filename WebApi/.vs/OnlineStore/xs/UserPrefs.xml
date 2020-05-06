@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{7E87CD06-F5C9-4253-9050-1CCD19676652}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnlineStore.Business/Logging/DatabaseLogger.cs">
+    <Files>
+      <File FileName="OnlineStore.Business/Logging/DatabaseLogger.cs" Line="11" Column="1" />
+      <File FileName="OnlineStore.Business/Services/CategoryService.cs" Line="24" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="OnlineStore" expanded="True">
-            <Node name="API" expanded="True">
-              <Node name="OnlineStore.API" expanded="True" />
-            </Node>
-          </Node>
+          <Node name="OnlineStore" expanded="True" />
         </State>
       </Pad>
     </Pads>
@@ -17,7 +17,6 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data/EntityFramework/743a3wo4.zjy~" relfile="OnlineStore.Data/EntityFramework/743a3wo4.zjy~" line="43" column="1" />
-      <Breakpoint file="/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/Services/CategoryService.cs" relfile="OnlineStore.Business/Services/CategoryService.cs" line="37" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

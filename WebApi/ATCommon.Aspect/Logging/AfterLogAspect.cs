@@ -8,7 +8,7 @@ namespace ATCommon.Aspect.Logging
 {
     public class AfterLogAspect: InterceptionAttribute, IAfterInterception
     {
-                private readonly Type _loggerType;
+        private readonly Type _loggerType;
         private readonly ICommonLogger _logger;
 
         public AfterLogAspect(Type loggerType)

@@ -145,9 +145,9 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/OnlineStore.MQServ
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.Core.pdb
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.pdb
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.csprojAssemblyReference.cache
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.csproj.CoreCompileInputs.cache
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.AssemblyInfoInputs.cache
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.AssemblyInfo.cs
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.csproj.CopyComplete
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.pdb
-/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.csproj.CoreCompileInputs.cache

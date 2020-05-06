@@ -80,9 +80,9 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/OnlineStore.Core.C
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.deps.json
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.csproj.CoreCompileInputs.cache
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.AssemblyInfoInputs.cache
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.AssemblyInfo.cs
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.pdb
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.csprojAssemblyReference.cache
-/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.csproj.CoreCompileInputs.cache

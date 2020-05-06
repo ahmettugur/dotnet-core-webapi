@@ -9,6 +9,7 @@ namespace OnlineStore.Entity.Concrete
         [PrimaryKey]
         public int Id { get; set; }
         public DateTime CreateDate { get; set; }
+        public string LogName { get; set; }
         public string LogDetail { get; set; }
 
     }

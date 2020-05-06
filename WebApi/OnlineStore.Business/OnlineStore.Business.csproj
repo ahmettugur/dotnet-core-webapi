@@ -19,6 +19,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Aspects\" />
+    <Folder Include="Logging\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Aspects\LogAspect\DatabaseLogger.cs" />
   </ItemGroup>
 </Project>

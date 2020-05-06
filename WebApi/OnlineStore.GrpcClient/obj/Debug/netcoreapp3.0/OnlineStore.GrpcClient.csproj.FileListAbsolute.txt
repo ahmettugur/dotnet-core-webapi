@@ -128,10 +128,10 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/OnlineStore.GrpcCl
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/Grpc.Net.Common.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.csprojAssemblyReference.cache
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.csproj.CoreCompileInputs.cache
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.AssemblyInfoInputs.cache
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.AssemblyInfo.cs
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.csproj.CopyComplete
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.pdb
-/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.csproj.CoreCompileInputs.cache
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.genruntimeconfig.cache
