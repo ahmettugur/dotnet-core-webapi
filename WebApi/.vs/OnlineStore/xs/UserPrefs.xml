@@ -1,13 +1,51 @@
 ﻿<Properties StartupConfiguration="{7E87CD06-F5C9-4253-9050-1CCD19676652}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="OnlineStore.Business/Logging/DatabaseLogger.cs">
-    <Files>
-      <File FileName="OnlineStore.Business/Logging/DatabaseLogger.cs" Line="11" Column="1" />
-      <File FileName="OnlineStore.Business/Services/CategoryService.cs" Line="24" Column="1" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="OnlineStore" expanded="True" />
+          <Node name="OnlineStore" expanded="True">
+            <Node name="API" expanded="True">
+              <Node name="OnlineStore.API" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="FrameworkReferences" expanded="True" />
+                </Node>
+                <Node name="Controllers" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Aspect" expanded="True">
+              <Node name="ATCommon.Aspect" expanded="True">
+                <Node name="Authorization" expanded="True" />
+              </Node>
+              <Node name="ATCommon.Aspect.Contracts" expanded="True">
+                <Node name="Proxy" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Business" expanded="True">
+              <Node name="OnlineStore.Business" expanded="True">
+                <Node name="BusinessAspects" expanded="True">
+                  <Node name="Authorization" expanded="True" />
+                </Node>
+                <Node name="DependencyResolvers" expanded="True">
+                  <Node name="Autofac" expanded="True" />
+                </Node>
+                <Node name="Services" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Core" expanded="True">
+              <Node name="OnlineStore.Core" expanded="True">
+                <Node name="Repository" expanded="True">
+                  <Node name="EntityFramework" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Utilities" expanded="True">
+              <Node name="ATCommon.Utilities" expanded="True">
+                <Node name="Response" expanded="True">
+                  <Node name="Result.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
@@ -17,6 +55,7 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data/EntityFramework/743a3wo4.zjy~" relfile="OnlineStore.Data/EntityFramework/743a3wo4.zjy~" line="43" column="1" />
+      <Breakpoint file="/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect/Authorization/AuthorizationAspect.cs" relfile="ATCommon.Aspect/Authorization/AuthorizationAspect.cs" line="14" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

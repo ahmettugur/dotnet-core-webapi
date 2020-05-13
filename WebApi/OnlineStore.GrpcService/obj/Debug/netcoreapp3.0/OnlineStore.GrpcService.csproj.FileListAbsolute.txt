@@ -572,6 +572,9 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/OnlineStore.GrpcSe
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Relational.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.SqlServer.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/Microsoft.Identity.Client.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Logging.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Tokens.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/MySqlConnector.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/Newtonsoft.Json.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/Npgsql.dll
@@ -581,8 +584,8 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/OnlineStore.GrpcSe
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/RabbitMQ.Client.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/System.Configuration.ConfigurationManager.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/System.Data.SqlClient.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/System.Runtime.Caching.dll
-/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll

@@ -1,11 +1,14 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj",
+    "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj",
     "projectName": "ATCommon.Logging.Log4net",
-    "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj",
-    "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Log4net/obj/",
+    "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj",
+    "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Log4net/obj/",
     "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
     "originalTargetFrameworks": [
       "netcoreapp3.0"
     ],
@@ -15,8 +18,8 @@
     "frameworks": {
       "netcoreapp3.0": {
         "projectReferences": {
-          "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
-            "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj"
+          "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
+            "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj"
           }
         }
       }
@@ -56,7 +59,13 @@
         "net48"
       ],
       "assetTargetFallback": true,
-      "warn": true
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
     }
   }
 }

@@ -74,3 +74,22 @@
     }
   }
 }
+{
+  "Message": {
+    "LogName": "GetAll",
+    "Message": "",
+    "Path": "",
+    "LogDetail": {
+      "MethodCallDate": "2020-05-07T00:56:50.826476+03:00",
+      "ClassName": "OnlineStore.Business.Services.CategoryService",
+      "MethodName": "GetAll",
+      "Parameters": [
+        {
+          "Name": "predicate",
+          "Type": "Expression`1",
+          "Value": null
+        }
+      ]
+    }
+  }
+}

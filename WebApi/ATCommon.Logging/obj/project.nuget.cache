@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zDyZjwJaBMewosGFVP5hMW/t17NKedJul9Aj3iTaS/RbdJACmAGQXy3wYvStZBrIsBIwNMfwrMmQ7RF1+pullw==",
+  "success": true,
+  "projectFilePath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/ATCommon.Logging.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmettugur/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

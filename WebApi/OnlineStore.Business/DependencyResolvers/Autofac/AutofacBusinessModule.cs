@@ -9,6 +9,8 @@ using OnlineStore.Data.EntityFramework.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using ATCommon.Utilities.Security.Jwt;
+using Microsoft.AspNetCore.Http;
 
 namespace OnlineStore.Business.DependencyResolvers.Autofac
 {
@@ -27,6 +29,12 @@ namespace OnlineStore.Business.DependencyResolvers.Autofac
             builder.RegisterType<EFUserRepository>().As<IUserRespository>();
             builder.RegisterType<EFLogRepository>().As<ILogRepository>();
             builder.RegisterType<OnlineStoreContext>().As<DbContext>();
+            
+            builder.RegisterType<JwtHelper>().As<ITokenHelper>();
+            
+            builder.RegisterType<HttpContextAccessor>().As<IHttpContextAccessor>();
+            
+            
 
             //builder.RegisterType<DapperProductRepository>().As<IProductRepository>();
             //builder.RegisterType<DapperCategoryRepository>().As<ICategoryRepository>();

@@ -1,11 +1,14 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj",
+    "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj",
     "projectName": "ATCommon.Utilities",
-    "projectPath": "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj",
-    "outputPath": "/home/ahmet/Desktop/WebApi/ATCommon.Utilities/obj/",
+    "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj",
+    "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/obj/",
     "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
     "originalTargetFrameworks": [
       "netcoreapp3.0"
     ],
@@ -14,7 +17,11 @@
     },
     "frameworks": {
       "netcoreapp3.0": {
-        "projectReferences": {}
+        "projectReferences": {
+          "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj": {
+            "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj"
+          }
+        }
       }
     },
     "warningProperties": {
@@ -34,9 +41,17 @@
           "target": "Package",
           "version": "[3.0.0, )"
         },
+        "Microsoft.IdentityModel.Tokens": {
+          "target": "Package",
+          "version": "[5.5.0, )"
+        },
         "Newtonsoft.Json": {
           "target": "Package",
           "version": "[12.0.2, )"
+        },
+        "System.IdentityModel.Tokens.Jwt": {
+          "target": "Package",
+          "version": "[5.5.0, )"
         }
       },
       "imports": [
@@ -48,7 +63,13 @@
         "net48"
       ],
       "assetTargetFallback": true,
-      "warn": true
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
     }
   }
 }

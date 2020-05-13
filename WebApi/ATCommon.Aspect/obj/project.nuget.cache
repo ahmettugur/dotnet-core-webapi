@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EUzRvMEnbXAE0Ib8KxTQSJLG6PINsBlRD551F4aBlnXjjwPcnfJ/35zh+4Bv9WuiAcsg2CuZA5oR8GUvfMWwGw==",
+  "success": true,
+  "projectFilePath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect/ATCommon.Aspect.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmettugur/.nuget/packages/fluentvalidation/8.5.0/fluentvalidation.8.5.0.nupkg.sha512",
+    "/Users/ahmettugur/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/ahmettugur/.nuget/packages/system.componentmodel.annotations/4.4.1/system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

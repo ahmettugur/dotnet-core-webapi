@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using ATCommon.Utilities.Response;
 using System.Linq.Expressions;
+using ATCommon.Utilities.Security.Jwt;
 
 namespace OnlineStore.Business.Contracts
 {
@@ -14,6 +15,7 @@ namespace OnlineStore.Business.Contracts
         IResult<User> Update(User entity);
         IResult<int> Delete(User entity);
         IResult<string[]> GetUserRoles(User user);
+        IResult<AccessToken> CreateAccessToken(User user);
 
     }
 }

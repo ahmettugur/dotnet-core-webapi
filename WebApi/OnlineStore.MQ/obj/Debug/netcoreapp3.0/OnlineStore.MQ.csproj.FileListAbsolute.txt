@@ -133,8 +133,12 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/OnlineStore.MQ/obj
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.MQ.pdb
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.Core.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.Entity.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.Core.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.Entity.pdb
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.csprojAssemblyReference.cache
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.csproj.CoreCompileInputs.cache
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.AssemblyInfoInputs.cache

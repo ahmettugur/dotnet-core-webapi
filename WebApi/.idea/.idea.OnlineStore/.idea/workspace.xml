@@ -1,42 +1,1106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="aeb052b0-3d3e-4a98-b53b-01af40aecfb1" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="aeb052b0-3d3e-4a98-b53b-01af40aecfb1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.deps 3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.deps 4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts 3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts 3.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.AssemblyInfo 3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.AssemblyInfo 4.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.AssemblyInfoInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.AssemblyInfoInputs 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.csprojAssemblyReference 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.csprojAssemblyReference 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/bin/Debug/netcoreapp3.0/ATCommon.Aspect 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/bin/Debug/netcoreapp3.0/ATCommon.Aspect 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/bin/Debug/netcoreapp3.0/ATCommon.Aspect 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/bin/Debug/netcoreapp3.0/ATCommon.Aspect 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/bin/Debug/netcoreapp3.0/ATCommon.Aspect.deps 4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/bin/Debug/netcoreapp3.0/ATCommon.Aspect.deps 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/Debug/netcoreapp3.0/ATCommon.Aspect 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/Debug/netcoreapp3.0/ATCommon.Aspect 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/Debug/netcoreapp3.0/ATCommon.Aspect 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/Debug/netcoreapp3.0/ATCommon.Aspect 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/Debug/netcoreapp3.0/ATCommon.Aspect.AssemblyInfo 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/Debug/netcoreapp3.0/ATCommon.Aspect.AssemblyInfo 6.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/Debug/netcoreapp3.0/ATCommon.Aspect.AssemblyInfoInputs 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/Debug/netcoreapp3.0/ATCommon.Aspect.AssemblyInfoInputs 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/Debug/netcoreapp3.0/ATCommon.Aspect.csproj 4.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/Debug/netcoreapp3.0/ATCommon.Aspect.csproj 5.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/Debug/netcoreapp3.0/ATCommon.Aspect.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/Debug/netcoreapp3.0/ATCommon.Aspect.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/Debug/netcoreapp3.0/ATCommon.Aspect.csprojAssemblyReference 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/Debug/netcoreapp3.0/ATCommon.Aspect.csprojAssemblyReference 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.deps 4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.deps 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.AssemblyInfo 4.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.AssemblyInfo 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.AssemblyInfoInputs 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.AssemblyInfoInputs 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.csprojAssemblyReference 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.csprojAssemblyReference 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/ATCommon.Caching.Memcached 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/ATCommon.Caching.Memcached 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/ATCommon.Caching.Memcached 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.deps 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.deps 6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/ATCommon.Utilities 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/ATCommon.Utilities 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/OnlineStore.Core 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/OnlineStore.Core 2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/OnlineStore.Core 3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 3.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/OnlineStore.Entity 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/OnlineStore.Entity 2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/ATCommon.Caching.Memcached.csproj.nuget 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/ATCommon.Caching.Memcached.csproj.nuget.g 2.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.AssemblyInfo 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.AssemblyInfo 6.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.AssemblyInfoInputs 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.AssemblyInfoInputs 6.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.csproj 5.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.csproj 6.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.csprojAssemblyReference 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.csprojAssemblyReference 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/project.assets 2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Caching.Redis 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Caching.Redis 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Caching.Redis 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Caching.Redis 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Caching.Redis.deps 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Caching.Redis.deps 6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Utilities 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Utilities 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Utilities 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Abstractions 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/OnlineStore.Core 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/OnlineStore.Core 2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/OnlineStore.Core 3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 3.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/OnlineStore.Entity 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/OnlineStore.Entity 2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/OnlineStore.Entity 3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/ATCommon.Caching.Redis.csproj.nuget 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/ATCommon.Caching.Redis.csproj.nuget.g 2.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.AssemblyInfo 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.AssemblyInfo 6.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.AssemblyInfoInputs 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.AssemblyInfoInputs 6.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.csproj 5.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.csproj 6.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.csprojAssemblyReference 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.csprojAssemblyReference 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/project.assets 2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.deps 4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.deps 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.AssemblyInfo 4.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.AssemblyInfo 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.AssemblyInfoInputs 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.AssemblyInfoInputs 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/bin/Debug/netcoreapp3.0/ATCommon.Logging.Log4net 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/bin/Debug/netcoreapp3.0/ATCommon.Logging.Log4net 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/bin/Debug/netcoreapp3.0/ATCommon.Logging.Log4net 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/bin/Debug/netcoreapp3.0/ATCommon.Logging.Log4net 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/bin/Debug/netcoreapp3.0/ATCommon.Logging.Log4net.deps 4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/bin/Debug/netcoreapp3.0/ATCommon.Logging.Log4net.deps 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/Debug/netcoreapp3.0/ATCommon.Logging.Log4net 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/Debug/netcoreapp3.0/ATCommon.Logging.Log4net 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/Debug/netcoreapp3.0/ATCommon.Logging.Log4net 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/Debug/netcoreapp3.0/ATCommon.Logging.Log4net 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/Debug/netcoreapp3.0/ATCommon.Logging.Log4net.AssemblyInfo 4.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/Debug/netcoreapp3.0/ATCommon.Logging.Log4net.AssemblyInfo 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/Debug/netcoreapp3.0/ATCommon.Logging.Log4net.AssemblyInfoInputs 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/Debug/netcoreapp3.0/ATCommon.Logging.Log4net.AssemblyInfoInputs 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/Debug/netcoreapp3.0/ATCommon.Logging.Log4net.csproj 4.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/Debug/netcoreapp3.0/ATCommon.Logging.Log4net.csproj 5.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/Debug/netcoreapp3.0/ATCommon.Logging.Log4net.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/Debug/netcoreapp3.0/ATCommon.Logging.Log4net.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/Debug/netcoreapp3.0/ATCommon.Logging.Log4net.csprojAssemblyReference 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/Debug/netcoreapp3.0/ATCommon.Logging.Log4net.csprojAssemblyReference 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/bin/Debug/netcoreapp3.0/ATCommon.Logging 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/bin/Debug/netcoreapp3.0/ATCommon.Logging 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/bin/Debug/netcoreapp3.0/ATCommon.Logging 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/bin/Debug/netcoreapp3.0/ATCommon.Logging 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/bin/Debug/netcoreapp3.0/ATCommon.Logging.deps 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/bin/Debug/netcoreapp3.0/ATCommon.Logging.deps 6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.AssemblyInfo 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.AssemblyInfo 6.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.AssemblyInfoInputs 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.AssemblyInfoInputs 6.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.csproj 5.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.csproj 6.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.csprojAssemblyReference 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.csprojAssemblyReference 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/ATCommon.Utilities 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/ATCommon.Utilities 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/ATCommon.Utilities 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/ATCommon.Utilities.deps 4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/ATCommon.Utilities.deps 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Abstractions 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Features 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Features 2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/OnlineStore.Core 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/OnlineStore.Core 2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/OnlineStore.Core 3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/OnlineStore.Entity 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/OnlineStore.Entity 2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/OnlineStore.Entity 3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/System.IO.Pipelines 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/ATCommon.Utilities.csproj.nuget 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/ATCommon.Utilities.csproj.nuget.g 2.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.AssemblyInfo 4.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.AssemblyInfo 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.AssemblyInfoInputs 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.AssemblyInfoInputs 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.csproj 2.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.csproj 3.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.csprojAssemblyReference 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.csprojAssemblyReference 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/project.assets 2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/Log/2020/05/2020-05-13/2020-05-13-19-00.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/.log4net 8.config.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/ATCommon.Aspect 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/ATCommon.Aspect 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/ATCommon.Logging.Log4net 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/ATCommon.Logging.Log4net 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/ATCommon.Utilities 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/ATCommon.Utilities 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Autofac.Extensions.DependencyInjection 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Dapper.Contrib 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Log/2019/11/2019-11-10/2019-11-10-02-00 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Log/2019/11/2019-11-10/2019-11-10-12-00 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Log/2020/01/2020-01-18/2020-01-18-16-00 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Log/2020/01/2020-01-18/2020-01-18-18-00 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Log/2020/01/2020-01-18/2020-01-18-19-00 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Log/2020/01/2020-01-18/2020-01-18-22-00 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Log/2020/01/2020-01-19/2020-01-19-00-00 2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Log/2020/05/2020-05-06/2020-05-06-22-00 2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Log/2020/05/2020-05-07/2020-05-07-00-00 2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Log/2020/05/2020-05-13/2020-05-13-19-00.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Authentication.JwtBearer 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.JsonPatch 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Microsoft.DotNet.PlatformAbstractions 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Microsoft.Extensions.DependencyModel 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.JsonWebTokens 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Logging 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Protocols.OpenIdConnect 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/NSwag.Annotations 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/NSwag.Core 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/NSwag.Generation 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/NSwag.Generation.AspNetCore 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Namotion.Reflection 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.API 8.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.API 8.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.API.runtimeconfig 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.API.runtimeconfig.dev 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Business 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Business 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Core 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Core 8.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Data 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Data 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Data.Contracts 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Entity 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.MQ 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Pomelo.JsonObject 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Properties/launchSettings 6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.Swagger 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Swashbuckle.AspNetCore.SwaggerGen 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/System.IdentityModel.Tokens.Jwt 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/System.Net.WebSockets.WebSocketProtocol 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/System.Runtime.Caching 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/appsettings 6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/appsettings.Development 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netstandard1.3/System.Security.Cryptography.Pkcs 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/sni 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard1.3/System.Security.Cryptography.Pkcs 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.AssemblyInfo 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.AssemblyInfo 6.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.AssemblyInfoInputs 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.AssemblyInfoInputs 6.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.MvcApplicationPartsAssemblyInfo 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.MvcApplicationPartsAssemblyInfo 4.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.MvcApplicationPartsAssemblyInfo 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.RazorTargetAssemblyInfo 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.csprojAssemblyReference 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.csprojAssemblyReference 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.genruntimeconfig 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/staticwebassets/OnlineStore.API.StaticWebAssets 5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/obj/OnlineStore.API.csproj.nuget 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/obj/OnlineStore.API.csproj.nuget.g 3.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.API/obj/project.assets 3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Utilities 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Utilities 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Utilities 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Abstractions 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Features 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Features 2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.deps 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.deps 6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Entity 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Entity 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Entity 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.AssemblyInfo 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.AssemblyInfo 6.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.AssemblyInfoInputs 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.AssemblyInfoInputs 6.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.csproj 5.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.csproj 6.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.csprojAssemblyReference 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.csprojAssemblyReference 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/OnlineStore.Business.Contracts.csproj.nuget 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/OnlineStore.Business.Contracts.csproj.nuget.g 2.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/project.assets 2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/BusinessAspects/Authorization/AuthorizationAspect.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Aspect 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Aspect 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Aspect 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Aspect 8.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts 8.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts 9.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 8.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 8.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Logging.Log4net 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Logging.Log4net 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Logging.Log4net 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Logging.Log4net 8.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Utilities 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Utilities 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Utilities 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Utilities 8.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Abstractions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Abstractions.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Features 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Features 2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Features.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Features.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/Microsoft.Extensions.ObjectPool.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/Microsoft.Extensions.ObjectPool.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Business 8.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Business 9.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Business.deps 3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Core 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Core 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Core 8.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Core 9.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 8.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 8.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Data 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Data 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Data 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Data.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Data.Contracts 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Data.Contracts 8.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Entity 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Entity 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Entity 8.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Entity 8.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.MQ 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.MQ 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.MQ 8.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.MQ 8.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/System.IO.Pipelines 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/System.IO.Pipelines.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.AssemblyInfo 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.AssemblyInfo 6.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.AssemblyInfoInputs 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.AssemblyInfoInputs 6.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.csproj 5.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/OnlineStore.Business.csproj.nuget 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/OnlineStore.Business.csproj.nuget.g 3.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/project.assets 3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 3.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.deps 3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.deps 4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 3.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.AssemblyInfo 3.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.AssemblyInfo 4.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.AssemblyInfoInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.AssemblyInfoInputs 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/bin/Debug/netcoreapp3.0/OnlineStore.Core 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/bin/Debug/netcoreapp3.0/OnlineStore.Core 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/bin/Debug/netcoreapp3.0/OnlineStore.Core 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/bin/Debug/netcoreapp3.0/OnlineStore.Core 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/bin/Debug/netcoreapp3.0/OnlineStore.Core.deps 4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/bin/Debug/netcoreapp3.0/OnlineStore.Core.deps 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/Debug/netcoreapp3.0/OnlineStore.Core 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/Debug/netcoreapp3.0/OnlineStore.Core 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/Debug/netcoreapp3.0/OnlineStore.Core 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/Debug/netcoreapp3.0/OnlineStore.Core 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/Debug/netcoreapp3.0/OnlineStore.Core.AssemblyInfo 4.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/Debug/netcoreapp3.0/OnlineStore.Core.AssemblyInfo 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/Debug/netcoreapp3.0/OnlineStore.Core.AssemblyInfoInputs 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/Debug/netcoreapp3.0/OnlineStore.Core.AssemblyInfoInputs 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/Debug/netcoreapp3.0/OnlineStore.Core.csproj 4.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/Debug/netcoreapp3.0/OnlineStore.Core.csproj 5.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/Debug/netcoreapp3.0/OnlineStore.Core.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/Debug/netcoreapp3.0/OnlineStore.Core.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/Debug/netcoreapp3.0/OnlineStore.Core.csprojAssemblyReference 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/Debug/netcoreapp3.0/OnlineStore.Core.csprojAssemblyReference 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Data.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Data.Contracts 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Data.Contracts 8.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Data.Contracts.deps 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Data.Contracts.deps 6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Entity 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Entity 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Entity 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Data.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Data.Contracts 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Data.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Data.Contracts 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Data.Contracts.AssemblyInfo 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Data.Contracts.AssemblyInfo 6.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Data.Contracts.AssemblyInfoInputs 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Data.Contracts.AssemblyInfoInputs 6.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Data.Contracts.csproj 5.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Data.Contracts.csproj 6.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Data.Contracts.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Data.Contracts.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Data.Contracts.csprojAssemblyReference 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Data.Contracts.csprojAssemblyReference 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Core 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Core 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Core 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Core 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Data 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Data 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Data.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Data.Contracts 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Data.Contracts 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Data.deps 3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Data.deps 4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Entity 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Entity 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Entity 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Entity 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/Debug/netcoreapp3.0/OnlineStore.Data 3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/Debug/netcoreapp3.0/OnlineStore.Data 3.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/Debug/netcoreapp3.0/OnlineStore.Data 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/Debug/netcoreapp3.0/OnlineStore.Data 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/Debug/netcoreapp3.0/OnlineStore.Data.AssemblyInfo 4.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/Debug/netcoreapp3.0/OnlineStore.Data.AssemblyInfo 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/Debug/netcoreapp3.0/OnlineStore.Data.AssemblyInfoInputs 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/Debug/netcoreapp3.0/OnlineStore.Data.AssemblyInfoInputs 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/Debug/netcoreapp3.0/OnlineStore.Data.csproj 4.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/Debug/netcoreapp3.0/OnlineStore.Data.csproj 5.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/Debug/netcoreapp3.0/OnlineStore.Data.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/Debug/netcoreapp3.0/OnlineStore.Data.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/Debug/netcoreapp3.0/OnlineStore.Data.csprojAssemblyReference 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/Debug/netcoreapp3.0/OnlineStore.Data.csprojAssemblyReference 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Core 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Core 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Core 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Core 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Entity 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Entity 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Entity 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Entity.deps 4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Entity.deps 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.AssemblyInfo 4.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.AssemblyInfo 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.AssemblyInfoInputs 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.AssemblyInfoInputs 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.csproj 4.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.csproj 5.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.csprojAssemblyReference 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.csprojAssemblyReference 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/Google.Protobuf 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/Google.Protobuf 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/Grpc.Core.Api 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/Grpc.Core.Api 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/Grpc.Net.Client 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/Grpc.Net.Client 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/Grpc.Net.Common 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/Grpc.Net.Common 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/Microsoft.Extensions.Logging.Abstractions 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/OnlineStore.GrpcClient 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/OnlineStore.GrpcClient 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/OnlineStore.GrpcClient 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/OnlineStore.GrpcClient 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/OnlineStore.GrpcClient.deps 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/OnlineStore.GrpcClient.deps 6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/OnlineStore.GrpcClient.runtimeconfig 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/OnlineStore.GrpcClient.runtimeconfig 6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/OnlineStore.GrpcClient.runtimeconfig.dev 4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/bin/Debug/netcoreapp3.0/OnlineStore.GrpcClient.runtimeconfig.dev 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/Greet 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/Greet 6.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/GreetGrpc 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/GreetGrpc 6.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.AssemblyInfo 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.AssemblyInfo 6.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.AssemblyInfoInputs 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.AssemblyInfoInputs 6.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.csproj 4.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.csproj 5.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.csprojAssemblyReference 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.csprojAssemblyReference 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.genruntimeconfig 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.genruntimeconfig 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/Product 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/Product 6.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/ProductGrpc 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/ProductGrpc 6.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/ATCommon.Aspect 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/ATCommon.Aspect 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/ATCommon.Logging.Log4net 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/ATCommon.Logging.Log4net 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/Dapper.Contrib 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/Grpc.AspNetCore.Server 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/Grpc.AspNetCore.Server.ClientFactory 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/Grpc.Core.Api 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/Grpc.Net.Client 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/Grpc.Net.ClientFactory 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/Grpc.Net.Common 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/Microsoft.EntityFrameworkCore.Abstractions 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/Microsoft.IdentityModel.Logging 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.Business 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.Core 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.Core 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.Entity 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.GrpcService 7.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.GrpcService 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.GrpcService.runtimeconfig 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.GrpcService.runtimeconfig.dev 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.MQ 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/Pomelo.JsonObject 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/Properties/launchSettings 6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/System.IdentityModel.Tokens.Jwt 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/System.Runtime.Caching 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/appsettings.Development 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/runtimes/win-x86/native/sni 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/Greet 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/Greet 6.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/GreetGrpc 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/GreetGrpc 6.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService.AssemblyInfo 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService.AssemblyInfo 6.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService.AssemblyInfoInputs 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService.AssemblyInfoInputs 6.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService.MvcApplicationPartsAssemblyInfo 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService.RazorTargetAssemblyInfo 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService.csprojAssemblyReference 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService.csprojAssemblyReference 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService.genruntimeconfig 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/Product 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/Product 6.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/ProductGrpc 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/ProductGrpc 6.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/staticwebassets/OnlineStore.GrpcService.StaticWebAssets 5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/OnlineStore.GrpcService.csproj.nuget 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/OnlineStore.GrpcService.csproj.nuget.g 3.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/project.assets 3.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/ATCommon.Utilities 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/ATCommon.Utilities 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/ATCommon.Utilities 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/ATCommon.Utilities 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Abstractions 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Features 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Features 2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.Core 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.Core 2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.Core 3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.Core 3.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.Entity 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.Entity 2.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.Entity 3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.Entity 3.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.MQ 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.MQ 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.MQ 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.MQ.deps 4.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.MQ.deps 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ 4.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ 4.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.AssemblyInfo 4.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.AssemblyInfo 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.AssemblyInfoInputs 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.AssemblyInfoInputs 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.csproj 4.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.csproj 5.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.csprojAssemblyReference 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.csprojAssemblyReference 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/OnlineStore.MQ.csproj.nuget 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/OnlineStore.MQ.csproj.nuget.g 2.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/project.assets 2.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/ATCommon.Utilities 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/ATCommon.Utilities 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Abstractions 2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.Core 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.Core 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.Core 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.Core 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.Entity 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.Entity 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.MQ 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.MQ 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.MQ 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.MQService 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.MQService 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.MQService 7.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.MQService.deps 5.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.MQService.deps 6.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService 5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService 5.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService 6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService 6.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.AssemblyInfo 5.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.AssemblyInfo 6.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.AssemblyInfoInputs 5.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.AssemblyInfoInputs 6.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.csproj 5.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.csproj 6.CopyComplete" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.csproj.CoreCompileInputs 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.csproj.CoreCompileInputs 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.csprojAssemblyReference 3.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.csprojAssemblyReference 4.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/OnlineStore.MQService.csproj.nuget 2.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/OnlineStore.MQService.csproj.nuget.g 2.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/project.assets 2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/UserPrefs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/OnlineStore/xs/UserPrefs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/ATCommon.Caching.Memcached-Debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/ATCommon.Caching.Memcached-Debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/ATCommon.Caching.Redis-Debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/ATCommon.Caching.Redis-Debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/ATCommon.Utilities-Debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/ATCommon.Utilities-Debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.API-Debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.API-Debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.Business-Debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.Business-Debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.Business.Contracts-Debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.Business.Contracts-Debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.Entity-Debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.Entity-Debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.GrpcService-Debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.GrpcService-Debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.MQ-Debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.MQ-Debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.MQService-Debug.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.MQService-Debug.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/ATCommon.Aspect.Contracts.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/ATCommon.Aspect.Contracts.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/ATCommon.Aspect.Contracts.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/ATCommon.Aspect.Contracts.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Aspect/obj/ATCommon.Aspect.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/ATCommon.Aspect.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Aspect/obj/ATCommon.Aspect.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/ATCommon.Aspect.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Aspect/obj/Debug/netcoreapp3.0/ATCommon.Aspect.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/Debug/netcoreapp3.0/ATCommon.Aspect.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Aspect/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Aspect/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/ATCommon.Caching.Contracts.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/ATCommon.Caching.Contracts.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/ATCommon.Caching.Contracts.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/ATCommon.Caching.Contracts.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/ATCommon.Caching.Memcached.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/ATCommon.Caching.Memcached.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/ATCommon.Caching.Memcached.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/ATCommon.Caching.Memcached.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/netcoreapp3.0/ATCommon.Caching.Memcached.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Caching.Redis.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Caching.Redis.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/ATCommon.Caching.Redis.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/ATCommon.Caching.Redis.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/ATCommon.Caching.Redis.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/ATCommon.Caching.Redis.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/netcoreapp3.0/ATCommon.Caching.Redis.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/ATCommon.Logging.Contracts.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/ATCommon.Logging.Contracts.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/ATCommon.Logging.Contracts.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/ATCommon.Logging.Contracts.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/ATCommon.Logging.Log4net.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/ATCommon.Logging.Log4net.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/ATCommon.Logging.Log4net.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/ATCommon.Logging.Log4net.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/Debug/netcoreapp3.0/ATCommon.Logging.Log4net.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/Debug/netcoreapp3.0/ATCommon.Logging.Log4net.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging/obj/ATCommon.Logging.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/ATCommon.Logging.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging/obj/ATCommon.Logging.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/ATCommon.Logging.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Utilities/ATCommon.Utilities.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Utilities/ATCommon.Utilities.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Utilities/Extension.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/ATCommon.Utilities.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/ATCommon.Utilities.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Utilities/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Utilities/obj/ATCommon.Utilities.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/ATCommon.Utilities.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Utilities/obj/ATCommon.Utilities.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/ATCommon.Utilities.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/netcoreapp3.0/ATCommon.Utilities.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Utilities/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Utilities/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/Controllers/TokenController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/Controllers/TokenController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Log/2020/05/2020-05-07/2020-05-07-00-00.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/Log/2020/05/2020-05-07/2020-05-07-00-00.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.API.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.API.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.API.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Business.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Business.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Business.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Business.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Entity.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/OnlineStore.Entity.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/bin/Debug/netcoreapp3.0/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/obj/OnlineStore.API.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/obj/OnlineStore.API.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/obj/OnlineStore.API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/obj/OnlineStore.API.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business.Contracts/IUserService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/IUserService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Entity.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Entity.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/OnlineStore.Business.Contracts.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/OnlineStore.Business.Contracts.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/OnlineStore.Business.Contracts.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/OnlineStore.Business.Contracts.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/DependencyResolvers/Autofac/AutofacBusinessModule.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/DependencyResolvers/Autofac/AutofacBusinessModule.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/OnlineStore.Business.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/OnlineStore.Business.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/Services/CategoryService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/Services/CategoryService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/Services/UserService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/Services/UserService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Business.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Business.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Business.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Business.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Business.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Business.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Entity.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Entity.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/obj/OnlineStore.Business.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/OnlineStore.Business.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/obj/OnlineStore.Business.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/OnlineStore.Business.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/OnlineStore.Core.Contracts.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/OnlineStore.Core.Contracts.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/OnlineStore.Core.Contracts.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/OnlineStore.Core.Contracts.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Core/obj/Debug/netcoreapp3.0/OnlineStore.Core.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/Debug/netcoreapp3.0/OnlineStore.Core.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Core/obj/OnlineStore.Core.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/OnlineStore.Core.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Core/obj/OnlineStore.Core.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/OnlineStore.Core.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Core/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Core/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Entity.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Entity.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Data.Contracts.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Data.Contracts.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/OnlineStore.Data.Contracts.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/OnlineStore.Data.Contracts.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/OnlineStore.Data.Contracts.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/OnlineStore.Data.Contracts.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Entity.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Data/bin/Debug/netcoreapp3.0/OnlineStore.Entity.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Data/obj/Debug/netcoreapp3.0/OnlineStore.Data.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/Debug/netcoreapp3.0/OnlineStore.Data.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Data/obj/OnlineStore.Data.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/OnlineStore.Data.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Data/obj/OnlineStore.Data.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/OnlineStore.Data.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Data/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Data/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Entity.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Entity/bin/Debug/netcoreapp3.0/OnlineStore.Entity.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/netcoreapp3.0/OnlineStore.Entity.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Entity/obj/OnlineStore.Entity.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/OnlineStore.Entity.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Entity/obj/OnlineStore.Entity.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/OnlineStore.Entity.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Entity/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Entity/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/netcoreapp3.0/OnlineStore.GrpcClient.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/OnlineStore.GrpcClient.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/OnlineStore.GrpcClient.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/OnlineStore.GrpcClient.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/OnlineStore.GrpcClient.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.Business.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.Business.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.Business.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.Business.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.Entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.Entity.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.Entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.Entity.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.GrpcService.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/OnlineStore.GrpcService.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcService/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/Debug/netcoreapp3.0/OnlineStore.GrpcService.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/OnlineStore.GrpcService.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/OnlineStore.GrpcService.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/OnlineStore.GrpcService.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/OnlineStore.GrpcService.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcService/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.MQ.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQ/bin/Debug/netcoreapp3.0/OnlineStore.MQ.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/netcoreapp3.0/OnlineStore.MQ.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQ/obj/OnlineStore.MQ.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/OnlineStore.MQ.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQ/obj/OnlineStore.MQ.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/OnlineStore.MQ.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQ/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQ/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.Entity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.Entity.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.Entity.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.Entity.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.MQService.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQService/bin/Debug/netcoreapp3.0/OnlineStore.MQService.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/netcoreapp3.0/OnlineStore.MQService.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQService/obj/OnlineStore.MQService.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/OnlineStore.MQService.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQService/obj/OnlineStore.MQService.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/OnlineStore.MQService.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQService/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQService/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/project.packagespec.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/OnlineStore.Business/Services/CategoryService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ATCommon.Utilities/Extensions/ErrorDetails.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OnlineStore.API/log4net.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OnlineStore.API/Models/LoginViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OnlineStore.Business.Contracts/IUserService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OnlineStore.API/Controllers/TokenController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OnlineStore.Business.Contracts/IProductService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OnlineStore.API/Controllers/CategoriesController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ATCommon.Utilities/Security/Jwt/TokenOptions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ATCommon.Utilities/Security/Encyption/SecurityKeyHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ATCommon.Utilities/Security/Jwt/ITokenHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ATCommon.Utilities/Security/Jwt/AccessToken.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ATCommon.Utilities/Security/Jwt/JwtHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OnlineStore.GrpcClient/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ATCommon.Aspect.Contracts/Proxy/CommonAspect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OnlineStore.Business/Logging/DatabaseLogger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OnlineStore.Business/Services/CategoryService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OnlineStore.Business/Services/UserService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OnlineStore.Business/DependencyResolvers/Autofac/InstanceFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OnlineStore.Business/DependencyResolvers/Autofac/AutofacBusinessModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OnlineStore.Entity/Concrete/OperationClaim.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ATCommon.Utilities/Security/Encyption/SigningCredentialsHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ATCommon.Utilities/Extensions/Extension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ATCommon.Aspect/Authorization/AuthorizationAspect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ATCommon.Utilities/AppSettingsHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OnlineStore.API/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OnlineStore.Business/BusinessAspects/Authorization/AuthorizationAspect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OnlineStore.API/appsettings.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ATCommon.Utilities/Extensions/ClaimsPrincipalExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ATCommon.Utilities/Extensions/ClaimExtensions.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/OnlineStore.Business/Services/CategoryService.cs" />
         <option value="$PROJECT_DIR$/OnlineStore.API/log4net.config" />
+        <option value="$PROJECT_DIR$/OnlineStore.API/appsettings.json" />
+        <option value="$PROJECT_DIR$/ATCommon.Utilities/Security/Jwt/TokenOptions.cs" />
+        <option value="$PROJECT_DIR$/ATCommon.Utilities/Security/Encyption/SecurityKeyHelper.cs" />
+        <option value="$PROJECT_DIR$/OnlineStore.API/Startup.cs" />
+        <option value="$PROJECT_DIR$/OnlineStore.Entity/Concrete/OperationClaim.cs" />
+        <option value="$PROJECT_DIR$/ATCommon.Utilities/Security/Encyption/SigningCredentialsHelper.cs" />
+        <option value="$PROJECT_DIR$/ATCommon.Utilities/Extensions/erre.cs" />
+        <option value="$PROJECT_DIR$/ATCommon.Utilities/Extensions/ExceptionMiddlewareExtensions.cs" />
+        <option value="$PROJECT_DIR$/ATCommon.Utilities/Extensions/ServiceCollectionExtensions.cs" />
+        <option value="$PROJECT_DIR$/ATCommon.Utilities/Extensions/ClaimExtensions.cs" />
+        <option value="$PROJECT_DIR$/ATCommon.Utilities/Extensions/ClaimsPrincipalExtensions.cs" />
+        <option value="$PROJECT_DIR$/ATCommon.Utilities/Extensions/ErrorDetails.cs" />
+        <option value="$PROJECT_DIR$/ATCommon.Utilities/Extensions/Extension.cs" />
+        <option value="$PROJECT_DIR$/ATCommon.Utilities/Extensions/ExceptionMiddleware.cs" />
+        <option value="$PROJECT_DIR$/ATCommon.Utilities/Security/Jwt/AccessToken.cs" />
+        <option value="$PROJECT_DIR$/ATCommon.Utilities/Security/Jwt/JwtHelper.cs" />
+        <option value="$PROJECT_DIR$/ATCommon.Utilities/Security/Jwt/ITokenHelper.cs" />
+        <option value="$PROJECT_DIR$/OnlineStore.Business.Contracts/IUserService.cs" />
+        <option value="$PROJECT_DIR$/OnlineStore.Business/DependencyResolvers/Autofac/AutofacBusinessModule.cs" />
+        <option value="$PROJECT_DIR$/OnlineStore.Business/BusinessAspects/Authorization/AuthorizationAspect.cs" />
+        <option value="$PROJECT_DIR$/OnlineStore.Business/Services/UserService.cs" />
+        <option value="$PROJECT_DIR$/OnlineStore.API/Controllers/TokenController.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1TQ1Xt7IXSlLEhEoQJjgWQVcwRB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected=".NET Launch Settings Profile.OnlineStore.API">
     <configuration name="OnlineStore.API" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
@@ -51,7 +1115,7 @@
       <option name="SEND_DEBUG_REQUEST" value="1" />
       <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
       <method v="2">
-        <option name="Build" enabled="true" />
+        <option name="Build" />
       </method>
     </configuration>
     <configuration name="OnlineStore.API: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
@@ -66,7 +1130,7 @@
       <option name="SEND_DEBUG_REQUEST" value="1" />
       <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
       <method v="2">
-        <option name="Build" enabled="true" />
+        <option name="Build" />
       </method>
     </configuration>
     <configuration name="OnlineStore.GrpcService" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
@@ -81,7 +1145,7 @@
       <option name="SEND_DEBUG_REQUEST" value="1" />
       <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
       <method v="2">
-        <option name="Build" enabled="true" />
+        <option name="Build" />
       </method>
     </configuration>
   </component>
@@ -96,16 +1160,61 @@
       <option name="presentableId" value="Default" />
       <updated>1573377548423</updated>
       <workItem from="1573377554524" duration="348000" />
+      <workItem from="1589386336991" duration="1683000" />
+      <workItem from="1589388568693" duration="294000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
-    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2006" height="341" key="GridCell.Tab.0.bottom" timestamp="1589320845933">
+      <screen x="0" y="23" width="1792" height="1052" />
+    </state>
+    <state width="2006" height="341" key="GridCell.Tab.0.bottom/0.23.2048.1212@0.23.2048.1212" timestamp="1589319698984" />
+    <state width="2006" height="341" key="GridCell.Tab.0.bottom/1792.200.1600.877/0.23.1792.1052@0.23.1792.1052" timestamp="1589320845933" />
+    <state width="2006" height="341" key="GridCell.Tab.0.center" timestamp="1589320845933">
+      <screen x="0" y="23" width="1792" height="1052" />
+    </state>
+    <state width="2006" height="341" key="GridCell.Tab.0.center/0.23.2048.1212@0.23.2048.1212" timestamp="1589319698983" />
+    <state width="2006" height="341" key="GridCell.Tab.0.center/1792.200.1600.877/0.23.1792.1052@0.23.1792.1052" timestamp="1589320845933" />
+    <state width="2006" height="341" key="GridCell.Tab.0.left" timestamp="1589320845932">
+      <screen x="0" y="23" width="1792" height="1052" />
+    </state>
+    <state width="2006" height="341" key="GridCell.Tab.0.left/0.23.2048.1212@0.23.2048.1212" timestamp="1589319698982" />
+    <state width="2006" height="341" key="GridCell.Tab.0.left/1792.200.1600.877/0.23.1792.1052@0.23.1792.1052" timestamp="1589320845932" />
+    <state width="2006" height="341" key="GridCell.Tab.0.right" timestamp="1589320845933">
+      <screen x="0" y="23" width="1792" height="1052" />
+    </state>
+    <state width="2006" height="341" key="GridCell.Tab.0.right/0.23.2048.1212@0.23.2048.1212" timestamp="1589319698983" />
+    <state width="2006" height="341" key="GridCell.Tab.0.right/1792.200.1600.877/0.23.1792.1052@0.23.1792.1052" timestamp="1589320845933" />
+    <state x="2353" y="347" key="RiderGenerateDialog" timestamp="1589386749907">
+      <screen x="1792" y="200" width="1600" height="877" />
+    </state>
+    <state x="2353" y="347" key="RiderGenerateDialog/1792.200.1600.877/0.23.1792.1052@1792.200.1600.877" timestamp="1589386749907" />
+    <state x="2221" y="274" width="741" height="729" key="find.popup" timestamp="1589387376698">
+      <screen x="1792" y="200" width="1600" height="877" />
+    </state>
+    <state x="2221" y="274" width="741" height="729" key="find.popup/1792.200.1600.877/0.23.1792.1052@1792.200.1600.877" timestamp="1589387376698" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -116,5 +1225,12 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="Microsoft.Extensions.Localization.LocalizedString" fieldName="Name" />
+        <PinnedItemInfo typeName="Microsoft.Extensions.Localization.LocalizedString" fieldName="SearchedLocation" />
+        <PinnedItemInfo typeName="OnlineStore.Business.Services.CategoryService" fieldName="_stringLocalizer" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>

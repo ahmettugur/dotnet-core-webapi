@@ -1,11 +1,14 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/ahmet/Desktop/WebApi/OnlineStore.GrpcService/OnlineStore.GrpcService.csproj",
+    "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/OnlineStore.GrpcService.csproj",
     "projectName": "OnlineStore.GrpcService",
-    "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.GrpcService/OnlineStore.GrpcService.csproj",
-    "outputPath": "/home/ahmet/Desktop/WebApi/OnlineStore.GrpcService/obj/",
+    "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/OnlineStore.GrpcService.csproj",
+    "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcService/obj/",
     "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
     "originalTargetFrameworks": [
       "netcoreapp3.0"
     ],
@@ -15,11 +18,11 @@
     "frameworks": {
       "netcoreapp3.0": {
         "projectReferences": {
-          "/home/ahmet/Desktop/WebApi/OnlineStore.Business/OnlineStore.Business.csproj": {
-            "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Business/OnlineStore.Business.csproj"
+          "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/OnlineStore.Business.csproj": {
+            "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/OnlineStore.Business.csproj"
           },
-          "/home/ahmet/Desktop/WebApi/OnlineStore.Data/OnlineStore.Data.csproj": {
-            "projectPath": "/home/ahmet/Desktop/WebApi/OnlineStore.Data/OnlineStore.Data.csproj"
+          "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data/OnlineStore.Data.csproj": {
+            "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data/OnlineStore.Data.csproj"
           }
         }
       }
@@ -47,7 +50,16 @@
         "net48"
       ],
       "assetTargetFallback": true,
-      "warn": true
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.AspNetCore.App": {
+          "privateAssets": "none"
+        },
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
     }
   }
 }

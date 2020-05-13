@@ -343,6 +343,8 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/OnlineStore.Busine
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Logging.Log4net.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Utilities.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Abstractions.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Core.dll
@@ -350,6 +352,9 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/OnlineStore.Busine
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Data.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Entity.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.MQ.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Features.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/System.IO.Pipelines.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/Microsoft.Extensions.ObjectPool.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Aspect.pdb
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Business.Contracts.pdb
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Data.Contracts.pdb
@@ -363,6 +368,10 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/OnlineStore.Busine
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/ATCommon.Utilities.pdb
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Core.pdb
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.pdb
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.xml
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Abstractions.xml
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/Microsoft.AspNetCore.Http.Features.xml
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/bin/Debug/netcoreapp3.0/Microsoft.Extensions.ObjectPool.xml
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.csprojAssemblyReference.cache
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.csproj.CoreCompileInputs.cache
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business/obj/Debug/netcoreapp3.0/OnlineStore.Business.AssemblyInfoInputs.cache

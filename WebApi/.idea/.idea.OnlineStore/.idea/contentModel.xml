@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="$USER_HOME$/.Rider2019.2/system/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/.Rider2019.2/system/resharper-host/local/Transient/ReSharperHost/v192/SolutionCaches/_OnlineStore.-932639635.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="API" t="Include" />
+      <e p="Aspect" t="Include" />
       <e p="ATCommon.Aspect" t="IncludeRecursive">
         <e p="ATCommon.Aspect.csproj" t="IncludeRecursive" />
         <e p="Authorization" t="Include">
           <e p="AuthorizationAspect.cs" t="Include" />
         </e>
+        <e p="bin" t="ExcludeRecursive" />
         <e p="Caching" t="Include">
           <e p="CacheAspect.cs" t="Include" />
           <e p="CacheRemoveAspect.cs" t="Include" />
@@ -19,13 +19,6 @@
           <e p="BeforeLogAspect.cs" t="Include" />
           <e p="ExceptionLogAspect.cs" t="Include" />
         </e>
-        <e p="Validation" t="Include">
-          <e p="FluentValidation" t="Include">
-            <e p="FluentValidationAspect.cs" t="Include" />
-            <e p="ValidatorTool.cs" t="Include" />
-          </e>
-        </e>
-        <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -33,9 +26,16 @@
             </e>
           </e>
         </e>
+        <e p="Validation" t="Include">
+          <e p="FluentValidation" t="Include">
+            <e p="FluentValidationAspect.cs" t="Include" />
+            <e p="ValidatorTool.cs" t="Include" />
+          </e>
+        </e>
       </e>
       <e p="ATCommon.Aspect.Contracts" t="IncludeRecursive">
         <e p="ATCommon.Aspect.Contracts.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
         <e p="Interception" t="Include">
           <e p="AfterMethodArgs.cs" t="Include" />
           <e p="BeforeMethodArgs.cs" t="Include" />
@@ -48,10 +48,6 @@
           <e p="InterceptionArgs.cs" t="Include" />
           <e p="InterceptionAttribute.cs" t="Include" />
         </e>
-        <e p="Proxy" t="Include">
-          <e p="CommonAspect.cs" t="Include" />
-        </e>
-        <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -59,11 +55,14 @@
             </e>
           </e>
         </e>
+        <e p="Proxy" t="Include">
+          <e p="CommonAspect.cs" t="Include" />
+        </e>
       </e>
       <e p="ATCommon.Caching.Contracts" t="IncludeRecursive">
         <e p="ATCommon.Caching.Contracts.csproj" t="IncludeRecursive" />
-        <e p="ICacheManager.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="ICacheManager.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -74,8 +73,8 @@
       </e>
       <e p="ATCommon.Caching.Memcached" t="IncludeRecursive">
         <e p="ATCommon.Caching.Memcached.csproj" t="IncludeRecursive" />
-        <e p="MemcachedManager.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="MemcachedManager.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -86,8 +85,6 @@
       </e>
       <e p="ATCommon.Caching.Redis" t="IncludeRecursive">
         <e p="ATCommon.Caching.Redis.csproj" t="IncludeRecursive" />
-        <e p="RedisCacheManager.cs" t="Include" />
-        <e p="RedisConnectionFactory.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -96,11 +93,13 @@
             </e>
           </e>
         </e>
+        <e p="RedisCacheManager.cs" t="Include" />
+        <e p="RedisConnectionFactory.cs" t="Include" />
       </e>
       <e p="ATCommon.Logging" t="IncludeRecursive">
         <e p="ATCommon.Logging.csproj" t="IncludeRecursive" />
-        <e p="JsonFileLogger.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="JsonFileLogger.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -111,12 +110,12 @@
       </e>
       <e p="ATCommon.Logging.Contracts" t="IncludeRecursive">
         <e p="ATCommon.Logging.Contracts.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
         <e p="ICommonLogger.cs" t="Include" />
         <e p="LogDetail.cs" t="Include" />
         <e p="LogDetailParameter.cs" t="Include" />
         <e p="LogInterceptionType.cs" t="Include" />
         <e p="LogMethodParameter.cs" t="Include" />
-        <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -127,16 +126,14 @@
       </e>
       <e p="ATCommon.Logging.Log4net" t="IncludeRecursive">
         <e p="ATCommon.Logging.Log4net.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
         <e p="Layouts" t="Include">
           <e p="JsonLayout.cs" t="Include" />
         </e>
-        <e p="LoggerServiceBase.cs" t="Include" />
         <e p="Loggers" t="Include">
-          <e p="DatabaseLogger.cs" t="Include" />
           <e p="JsonFileLogger.cs" t="Include" />
         </e>
-        <e p="SerializableLogEvent.cs" t="Include" />
-        <e p="bin" t="ExcludeRecursive" />
+        <e p="LoggerServiceBase.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -144,18 +141,20 @@
             </e>
           </e>
         </e>
+        <e p="SerializableLogEvent.cs" t="Include" />
       </e>
       <e p="ATCommon.Utilities" t="IncludeRecursive">
-        <e p="ATCommon.Utilities.csproj" t="IncludeRecursive" />
         <e p="AppSettingsHelper.cs" t="Include" />
+        <e p="ATCommon.Utilities.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
         <e p="ColumnMapperAttribute.cs" t="Include" />
         <e p="DataTableParser.cs" t="Include" />
-        <e p="Extension.cs" t="Include" />
-        <e p="Response" t="Include">
-          <e p="IResult.cs" t="Include" />
-          <e p="Result.cs" t="Include" />
+        <e p="extensions" t="Include">
+          <e p="ClaimExtensions.cs" t="Include" />
+          <e p="ClaimsPrincipalExtensions.cs" t="Include" />
+          <e p="ErrorDetails.cs" t="Include" />
+          <e p="Extension.cs" t="Include" />
         </e>
-        <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -163,8 +162,23 @@
             </e>
           </e>
         </e>
+        <e p="Response" t="Include">
+          <e p="IResult.cs" t="Include" />
+          <e p="Result.cs" t="Include" />
+        </e>
+        <e p="Security" t="Include">
+          <e p="Encyption" t="Include">
+            <e p="SecurityKeyHelper.cs" t="Include" />
+            <e p="SigningCredentialsHelper.cs" t="Include" />
+          </e>
+          <e p="Jwt" t="Include">
+            <e p="AccessToken.cs" t="Include" />
+            <e p="ITokenHelper.cs" t="Include" />
+            <e p="JwtHelper.cs" t="Include" />
+            <e p="TokenOptions.cs" t="Include" />
+          </e>
+        </e>
       </e>
-      <e p="Aspect" t="Include" />
       <e p="Business" t="Include" />
       <e p="Caching" t="Include" />
       <e p="Client" t="Include" />
@@ -174,6 +188,9 @@
       <e p="Logging" t="Include" />
       <e p="MessageQueue" t="Include" />
       <e p="OnlineStore.API" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
         <e p="Controllers" t="Include">
           <e p="CategoriesController.cs" t="Include" />
           <e p="ProductHub.cs" t="Include" />
@@ -189,11 +206,43 @@
               </e>
             </e>
           </e>
+          <e p="2020" t="Include">
+            <e p="01" t="Include">
+              <e p="2020-01-18" t="Include">
+                <e p="2020-01-18-16-00.json" t="Include" />
+                <e p="2020-01-18-18-00.json" t="Include" />
+                <e p="2020-01-18-19-00.json" t="Include" />
+                <e p="2020-01-18-22-00.json" t="Include" />
+              </e>
+              <e p="2020-01-19" t="Include">
+                <e p="2020-01-19-00-00.json" t="Include" />
+              </e>
+            </e>
+            <e p="05" t="Include">
+              <e p="2020-05-06" t="Include">
+                <e p="2020-05-06-22-00.json" t="Include" />
+              </e>
+              <e p="2020-05-07" t="Include">
+                <e p="2020-05-07-00-00.json" t="Include" />
+              </e>
+              <e p="2020-05-13" t="Include">
+                <e p="2020-05-13-19-00.json" t="Include" />
+              </e>
+            </e>
+          </e>
         </e>
+        <e p="log4net.config" t="Include" />
         <e p="Models" t="Include">
           <e p="LoginViewModel.cs" t="Include" />
           <e p="ProductResponse.cs" t="Include" />
           <e p="ProductWithCategoryResponse.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="OnlineStore.API.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
         </e>
         <e p="OnlineStore.API.csproj" t="IncludeRecursive" />
         <e p="Program.cs" t="Include" />
@@ -202,31 +251,23 @@
         </e>
         <e p="Startup.cs" t="Include" />
         <e p="WeatherForecast.cs" t="Include" />
-        <e p="appsettings.Development.json" t="Include" />
-        <e p="appsettings.json" t="Include" />
-        <e p="bin" t="ExcludeRecursive" />
-        <e p="log4net.config" t="Include" />
-        <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
-            <e p="netcoreapp3.0" t="Include">
-              <e p="OnlineStore.API.AssemblyInfo.cs" t="Include" />
-            </e>
-          </e>
-        </e>
       </e>
       <e p="OnlineStore.Business" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BusinessAspects" t="Include">
+          <e p="Authorization" t="Include">
+            <e p="AuthorizationAspect.cs" t="Include" />
+          </e>
+        </e>
         <e p="DependencyResolvers" t="Include">
           <e p="Autofac" t="Include">
             <e p="AutofacBusinessModule.cs" t="Include" />
+            <e p="InstanceFactory.cs" t="Include" />
           </e>
         </e>
-        <e p="OnlineStore.Business.csproj" t="IncludeRecursive" />
-        <e p="Services" t="Include">
-          <e p="CategoryService.cs" t="Include" />
-          <e p="ProductService.cs" t="Include" />
-          <e p="UserService.cs" t="Include" />
+        <e p="Logging" t="Include">
+          <e p="DatabaseLogger.cs" t="Include" />
         </e>
-        <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -234,13 +275,20 @@
             </e>
           </e>
         </e>
+        <e p="OnlineStore.Business.csproj" t="IncludeRecursive" />
+        <e p="Services" t="Include">
+          <e p="CategoryService.cs" t="Include" />
+          <e p="LogService.cs" t="Include" />
+          <e p="ProductService.cs" t="Include" />
+          <e p="UserService.cs" t="Include" />
+        </e>
       </e>
       <e p="OnlineStore.Business.Contracts" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
         <e p="ICategoryService.cs" t="Include" />
+        <e p="ILogService.cs" t="Include" />
         <e p="IProductService.cs" t="Include" />
         <e p="IUserService.cs" t="Include" />
-        <e p="OnlineStore.Business.Contracts.csproj" t="IncludeRecursive" />
-        <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -248,10 +296,19 @@
             </e>
           </e>
         </e>
+        <e p="OnlineStore.Business.Contracts.csproj" t="IncludeRecursive" />
       </e>
       <e p="OnlineStore.Core" t="IncludeRecursive">
         <e p="Attributes" t="Include">
           <e p="PrimaryKeyAttribute.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="OnlineStore.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
         </e>
         <e p="OnlineStore.Core.csproj" t="IncludeRecursive" />
         <e p="Repository" t="Include">
@@ -265,24 +322,12 @@
             <e p="EFGenericRepository.cs" t="Include" />
           </e>
         </e>
-        <e p="bin" t="ExcludeRecursive" />
-        <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
-            <e p="netcoreapp3.0" t="Include">
-              <e p="OnlineStore.Core.AssemblyInfo.cs" t="Include" />
-            </e>
-          </e>
-        </e>
       </e>
       <e p="OnlineStore.Core.Contracts" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
         <e p="Entities" t="Include">
           <e p="IEntity.cs" t="Include" />
         </e>
-        <e p="OnlineStore.Core.Contracts.csproj" t="IncludeRecursive" />
-        <e p="Repository" t="Include">
-          <e p="IGenericRepository.cs" t="Include" />
-        </e>
-        <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -290,10 +335,16 @@
             </e>
           </e>
         </e>
+        <e p="OnlineStore.Core.Contracts.csproj" t="IncludeRecursive" />
+        <e p="Repository" t="Include">
+          <e p="IGenericRepository.cs" t="Include" />
+        </e>
       </e>
       <e p="OnlineStore.Data" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
         <e p="Dapper" t="Include">
           <e p="DapperCategoryRepository.cs" t="Include" />
+          <e p="DapperLogRepository.cs" t="Include" />
           <e p="DapperProductRepository.cs" t="Include" />
           <e p="DapperUserRepository.cs" t="Include" />
           <e p="SqlDbConnection.cs" t="Include" />
@@ -301,20 +352,43 @@
         <e p="EntityFramework" t="Include">
           <e p="Concrete" t="Include">
             <e p="EFCategoryRepository.cs" t="Include" />
+            <e p="EFLogRepository.cs" t="Include" />
             <e p="EFProductRepository.cs" t="Include" />
             <e p="EFUserRepository.cs" t="Include" />
           </e>
+          <e p="DbContextExtensions" t="Include">
+            <e p="MsSqlServerExtension.cs" t="Include" />
+            <e p="MySqlExtension.cs" t="Include" />
+            <e p="PostgreSqlExtension.cs" t="Include" />
+          </e>
           <e p="Mappings" t="Include">
-            <e p="CategoryMap.cs" t="Include" />
-            <e p="ProductMap.cs" t="Include" />
-            <e p="RoleMap.cs" t="Include" />
-            <e p="UserMap.cs" t="Include" />
-            <e p="UserRoleMap.cs" t="Include" />
+            <e p="MySql" t="Include">
+              <e p="CategoryMap.cs" t="Include" />
+              <e p="LogMap.cs" t="Include" />
+              <e p="ProductMap.cs" t="Include" />
+              <e p="RoleMap.cs" t="Include" />
+              <e p="UserMap.cs" t="Include" />
+              <e p="UserRoleMap.cs" t="Include" />
+            </e>
+            <e p="PostgreSQL" t="Include">
+              <e p="CategoryMap.cs" t="Include" />
+              <e p="LogMap.cs" t="Include" />
+              <e p="ProductMap.cs" t="Include" />
+              <e p="RoleMap.cs" t="Include" />
+              <e p="UserMap.cs" t="Include" />
+              <e p="UserRoleMap.cs" t="Include" />
+            </e>
+            <e p="SqlServer" t="Include">
+              <e p="CategoryMap.cs" t="Include" />
+              <e p="LogMap.cs" t="Include" />
+              <e p="ProductMap.cs" t="Include" />
+              <e p="RoleMap.cs" t="Include" />
+              <e p="UserMap.cs" t="Include" />
+              <e p="UserRoleMap.cs" t="Include" />
+            </e>
           </e>
           <e p="OnlineStoreContext.cs" t="Include" />
         </e>
-        <e p="OnlineStore.Data.csproj" t="IncludeRecursive" />
-        <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -322,13 +396,14 @@
             </e>
           </e>
         </e>
+        <e p="OnlineStore.Data.csproj" t="IncludeRecursive" />
       </e>
       <e p="OnlineStore.Data.Contracts" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
         <e p="ICategoryRepository.cs" t="Include" />
+        <e p="ILogRepository.cs" t="Include" />
         <e p="IProductRepository.cs" t="Include" />
         <e p="IUserRespository.cs" t="Include" />
-        <e p="OnlineStore.Data.Contracts.csproj" t="IncludeRecursive" />
-        <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -336,8 +411,10 @@
             </e>
           </e>
         </e>
+        <e p="OnlineStore.Data.Contracts.csproj" t="IncludeRecursive" />
       </e>
       <e p="OnlineStore.Entity" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
         <e p="ComplexType" t="Include">
           <e p="ProductWithCategory.cs" t="Include" />
         </e>
@@ -345,13 +422,13 @@
           <e p="Cart.cs" t="Include" />
           <e p="CartLine.cs" t="Include" />
           <e p="Category.cs" t="Include" />
+          <e p="Log.cs" t="Include" />
+          <e p="OperationClaim.cs" t="Include" />
           <e p="Product.cs" t="Include" />
           <e p="Role.cs" t="Include" />
           <e p="User.cs" t="Include" />
           <e p="UserRole.cs" t="Include" />
         </e>
-        <e p="OnlineStore.Entity.csproj" t="IncludeRecursive" />
-        <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.0" t="Include">
@@ -359,14 +436,9 @@
             </e>
           </e>
         </e>
+        <e p="OnlineStore.Entity.csproj" t="IncludeRecursive" />
       </e>
       <e p="OnlineStore.GrpcClient" t="IncludeRecursive">
-        <e p="OnlineStore.GrpcClient.csproj" t="IncludeRecursive" />
-        <e p="Program.cs" t="Include" />
-        <e p="Protos" t="Include">
-          <e p="greet.proto" t="Include" />
-          <e p="product.proto" t="Include" />
-        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -379,8 +451,28 @@
             </e>
           </e>
         </e>
+        <e p="OnlineStore.GrpcClient.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Protos" t="Include">
+          <e p="greet.proto" t="Include" />
+          <e p="product.proto" t="Include" />
+        </e>
       </e>
       <e p="OnlineStore.GrpcService" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.0" t="Include">
+              <e p="Greet.cs" t="Include" />
+              <e p="GreetGrpc.cs" t="Include" />
+              <e p="OnlineStore.GrpcService.AssemblyInfo.cs" t="Include" />
+              <e p="Product.cs" t="Include" />
+              <e p="ProductGrpc.cs" t="Include" />
+            </e>
+          </e>
+        </e>
         <e p="OnlineStore.GrpcService.csproj" t="IncludeRecursive" />
         <e p="Program.cs" t="Include" />
         <e p="Properties" t="Include">
@@ -395,23 +487,8 @@
           <e p="ProducService.cs" t="Include" />
         </e>
         <e p="Startup.cs" t="Include" />
-        <e p="appsettings.Development.json" t="Include" />
-        <e p="appsettings.json" t="Include" />
-        <e p="bin" t="ExcludeRecursive" />
-        <e p="obj" t="ExcludeRecursive">
-          <e p="Debug" t="Include">
-            <e p="netcoreapp3.0" t="Include">
-              <e p="OnlineStore.GrpcService.AssemblyInfo.cs" t="Include" />
-            </e>
-          </e>
-        </e>
       </e>
       <e p="OnlineStore.MQ" t="IncludeRecursive">
-        <e p="OnlineStore.MQ.csproj" t="IncludeRecursive" />
-        <e p="RabbitMQ" t="Include">
-          <e p="RabbitMQEntityPost.cs" t="Include" />
-          <e p="RabbitMQService.cs" t="Include" />
-        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -420,10 +497,13 @@
             </e>
           </e>
         </e>
+        <e p="OnlineStore.MQ.csproj" t="IncludeRecursive" />
+        <e p="RabbitMQ" t="Include">
+          <e p="RabbitMQEntityPost.cs" t="Include" />
+          <e p="RabbitMQService.cs" t="Include" />
+        </e>
       </e>
       <e p="OnlineStore.MQService" t="IncludeRecursive">
-        <e p="OnlineStore.MQService.csproj" t="IncludeRecursive" />
-        <e p="Program.cs" t="Include" />
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
@@ -434,10 +514,16 @@
             </e>
           </e>
         </e>
+        <e p="OnlineStore.MQService.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
       </e>
       <e p="OnlineStore.sln" t="IncludeFlat" />
-      <e p="Utilities" t="Include" />
       <e p="packages" t="ExcludeRecursive" />
+      <e p="Utilities" t="Include" />
     </e>
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/JetBrains/Rider2020.1/resharper-host/local/Transient/ReSharperHost/v201/SolutionCaches/_OnlineStore.-571660910.00" t="ExcludeRecursive" />
   </component>
 </project>

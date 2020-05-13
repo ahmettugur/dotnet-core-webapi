@@ -4,6 +4,8 @@ using System.Linq;
 using System.Net;
 using System.Text;
 using System.Threading.Tasks;
+using ATCommon.Utilities.Security.Encyption;
+using ATCommon.Utilities.Security.Jwt;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -72,18 +74,20 @@ namespace OnlineStore.API
             });
 
 
+            var tokenOptions = Configuration.GetSection("TokenOptions").Get<TokenOptions>();
+            
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             .AddJwtBearer(jwtBearerOptions =>
             {
                 jwtBearerOptions.TokenValidationParameters = new TokenValidationParameters()
                 {
-                    ValidateActor = true,
+                    ValidateIssuer = true,
                     ValidateAudience = true,
                     ValidateLifetime = true,
+                    ValidIssuer = tokenOptions.Issuer,
+                    ValidAudience = tokenOptions.Audience,
                     ValidateIssuerSigningKey = true,
-                    ValidIssuer = Configuration["Issuer"],
-                    ValidAudience = Configuration["Audience"],
-                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(Configuration["SigningKey"]))
+                    IssuerSigningKey = SecurityKeyHelper.CreateSecurityKey(tokenOptions.SecurityKey)
                 };
                 jwtBearerOptions.Events = new JwtBearerEvents
                 {

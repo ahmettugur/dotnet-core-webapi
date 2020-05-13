@@ -1,6 +1,7 @@
 ﻿using ATCommon.Aspect.Logging;
 using ATCommon.Logging.Log4net.Loggers;
 using ATCommon.Utilities.Response;
+using OnlineStore.Business.BusinessAspects.Authorization;
 using OnlineStore.Business.Contracts;
 using OnlineStore.Business.DependencyResolvers.Autofac;
 using OnlineStore.Business.Logging;
@@ -39,8 +40,9 @@ namespace OnlineStore.Business.Services
             return new Result<Category>(200,_categoryRepository.Get(predicate));
         }
 
-        [BeforeLogAspect(typeof(JsonFileLogger))]
-        [AfterLogAspect(typeof(DatabaseLogger))]
+        //[BeforeLogAspect(typeof(JsonFileLogger))]
+        //[AfterLogAspect(typeof(DatabaseLogger))]
+        [AuthorizationAspect(Roles ="Admin")]
         public IResult<List<Category>> GetAll(Expression<Func<Category, bool>> predicate = null)
         {
             var model = _categoryRepository.GetAll(predicate).OrderByDescending(_ => _.Id).ToList();
