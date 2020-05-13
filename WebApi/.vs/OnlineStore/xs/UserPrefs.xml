@@ -1,5 +1,8 @@
 ﻿<Properties StartupConfiguration="{7E87CD06-F5C9-4253-9050-1CCD19676652}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="OnlineStore.Business/Services/UserService.cs">
+    <Files>
+      <File FileName="OnlineStore.Business/Services/UserService.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
@@ -28,7 +31,9 @@
                 <Node name="DependencyResolvers" expanded="True">
                   <Node name="Autofac" expanded="True" />
                 </Node>
-                <Node name="Services" expanded="True" />
+                <Node name="Services" expanded="True">
+                  <Node name="UserService.cs" selected="True" />
+                </Node>
               </Node>
             </Node>
             <Node name="Core" expanded="True">
@@ -40,9 +45,7 @@
             </Node>
             <Node name="Utilities" expanded="True">
               <Node name="ATCommon.Utilities" expanded="True">
-                <Node name="Response" expanded="True">
-                  <Node name="Result.cs" selected="True" />
-                </Node>
+                <Node name="Response" expanded="True" />
               </Node>
             </Node>
           </Node>

@@ -999,6 +999,7 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/OnlineStore.API/bi
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.API/bin/Debug/netcoreapp3.0/Log/2020/01/2020-01-19/2020-01-19-00-00.json
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.API/bin/Debug/netcoreapp3.0/Log/2020/05/2020-05-06/2020-05-06-22-00.json
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.API/bin/Debug/netcoreapp3.0/Log/2020/05/2020-05-07/2020-05-07-00-00.json
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.API/bin/Debug/netcoreapp3.0/Log/2020/05/2020-05-13/2020-05-13-19-00.json
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.API/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.API/bin/Debug/netcoreapp3.0/log4net.config
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.API/bin/Debug/netcoreapp3.0/appsettings.json
@@ -1053,6 +1054,7 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/OnlineStore.API/bi
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.API/bin/Debug/netcoreapp3.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.API/bin/Debug/netcoreapp3.0/System.Net.WebSockets.WebSocketProtocol.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.API/bin/Debug/netcoreapp3.0/System.Runtime.Caching.dll
+/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.API/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.API/bin/Debug/netcoreapp3.0/System.Security.Cryptography.ProtectedData.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.API/bin/Debug/netcoreapp3.0/System.Xml.XPath.XmlDocument.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.API/bin/Debug/netcoreapp3.0/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
@@ -1110,5 +1112,3 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/OnlineStore.API/bi
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.pdb
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.API/obj/Debug/netcoreapp3.0/OnlineStore.API.genruntimeconfig.cache
-/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.API/bin/Debug/netcoreapp3.0/Log/2020/05/2020-05-13/2020-05-13-19-00.json
-/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.API/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
