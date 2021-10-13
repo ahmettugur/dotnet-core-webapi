@@ -22,7 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aeb052b0-3d3e-4a98-b53b-01af40aecfb1" name="Default Changelist" comment="" />
+    <list default="true" id="aeb052b0-3d3e-4a98-b53b-01af40aecfb1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sonar-project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../sonar-project.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,7 +195,7 @@
       <workItem from="1589386336991" duration="1683000" />
       <workItem from="1589388568693" duration="294000" />
       <workItem from="1589391664889" duration="11000" />
-      <workItem from="1634149837630" duration="2302000" />
+      <workItem from="1634149837630" duration="2312000" />
     </task>
     <servers />
   </component>
