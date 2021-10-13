@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Z5P+5GXrmzYbf6SkNgPBPoY1K/r9dkyTPJ7E0uKz/lvdCMnVi9IQXQW+xRHy8XeGiveZfK8BzuGmH0s5CosgKQ==",
+  "dgSpecHash": "XTwAkURzMCYBfvNnaCQCSszQ/9ZtqjdI36EXsCQUUSjvXGFm8B9pUftXZGHx5erg/Nhv2AOjBBWiKWxZDeWMiQ==",
   "success": true,
   "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Entity/OnlineStore.Entity.csproj",
   "expectedPackageFiles": [
@@ -28,9 +28,7 @@
     "/home/ahmet/.nuget/packages/system.diagnostics.diagnosticsource/4.6.0/system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
     "/home/ahmet/.nuget/packages/system.reflection.emit/4.6.0/system.reflection.emit.4.6.0.nupkg.sha512",
     "/home/ahmet/.nuget/packages/system.reflection.emit.lightweight/4.6.0/system.reflection.emit.lightweight.4.6.0.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+    "/home/ahmet/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512"
   ],
   "logs": []
 }

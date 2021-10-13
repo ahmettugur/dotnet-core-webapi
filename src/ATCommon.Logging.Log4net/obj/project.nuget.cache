@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QlitEDYX7ya3K190gnosHDljvipeDXdwk+z+xhVm0RBN80M48NV19MBryrI37mPuRHz1muPiBmm8PZSIolu+GQ==",
+  "dgSpecHash": "62NbF9CpZd4bZ3j8ISaelmqwZIUZUIQqYTn5kWeeGdZXEHpKfeCoh1YI8nsmXReZSjcU80Qh5KAoaC/jtPlkyg==",
   "success": true,
   "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj",
   "expectedPackageFiles": [
@@ -18,9 +18,7 @@
     "/home/ahmet/.nuget/packages/system.security.accesscontrol/4.6.0/system.security.accesscontrol.4.6.0.nupkg.sha512",
     "/home/ahmet/.nuget/packages/system.security.cryptography.protecteddata/4.5.0/system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
     "/home/ahmet/.nuget/packages/system.security.permissions/4.5.0/system.security.permissions.4.5.0.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/system.security.principal.windows/4.6.0/system.security.principal.windows.4.6.0.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+    "/home/ahmet/.nuget/packages/system.security.principal.windows/4.6.0/system.security.principal.windows.4.6.0.nupkg.sha512"
   ],
   "logs": []
 }

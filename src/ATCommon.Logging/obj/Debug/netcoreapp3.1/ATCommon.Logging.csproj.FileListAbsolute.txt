@@ -1,0 +1,13 @@
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/bin/Debug/netcoreapp3.1/ATCommon.Logging.deps.json
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/bin/Debug/netcoreapp3.1/ATCommon.Logging.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/bin/Debug/netcoreapp3.1/ATCommon.Logging.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/bin/Debug/netcoreapp3.1/ATCommon.Logging.Contracts.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/bin/Debug/netcoreapp3.1/ATCommon.Logging.Contracts.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/obj/Debug/netcoreapp3.1/ATCommon.Logging.csproj.AssemblyReference.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/obj/Debug/netcoreapp3.1/ATCommon.Logging.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/obj/Debug/netcoreapp3.1/ATCommon.Logging.AssemblyInfoInputs.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/obj/Debug/netcoreapp3.1/ATCommon.Logging.AssemblyInfo.cs
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/obj/Debug/netcoreapp3.1/ATCommon.Logging.csproj.CoreCompileInputs.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/obj/Debug/netcoreapp3.1/ATCommon.Logging.csproj.CopyComplete
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/obj/Debug/netcoreapp3.1/ATCommon.Logging.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/obj/Debug/netcoreapp3.1/ATCommon.Logging.pdb

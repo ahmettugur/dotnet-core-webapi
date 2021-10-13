@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Sl/Wn81IqKUIpZ4dA1D40XAAhsHhR74R6DEexZu57V95iJKfERhlHzgNLffqO7fvVkOg2jwmI62LtJWs46//nA==",
+  "dgSpecHash": "Rjwc3BJpOe7LFXWKnhuyuk1qzw2JYdaUD0m7Rs1lIUKpO68GBjozZ2Z3rOP0ldot+JnWuTDfAsHPSceBgvLOEw==",
   "success": true,
   "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj",
   "expectedPackageFiles": [
@@ -38,9 +38,7 @@
     "/home/ahmet/.nuget/packages/system.reflection.emit/4.6.0/system.reflection.emit.4.6.0.nupkg.sha512",
     "/home/ahmet/.nuget/packages/system.reflection.emit.lightweight/4.6.0/system.reflection.emit.lightweight.4.6.0.nupkg.sha512",
     "/home/ahmet/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+    "/home/ahmet/.nuget/packages/system.threading.tasks.extensions/4.5.2/system.threading.tasks.extensions.4.5.2.nupkg.sha512"
   ],
   "logs": []
 }

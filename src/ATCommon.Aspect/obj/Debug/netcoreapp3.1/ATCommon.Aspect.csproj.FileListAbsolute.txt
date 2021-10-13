@@ -1,0 +1,17 @@
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/bin/Debug/netcoreapp3.1/ATCommon.Aspect.deps.json
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/bin/Debug/netcoreapp3.1/ATCommon.Aspect.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/bin/Debug/netcoreapp3.1/ATCommon.Aspect.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/bin/Debug/netcoreapp3.1/ATCommon.Aspect.Contracts.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/bin/Debug/netcoreapp3.1/ATCommon.Caching.Contracts.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/bin/Debug/netcoreapp3.1/ATCommon.Logging.Contracts.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/bin/Debug/netcoreapp3.1/ATCommon.Aspect.Contracts.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/bin/Debug/netcoreapp3.1/ATCommon.Caching.Contracts.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/bin/Debug/netcoreapp3.1/ATCommon.Logging.Contracts.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/obj/Debug/netcoreapp3.1/ATCommon.Aspect.csproj.AssemblyReference.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/obj/Debug/netcoreapp3.1/ATCommon.Aspect.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/obj/Debug/netcoreapp3.1/ATCommon.Aspect.AssemblyInfoInputs.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/obj/Debug/netcoreapp3.1/ATCommon.Aspect.AssemblyInfo.cs
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/obj/Debug/netcoreapp3.1/ATCommon.Aspect.csproj.CoreCompileInputs.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/obj/Debug/netcoreapp3.1/ATCommon.Aspect.csproj.CopyComplete
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/obj/Debug/netcoreapp3.1/ATCommon.Aspect.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/obj/Debug/netcoreapp3.1/ATCommon.Aspect.pdb

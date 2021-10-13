@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "phd+3yq31VpfHVMh2OZjcD5ozKKJ81vdI/oKWOr3FVNhCZGpLwu0Eu1Z6y+AGyeTNOQyq/j0zztt+3zmbBJd5w==",
+  "dgSpecHash": "2vToTp71FbXrPu8Ixcnawo1F/rgQ5wNnN3jYTg9CbJ4Y/bbZ8Jy8MggEuxTAM65sMpYZBI5vWehU8QkhwYbVkw==",
   "success": true,
   "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj",
-  "expectedPackageFiles": [
-    "/home/ahmet/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

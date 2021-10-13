@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rmKlUFYL8dwIBVRV8OKGpe2YZLpQWg2KH8ODhjddkj5/fNZ9ZiZXjXsqaWvDe+3vLR6CZuXSNqcGXcovTYKpUA==",
+  "dgSpecHash": "Z0TlK3blEbZoVWGJPpumYOGMO1ncbg+KSP+YRsgvVhtx4yIuM+k14r5nOYcN7F7Pemv+DjaRZtz/0IWuJHX6ng==",
   "success": true,
   "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj",
-  "expectedPackageFiles": [
-    "/home/ahmet/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JQqYcHMfQaKi5WkVyEuwc3vAPPbHLUow+TgLvJfIrlH2lNGT0JUoKgHkGnRxdV1uaqnbfOfLdtfyfLomZyDj2g==",
+  "dgSpecHash": "JEE+Kc7u3WFNyM5whpvpVQgQHhI5ydofJS1Y4Qb+RiHNjTg+pBSx0y31+8EQ7fafJ1XfwDXUVCAA0vARcTwGjQ==",
   "success": true,
   "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Business/OnlineStore.Business.csproj",
   "expectedPackageFiles": [
@@ -113,9 +113,7 @@
     "/home/ahmet/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
     "/home/ahmet/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/home/ahmet/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+    "/home/ahmet/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
   "logs": []
 }

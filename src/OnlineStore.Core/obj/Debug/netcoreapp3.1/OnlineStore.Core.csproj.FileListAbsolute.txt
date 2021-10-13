@@ -1,0 +1,13 @@
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Core/bin/Debug/netcoreapp3.1/OnlineStore.Core.deps.json
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Core/bin/Debug/netcoreapp3.1/OnlineStore.Core.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Core/bin/Debug/netcoreapp3.1/OnlineStore.Core.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Core/bin/Debug/netcoreapp3.1/OnlineStore.Core.Contracts.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Core/bin/Debug/netcoreapp3.1/OnlineStore.Core.Contracts.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Core/obj/Debug/netcoreapp3.1/OnlineStore.Core.csproj.AssemblyReference.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Core/obj/Debug/netcoreapp3.1/OnlineStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Core/obj/Debug/netcoreapp3.1/OnlineStore.Core.AssemblyInfoInputs.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Core/obj/Debug/netcoreapp3.1/OnlineStore.Core.AssemblyInfo.cs
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Core/obj/Debug/netcoreapp3.1/OnlineStore.Core.csproj.CoreCompileInputs.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Core/obj/Debug/netcoreapp3.1/OnlineStore.Core.csproj.CopyComplete
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Core/obj/Debug/netcoreapp3.1/OnlineStore.Core.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Core/obj/Debug/netcoreapp3.1/OnlineStore.Core.pdb

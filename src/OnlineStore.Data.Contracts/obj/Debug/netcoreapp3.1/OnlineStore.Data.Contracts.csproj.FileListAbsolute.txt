@@ -1,0 +1,17 @@
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.1/OnlineStore.Data.Contracts.deps.json
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.1/OnlineStore.Data.Contracts.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.1/OnlineStore.Data.Contracts.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.1/OnlineStore.Core.Contracts.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.1/OnlineStore.Core.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.1/OnlineStore.Entity.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.1/OnlineStore.Core.Contracts.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.1/OnlineStore.Entity.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/bin/Debug/netcoreapp3.1/OnlineStore.Core.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.1/OnlineStore.Data.Contracts.csproj.AssemblyReference.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.1/OnlineStore.Data.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.1/OnlineStore.Data.Contracts.AssemblyInfoInputs.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.1/OnlineStore.Data.Contracts.AssemblyInfo.cs
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.1/OnlineStore.Data.Contracts.csproj.CoreCompileInputs.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.1/OnlineStore.Data.Contracts.csproj.CopyComplete
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.1/OnlineStore.Data.Contracts.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/obj/Debug/netcoreapp3.1/OnlineStore.Data.Contracts.pdb

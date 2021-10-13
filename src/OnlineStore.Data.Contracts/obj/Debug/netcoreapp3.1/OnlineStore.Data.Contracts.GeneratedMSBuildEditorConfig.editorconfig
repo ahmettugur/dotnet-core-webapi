@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = OnlineStore.Data.Contracts
+build_property.ProjectDir = /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/
