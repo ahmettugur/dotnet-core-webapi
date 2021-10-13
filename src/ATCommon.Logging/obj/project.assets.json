@@ -73,11 +73,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/ATCommon.Logging.csproj",
+      "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/ATCommon.Logging.csproj",
       "projectName": "ATCommon.Logging",
-      "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/ATCommon.Logging.csproj",
+      "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/ATCommon.Logging.csproj",
       "packagesPath": "/home/ahmet/.nuget/packages/",
-      "outputPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/obj/",
+      "outputPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -95,8 +95,8 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
-              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj"
+            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj": {
+              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging.Contracts/ATCommon.Logging.Contracts.csproj"
             }
           }
         }

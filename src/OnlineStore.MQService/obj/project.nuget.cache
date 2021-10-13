@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "b68Lphy+whqelXhbduLD06Ysw/mthV5nxEe0Xfk4NQ0iGGNzPlchG6okmlSGDrKtfL3pmn+VnMouVutkviIoMg==",
+  "dgSpecHash": "bc2QKakV+VqNYXU8KAbse+Gjj00fGB8wvf3JheiqOMkHzicN5RoVazTdFxcKMuKHT8GgtZOxEy6xbG2oy1Dc1A==",
   "success": true,
-  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.MQService/OnlineStore.MQService.csproj",
+  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.MQService/OnlineStore.MQService.csproj",
   "expectedPackageFiles": [
     "/home/ahmet/.nuget/packages/dapper/2.0.30/dapper.2.0.30.nupkg.sha512",
     "/home/ahmet/.nuget/packages/dapper.contrib/2.0.30/dapper.contrib.2.0.30.nupkg.sha512",

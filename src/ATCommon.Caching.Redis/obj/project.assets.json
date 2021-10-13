@@ -1943,11 +1943,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/ATCommon.Caching.Redis.csproj",
+      "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Caching.Redis/ATCommon.Caching.Redis.csproj",
       "projectName": "ATCommon.Caching.Redis",
-      "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/ATCommon.Caching.Redis.csproj",
+      "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Caching.Redis/ATCommon.Caching.Redis.csproj",
       "packagesPath": "/home/ahmet/.nuget/packages/",
-      "outputPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/obj/",
+      "outputPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Caching.Redis/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -1965,11 +1965,11 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj": {
-              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj"
+            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj": {
+              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj"
             },
-            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj": {
-              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj"
+            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Utilities/ATCommon.Utilities.csproj": {
+              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Utilities/ATCommon.Utilities.csproj"
             }
           }
         }

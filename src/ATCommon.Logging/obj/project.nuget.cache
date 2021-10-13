@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lpc6n9LPyfHL7uZGr2g/cMaGjiNb7FOib5Fbti7M7eDJVw77mQmw7RLXZzGpz8FkZ1t7mLzKy/+t4/JeDmGpTg==",
+  "dgSpecHash": "ObN43gO+cpu77fPoZy5qb3ggjZCWLyh0VynefkMy3u5CRfzSHg0j5oO0f1cg28lv/dwu0nW9JAImPwN3A5FqQA==",
   "success": true,
-  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/ATCommon.Logging.csproj",
+  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/ATCommon.Logging.csproj",
   "expectedPackageFiles": [
     "/home/ahmet/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
     "/home/ahmet/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",

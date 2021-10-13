@@ -967,11 +967,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj",
+      "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj",
       "projectName": "OnlineStore.Data.Contracts",
-      "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj",
+      "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj",
       "packagesPath": "/home/ahmet/.nuget/packages/",
-      "outputPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data.Contracts/obj/",
+      "outputPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/share/dotnet/sdk/NuGetFallbackFolder"
@@ -989,11 +989,11 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
-              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj"
+            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj": {
+              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj"
             },
-            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj": {
-              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Entity/OnlineStore.Entity.csproj"
+            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Entity/OnlineStore.Entity.csproj": {
+              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Entity/OnlineStore.Entity.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj": {}
+    "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj": {}
   },
   "projects": {
-    "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj": {
+    "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
+        "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
         "projectName": "OnlineStore.GrpcClient",
-        "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
+        "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
         "packagesPath": "/home/ahmet/.nuget/packages/",
-        "outputPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/obj/",
+        "outputPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.GrpcClient/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"

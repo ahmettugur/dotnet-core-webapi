@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tzhMgaEmIQkKZJccHvZGtDCJHNWzkjk0OMgQjpQ5KF4dS1jmSKjHr8x9VGy6qn7JHnyP3vQVveBsaka2A+W5lg==",
+  "dgSpecHash": "E0fNbpHdaorxny3XHOERkq5K0uy/wfF192j2s67fFzeMqGxECMw8SeKvKRVZfyJu+zGfdjbNPExkNZo+uQUkJg==",
   "success": true,
-  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj",
+  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Utilities/ATCommon.Utilities.csproj",
   "expectedPackageFiles": [
     "/home/ahmet/.nuget/packages/dapper/2.0.30/dapper.2.0.30.nupkg.sha512",
     "/home/ahmet/.nuget/packages/dapper.contrib/2.0.30/dapper.contrib.2.0.30.nupkg.sha512",

@@ -88,3 +88,13 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/ATCommon.Aspect.Co
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.csproj.CoreCompileInputs.cache
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.dll
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.deps.json
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.csproj.AssemblyReference.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.AssemblyInfoInputs.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.AssemblyInfo.cs
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.csproj.CoreCompileInputs.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Aspect.Contracts.pdb

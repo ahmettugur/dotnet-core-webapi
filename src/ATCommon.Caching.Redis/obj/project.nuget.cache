@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OHZZzmq1wdouakNwZNul2K5mfQ4BsMDuAkGEekE8i16aDls9W/gk9jorQKkr3iipHQmjZB2q5890Aa3pwD0cOQ==",
+  "dgSpecHash": "Vz681sDXl1MAlEIU4v91bAvpKW6nMIhCFUvKBAIq+rGJqCuZyFdtXI7GRsSYEz9Pxr660eY8wXy21WEG2974aA==",
   "success": true,
-  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Redis/ATCommon.Caching.Redis.csproj",
+  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Caching.Redis/ATCommon.Caching.Redis.csproj",
   "expectedPackageFiles": [
     "/home/ahmet/.nuget/packages/dapper/2.0.30/dapper.2.0.30.nupkg.sha512",
     "/home/ahmet/.nuget/packages/dapper.contrib/2.0.30/dapper.contrib.2.0.30.nupkg.sha512",

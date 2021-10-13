@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wrUZxQK5KFeMTfdxXJwYtzgvZGZDfX4ca7Gb37rG+UL0cwjzQtz5weHDXycbWQ7Aqu1v+prjkwa+CLnUm13t2w==",
+  "dgSpecHash": "sM+b+Ji/kwkluqCjB1fF8Ms39t57luivkB5EJxE1ikegIqUZOvaY/7cg+SUE14Yy9dQV3pQOftGQ8cv+aTNbsg==",
   "success": true,
-  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Data/OnlineStore.Data.csproj",
+  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data/OnlineStore.Data.csproj",
   "expectedPackageFiles": [
     "/home/ahmet/.nuget/packages/dapper/2.0.30/dapper.2.0.30.nupkg.sha512",
     "/home/ahmet/.nuget/packages/dapper.contrib/2.0.30/dapper.contrib.2.0.30.nupkg.sha512",

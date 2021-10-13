@@ -100,3 +100,16 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/ATCommon.Logging/o
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.csproj.CopyComplete
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.dll
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/bin/Debug/netcoreapp3.0/ATCommon.Logging.deps.json
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/bin/Debug/netcoreapp3.0/ATCommon.Logging.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/bin/Debug/netcoreapp3.0/ATCommon.Logging.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/bin/Debug/netcoreapp3.0/ATCommon.Logging.Contracts.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.csproj.AssemblyReference.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.AssemblyInfoInputs.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.AssemblyInfo.cs
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.csproj.CoreCompileInputs.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.csproj.CopyComplete
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/obj/Debug/netcoreapp3.0/ATCommon.Logging.pdb

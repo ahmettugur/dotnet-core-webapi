@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JLORXwZK2JTt/Pgy7GriUlrJb+3U8x1LZZUMgTQuIV0NoWL+IcF5mt6NWl+Mb8MMJoHVVEFJmhj5K2kJ02u66w==",
+  "dgSpecHash": "irDXYeqOYl9NODxDLcpUmM5XAncC6bUROfIuQO2jAGeEOC1N6Gp32B4z/k7dyAKM3hytw1KD2K+GRIvH3lV5VQ==",
   "success": true,
-  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Memcached/ATCommon.Caching.Memcached.csproj",
+  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Caching.Memcached/ATCommon.Caching.Memcached.csproj",
   "expectedPackageFiles": [
     "/home/ahmet/.nuget/packages/dapper/2.0.30/dapper.2.0.30.nupkg.sha512",
     "/home/ahmet/.nuget/packages/dapper.contrib/2.0.30/dapper.contrib.2.0.30.nupkg.sha512",

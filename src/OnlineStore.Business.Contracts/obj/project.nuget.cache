@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8A7s1SFaKyjUS1aX1eQ6VSddfOKjNwURmdIOPZEcMh8q3la0eplnb4U4NpFhu02jP2VtUddhX8I90S4g8wVuJg==",
+  "dgSpecHash": "Sl/Wn81IqKUIpZ4dA1D40XAAhsHhR74R6DEexZu57V95iJKfERhlHzgNLffqO7fvVkOg2jwmI62LtJWs46//nA==",
   "success": true,
-  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj",
+  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj",
   "expectedPackageFiles": [
     "/home/ahmet/.nuget/packages/dapper/2.0.30/dapper.2.0.30.nupkg.sha512",
     "/home/ahmet/.nuget/packages/dapper.contrib/2.0.30/dapper.contrib.2.0.30.nupkg.sha512",

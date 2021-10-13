@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t5ZmJk5as8TyeI3A7TZ7pE2kxPdky1UovdDkzvWAfwvr/wwaUK9DK4S5p9VsqDP7owB584OJdA9S4e9S/ifdWg==",
+  "dgSpecHash": "3Y/fsA4TonZm4qttZ+tgnPyMZSfFr1e/xj/4yHslT2g5CqJm4HdNznZ1sjHkepMKQ5lrU/35Vnm4s1Mq2DlJ7w==",
   "success": true,
-  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect/ATCommon.Aspect.csproj",
+  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/ATCommon.Aspect.csproj",
   "expectedPackageFiles": [
     "/home/ahmet/.nuget/packages/fluentvalidation/8.5.0/fluentvalidation.8.5.0.nupkg.sha512",
     "/home/ahmet/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",

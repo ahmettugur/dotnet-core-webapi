@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "teDhm2azOCFtV8k/XuixRb6/fI1wS8wTfj/dZB5CVFhpsioYkLIlVtb/q5P/cyD7CuhajllYe8VSttBRaEIu8g==",
+  "dgSpecHash": "LBPOzCwa3Iz4Bgitxcd1wU+caMhl8aKU4DRwxPCUBRiM2gibd0N7KS+h9ZUHhPC6qzKuxbpLhp3Y9miOEPvwAw==",
   "success": true,
-  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
+  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
   "expectedPackageFiles": [
     "/home/ahmet/.nuget/packages/google.protobuf/3.9.2/google.protobuf.3.9.2.nupkg.sha512",
     "/home/ahmet/.nuget/packages/grpc.core.api/2.23.0/grpc.core.api.2.23.0.nupkg.sha512",
