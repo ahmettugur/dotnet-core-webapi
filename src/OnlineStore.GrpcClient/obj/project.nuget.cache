@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "LBPOzCwa3Iz4Bgitxcd1wU+caMhl8aKU4DRwxPCUBRiM2gibd0N7KS+h9ZUHhPC6qzKuxbpLhp3Y9miOEPvwAw==",
+  "dgSpecHash": "6K68MlPmIQxHfWk4U7iOTSHQVDHCqFIZSaa+BMRxeEyL7npwEJJg5tk3ylMboauijsH3XKIIo8nu7j8eUPirdw==",
   "success": true,
   "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
   "expectedPackageFiles": [
@@ -11,10 +11,7 @@
     "/home/ahmet/.nuget/packages/grpc.tools/2.24.0/grpc.tools.2.24.0.nupkg.sha512",
     "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.extensions.logging.abstractions/2.1.1/microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
     "/home/ahmet/.nuget/packages/system.diagnostics.diagnosticsource/4.5.1/system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.0.3/microsoft.netcore.app.host.linux-x64.3.0.3.nupkg.sha512"
+    "/home/ahmet/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
 }

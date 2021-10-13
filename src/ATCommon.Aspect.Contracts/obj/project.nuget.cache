@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2vToTp71FbXrPu8Ixcnawo1F/rgQ5wNnN3jYTg9CbJ4Y/bbZ8Jy8MggEuxTAM65sMpYZBI5vWehU8QkhwYbVkw==",
+  "dgSpecHash": "hRiUCt5VuTwKCO+g1YI6qfkFmY+x+VUXih7jz2RLOjZilFm+9kI5TaL+KL9aQSL4GfEDaiQSjRnGNH9qi18ccw==",
   "success": true,
   "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj",
   "expectedPackageFiles": [],

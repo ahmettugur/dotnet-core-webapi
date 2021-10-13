@@ -53,7 +53,7 @@ namespace OnlineStore.MQ.RabbitMQ
             }
             catch (Exception ex)
             {
-                throw ex;
+                Console.WriteLine(ex.Message);
             }
 
             return $"[x] Sent {returnValue}";

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JEE+Kc7u3WFNyM5whpvpVQgQHhI5ydofJS1Y4Qb+RiHNjTg+pBSx0y31+8EQ7fafJ1XfwDXUVCAA0vARcTwGjQ==",
+  "dgSpecHash": "Qm6Zsprjj4sTDGS34/CBo7/aufEioAbzC6pwsl/byTCOQgJn4sn++0eK53JxG+3MD7IidHjQeLp3HrwyzJysew==",
   "success": true,
   "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Business/OnlineStore.Business.csproj",
   "expectedPackageFiles": [

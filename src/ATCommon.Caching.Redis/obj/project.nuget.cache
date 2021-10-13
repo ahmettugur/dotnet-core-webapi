@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eGTVo8gAT98oQZCUxPW4ko/vjl+aWPvFvci9E3iF1ShNsqiwkgDtcc1PvnaJjUGeKLivRsL//6e5NMlsb++aQQ==",
+  "dgSpecHash": "8SHXQgmhmh6HVPz3F9roqkPJfSeuoXSZfQUewif1jQ7l9UYd1gNGeuDeQ5aXli7wpZJPog7FZ8oc8xR8/V40GA==",
   "success": true,
   "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Caching.Redis/ATCommon.Caching.Redis.csproj",
   "expectedPackageFiles": [

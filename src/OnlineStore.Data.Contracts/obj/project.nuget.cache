@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uVqSvp6xpX16ykFUxiL/XvVPKls4aE+xaSNHZ0K7zrTxJQX2RHu8Ez4Xc8pst+rxgu2BSuDmu+9eXs4SSzDQFg==",
+  "dgSpecHash": "6famY37eg+dBLeXWRXBtoBzomj8/Cf3UzX2orXKDkUI2YwpmWpjV66cn2IPqYC+2VTbvsmm7Ne7ULAWnVy1thg==",
   "success": true,
   "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj",
   "expectedPackageFiles": [

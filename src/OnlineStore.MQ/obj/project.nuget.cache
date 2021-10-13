@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "eV+Rs6C1Px31CmtZPrjYY1JYrMiEVBr/ruKZ8OJQkVwv4oOiXV4DP4zCOEziGzYtiKKbanzMJSx8+UJ51cN/Zw==",
+  "dgSpecHash": "Aud0gav0W/DRSRzW/gkptY8611VAcpNXCrnzQHDwM5E31l7p1t8U65ud0eG2r5fP2OKzOFztDY9pQJwBrKbMvA==",
   "success": true,
   "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.MQ/OnlineStore.MQ.csproj",
   "expectedPackageFiles": [

@@ -308,21 +308,21 @@ namespace ATCommon.Utilities.Extensions
             return stringToShorten.Substring(0, cutOffPoint);
         }
 
-        public static byte[] ObjectToByteArray<T>(this List<T> obj) where T : class, new()
-        {
-            var bf = new BinaryFormatter();
-            var ms = new MemoryStream();
-            bf.Serialize(ms, obj);
-            return ms.ToArray();
-        }
+        // public static byte[] ObjectToByteArray<T>(this List<T> obj) where T : class, new()
+        // {
+        //     var bf = new BinaryFormatter();
+        //     var ms = new MemoryStream();
+        //     bf.Serialize(ms, obj);
+        //     return ms.ToArray();
+        // }
 
-        public static List<T> ByteArrayToObject<T>(this byte[] _ByteArray) where T : class, new()
-        {
-            MemoryStream _MemoryStream = new MemoryStream(_ByteArray);
-            BinaryFormatter _BinaryFormatter = new BinaryFormatter();
-            _MemoryStream.Position = 0;
-            return _BinaryFormatter.Deserialize(_MemoryStream) as List<T>;
-        }
+        // public static List<T> ByteArrayToObject<T>(this byte[] _ByteArray) where T : class, new()
+        // {
+        //     MemoryStream _MemoryStream = new MemoryStream(_ByteArray);
+        //     BinaryFormatter _BinaryFormatter = new BinaryFormatter();
+        //     _MemoryStream.Position = 0;
+        //     return _BinaryFormatter(_MemoryStream) as List<T>;
+        // }
 
         public static string GetDataType(string dataType)
         {
