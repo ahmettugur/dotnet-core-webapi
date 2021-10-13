@@ -85,3 +85,13 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/OnlineStore.Core.C
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.AssemblyInfo.cs
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.deps.json
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/bin/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.csproj.AssemblyReference.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.AssemblyInfoInputs.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.AssemblyInfo.cs
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.csproj.CoreCompileInputs.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/obj/Debug/netcoreapp3.0/OnlineStore.Core.Contracts.pdb

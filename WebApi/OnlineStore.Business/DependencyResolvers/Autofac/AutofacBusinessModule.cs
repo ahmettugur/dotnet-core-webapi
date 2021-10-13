@@ -32,7 +32,7 @@ namespace OnlineStore.Business.DependencyResolvers.Autofac
             
             builder.RegisterType<JwtHelper>().As<ITokenHelper>();
             
-            builder.RegisterType<HttpContextAccessor>().As<IHttpContextAccessor>();
+            //builder.RegisterType<HttpContextAccessor>().As<IHttpContextAccessor>();
             
             
 

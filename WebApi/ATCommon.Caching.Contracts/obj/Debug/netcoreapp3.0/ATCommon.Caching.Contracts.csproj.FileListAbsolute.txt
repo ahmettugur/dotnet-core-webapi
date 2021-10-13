@@ -79,3 +79,13 @@ C:/Users/ALPEREN/Desktop/testapi-master/testapi-master/WebApi/ATCommon.Caching.C
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.AssemblyInfo.cs
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.dll
 /Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.deps.json
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/bin/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.csproj.AssemblyReference.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.AssemblyInfoInputs.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.AssemblyInfo.cs
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.csproj.CoreCompileInputs.cache
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.dll
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/obj/Debug/netcoreapp3.0/ATCommon.Caching.Contracts.pdb

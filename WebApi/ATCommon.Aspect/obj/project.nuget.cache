@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "EUzRvMEnbXAE0Ib8KxTQSJLG6PINsBlRD551F4aBlnXjjwPcnfJ/35zh+4Bv9WuiAcsg2CuZA5oR8GUvfMWwGw==",
+  "dgSpecHash": "t5ZmJk5as8TyeI3A7TZ7pE2kxPdky1UovdDkzvWAfwvr/wwaUK9DK4S5p9VsqDP7owB584OJdA9S4e9S/ifdWg==",
   "success": true,
-  "projectFilePath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect/ATCommon.Aspect.csproj",
+  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Aspect/ATCommon.Aspect.csproj",
   "expectedPackageFiles": [
-    "/Users/ahmettugur/.nuget/packages/fluentvalidation/8.5.0/fluentvalidation.8.5.0.nupkg.sha512",
-    "/Users/ahmettugur/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
-    "/Users/ahmettugur/.nuget/packages/system.componentmodel.annotations/4.4.1/system.componentmodel.annotations.4.4.1.nupkg.sha512"
+    "/home/ahmet/.nuget/packages/fluentvalidation/8.5.0/fluentvalidation.8.5.0.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/system.componentmodel.annotations/4.4.1/system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "bv9kmPe5aPw3UYKGW30i3Rv1liM5Yb6kepfgbg9P1U0XJPMN9g7fku/9eMWlLde4zhUpBjj4G7BN5Uqr0Thr1Q==",
+  "dgSpecHash": "Ml/hcGcXH7HtQww62r3qspM1dqAJzu5i138qgcZMTRRXa8iqg8eljs6CtQKWYWMZKjD1df7VGB8vcgYiRF6jtA==",
   "success": true,
-  "projectFilePath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.Core.Contracts/OnlineStore.Core.Contracts.csproj",
+  "expectedPackageFiles": [
+    "/home/ahmet/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

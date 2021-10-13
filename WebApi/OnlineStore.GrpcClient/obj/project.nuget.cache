@@ -1,17 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "/QWb8KDg0TsFaNOP8dCbj1Cu4P2xGxMqQ9g8Ur7OiKDuOtfkMfsTmVOrPGZGr9L9uND3Vjcp/3DgNR15/33IZA==",
+  "dgSpecHash": "teDhm2azOCFtV8k/XuixRb6/fI1wS8wTfj/dZB5CVFhpsioYkLIlVtb/q5P/cyD7CuhajllYe8VSttBRaEIu8g==",
   "success": true,
-  "projectFilePath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
+  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
   "expectedPackageFiles": [
-    "/Users/ahmettugur/.nuget/packages/google.protobuf/3.9.2/google.protobuf.3.9.2.nupkg.sha512",
-    "/Users/ahmettugur/.nuget/packages/grpc.core.api/2.23.0/grpc.core.api.2.23.0.nupkg.sha512",
-    "/Users/ahmettugur/.nuget/packages/grpc.net.client/2.23.2/grpc.net.client.2.23.2.nupkg.sha512",
-    "/Users/ahmettugur/.nuget/packages/grpc.net.common/2.23.2/grpc.net.common.2.23.2.nupkg.sha512",
-    "/Users/ahmettugur/.nuget/packages/grpc.tools/2.24.0/grpc.tools.2.24.0.nupkg.sha512",
-    "/Users/ahmettugur/.nuget/packages/microsoft.extensions.logging.abstractions/2.1.1/microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
-    "/Users/ahmettugur/.nuget/packages/system.diagnostics.diagnosticsource/4.5.1/system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
-    "/Users/ahmettugur/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
+    "/home/ahmet/.nuget/packages/google.protobuf/3.9.2/google.protobuf.3.9.2.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/grpc.core.api/2.23.0/grpc.core.api.2.23.0.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/grpc.net.client/2.23.2/grpc.net.client.2.23.2.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/grpc.net.common/2.23.2/grpc.net.common.2.23.2.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/grpc.tools/2.24.0/grpc.tools.2.24.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.extensions.logging.abstractions/2.1.1/microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/system.diagnostics.diagnosticsource/4.5.1/system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/microsoft.netcore.app.ref/3.0.0/microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/microsoft.aspnetcore.app.ref/3.0.1/microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.0.3/microsoft.netcore.app.host.linux-x64.3.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -11,13 +11,12 @@
           "ATCommon.Aspect": "1.0.0",
           "ATCommon.Logging.Log4net": "1.0.0",
           "Autofac": "4.9.4",
+          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
           "OnlineStore.Business.Contracts": "1.0.0",
           "OnlineStore.Data": "1.0.0",
           "OnlineStore.Data.Contracts": "1.0.0",
           "OnlineStore.Entity": "1.0.0",
-          "OnlineStore.MQ": "1.0.0",
-          "Microsoft.AspNetCore.Http.Abstractions": "3.0.0.0",
-          "Microsoft.AspNetCore.Http": "3.0.0.0"
+          "OnlineStore.MQ": "1.0.0"
         },
         "runtime": {
           "OnlineStore.Business.dll": {}
@@ -99,6 +98,29 @@
           "lib/netstandard1.3/log4net.dll": {
             "assemblyVersion": "2.0.8.0",
             "fileVersion": "2.0.8.0"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Http.Abstractions/2.2.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "2.2.0",
+          "System.Text.Encodings.Web": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Http.Features/2.2.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
           }
         }
       },
@@ -529,7 +551,7 @@
           "runtimes/win-arm64/native/sni.dll": {
             "rid": "win-arm64",
             "assetType": "native",
-            "fileVersion": "4.6.25512.1"
+            "fileVersion": "0.0.0.0"
           }
         }
       },
@@ -538,7 +560,7 @@
           "runtimes/win-x64/native/sni.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "4.6.25512.1"
+            "fileVersion": "0.0.0.0"
           }
         }
       },
@@ -547,7 +569,7 @@
           "runtimes/win-x86/native/sni.dll": {
             "rid": "win-x86",
             "assetType": "native",
-            "fileVersion": "4.6.25512.1"
+            "fileVersion": "0.0.0.0"
           }
         }
       },
@@ -1061,14 +1083,7 @@
           }
         }
       },
-      "System.Runtime.CompilerServices.Unsafe/4.6.0": {
-        "runtime": {
-          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
-            "assemblyVersion": "4.0.5.0",
-            "fileVersion": "4.700.19.46214"
-          }
-        }
-      },
+      "System.Runtime.CompilerServices.Unsafe/4.6.0": {},
       "System.Runtime.Extensions/4.3.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.0.0",
@@ -1309,6 +1324,7 @@
           "System.Text.Encoding": "4.3.0"
         }
       },
+      "System.Text.Encodings.Web/4.5.0": {},
       "System.Text.RegularExpressions/4.3.0": {
         "dependencies": {
           "System.Runtime": "4.3.0"
@@ -1547,46 +1563,6 @@
         "runtime": {
           "OnlineStore.MQ.dll": {}
         }
-      },
-      "Microsoft.AspNetCore.Http.Abstractions/3.0.0.0": {
-        "runtime": {
-          "Microsoft.AspNetCore.Http.Abstractions.dll": {
-            "assemblyVersion": "3.0.0.0",
-            "fileVersion": "3.0.119.55407"
-          }
-        }
-      },
-      "Microsoft.AspNetCore.Http/3.0.0.0": {
-        "runtime": {
-          "Microsoft.AspNetCore.Http.dll": {
-            "assemblyVersion": "3.0.0.0",
-            "fileVersion": "3.0.119.55407"
-          }
-        }
-      },
-      "Microsoft.AspNetCore.Http.Features/3.0.0.0": {
-        "runtime": {
-          "Microsoft.AspNetCore.Http.Features.dll": {
-            "assemblyVersion": "3.0.0.0",
-            "fileVersion": "3.0.119.55407"
-          }
-        }
-      },
-      "System.IO.Pipelines/4.0.1.0": {
-        "runtime": {
-          "System.IO.Pipelines.dll": {
-            "assemblyVersion": "4.0.1.0",
-            "fileVersion": "4.700.19.46214"
-          }
-        }
-      },
-      "Microsoft.Extensions.ObjectPool/3.0.0.0": {
-        "runtime": {
-          "Microsoft.Extensions.ObjectPool.dll": {
-            "assemblyVersion": "3.0.0.0",
-            "fileVersion": "3.0.19.46305"
-          }
-        }
       }
     }
   },
@@ -1630,6 +1606,20 @@
       "sha512": "sha512-N41MQGHZImiCfn0cUuSBjZxrcNfIQCuCgQP0rpgB3J/NWponEh3lc1LxJEuIsPAR9Oc1jVvfkNNFCY1C5hf9LA==",
       "path": "log4net/2.0.8",
       "hashPath": "log4net.2.0.8.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Http.Abstractions/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Nxs7Z1q3f1STfLYKJSVXCs1iBl+Ya6E8o4Oy1bCxJ/rNI44E/0f6tbsrVqAWfB7jlnJfyaAtIalBVxPKUPQb4Q==",
+      "path": "microsoft.aspnetcore.http.abstractions/2.2.0",
+      "hashPath": "microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Http.Features/2.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ziFz5zH8f33En4dX81LW84I6XrYXKf9jg6aM39cM+LffN9KJahViKZ61dGMSO2gd3e+qe5yBRwsesvyqlZaSMg==",
+      "path": "microsoft.aspnetcore.http.features/2.2.0",
+      "hashPath": "microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512"
     },
     "Microsoft.CSharp/4.6.0": {
       "type": "package",
@@ -2443,6 +2433,13 @@
       "path": "system.text.encoding.extensions/4.3.0",
       "hashPath": "system.text.encoding.extensions.4.3.0.nupkg.sha512"
     },
+    "System.Text.Encodings.Web/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Xg4G4Indi4dqP1iuAiMSwpiWS54ZghzR644OtsRCm/m/lBMG8dUBhLVN7hLm8NNrNTR+iGbshCPTwrvxZPlm4g==",
+      "path": "system.text.encodings.web/4.5.0",
+      "hashPath": "system.text.encodings.web.4.5.0.nupkg.sha512"
+    },
     "System.Text.RegularExpressions/4.3.0": {
       "type": "package",
       "serviceable": true,
@@ -2589,31 +2586,6 @@
     },
     "OnlineStore.MQ/1.0.0": {
       "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Microsoft.AspNetCore.Http.Abstractions/3.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Microsoft.AspNetCore.Http/3.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Microsoft.AspNetCore.Http.Features/3.0.0.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "System.IO.Pipelines/4.0.1.0": {
-      "type": "reference",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Microsoft.Extensions.ObjectPool/3.0.0.0": {
-      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

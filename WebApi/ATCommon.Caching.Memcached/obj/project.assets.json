@@ -1520,23 +1520,23 @@
     ]
   },
   "packageFolders": {
-    "/Users/ahmettugur/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/home/ahmet/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Memcached/ATCommon.Caching.Memcached.csproj",
+      "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Memcached/ATCommon.Caching.Memcached.csproj",
       "projectName": "ATCommon.Caching.Memcached",
-      "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Memcached/ATCommon.Caching.Memcached.csproj",
-      "packagesPath": "/Users/ahmettugur/.nuget/packages/",
-      "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Memcached/obj/",
+      "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Memcached/ATCommon.Caching.Memcached.csproj",
+      "packagesPath": "/home/ahmet/.nuget/packages/",
+      "outputPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Memcached/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/ahmettugur/.config/NuGet/NuGet.Config"
+        "/home/ahmet/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
@@ -1546,12 +1546,13 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj": {
-              "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj"
+            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj": {
+              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj"
             },
-            "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj": {
-              "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj"
+            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj": {
+              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Utilities/ATCommon.Utilities.csproj"
             }
           }
         }
@@ -1564,6 +1565,7 @@
     },
     "frameworks": {
       "netcoreapp3.0": {
+        "targetAlias": "netcoreapp3.0",
         "dependencies": {
           "EnyimMemcachedCore": {
             "target": "Package",
@@ -1588,12 +1590,22 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.0.1, 3.0.1]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.0.0, 3.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
       }
     }
   }

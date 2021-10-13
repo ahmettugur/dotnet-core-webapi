@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj": {}
+    "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj": {}
   },
   "projects": {
-    "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj": {
+    "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
+        "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
         "projectName": "OnlineStore.GrpcClient",
-        "projectPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
-        "packagesPath": "/Users/ahmettugur/.nuget/packages/",
-        "outputPath": "/Users/ahmettugur/Desktop/Applications/AspNetCoreApps/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/obj/",
+        "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
+        "packagesPath": "/home/ahmet/.nuget/packages/",
+        "outputPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/OnlineStore.GrpcClient/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/ahmettugur/.nuget/NuGet/NuGet.Config"
+          "/home/ahmet/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
@@ -27,6 +27,7 @@
         },
         "frameworks": {
           "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
             "projectReferences": {}
           }
         },
@@ -38,6 +39,7 @@
       },
       "frameworks": {
         "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
           "dependencies": {
             "Google.Protobuf": {
               "target": "Package",
@@ -64,12 +66,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.0.1, 3.0.1]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[3.0.3, 3.0.3]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.0.0, 3.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }

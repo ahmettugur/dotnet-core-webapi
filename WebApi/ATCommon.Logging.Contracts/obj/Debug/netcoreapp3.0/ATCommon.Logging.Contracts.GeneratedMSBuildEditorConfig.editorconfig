@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ATCommon.Logging.Contracts
+build_property.ProjectDir = /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/WebApi/ATCommon.Logging.Contracts/
