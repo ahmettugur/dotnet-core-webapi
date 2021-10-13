@@ -1,2 +1,2 @@
-obj/Debug/net5.0/Greet.cs \
-obj/Debug/net5.0/GreetGrpc.cs: Protos/greet.proto
+obj/Debug/net5.0/Protos/Greet.cs \
+obj/Debug/net5.0/Protos/GreetGrpc.cs: Protos/greet.proto

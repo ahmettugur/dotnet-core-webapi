@@ -108,11 +108,11 @@
           "dependencies": {
             "FluentValidation": {
               "target": "Package",
-              "version": "[8.5.0, )"
+              "version": "[10.3.3, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.2, )"
+              "version": "[13.0.1, )"
             }
           },
           "imports": [
@@ -287,15 +287,15 @@
           "dependencies": {
             "Microsoft.Extensions.Logging.Abstractions": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[5.0.0, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.2, )"
+              "version": "[13.0.1, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",
-              "version": "[4.7.0, )"
+              "version": "[4.8.3, )"
             },
             "log4net": {
               "target": "Package",
@@ -364,23 +364,23 @@
           "dependencies": {
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
-              "version": "[5.5.0, )"
+              "version": "[6.13.1, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.2, )"
+              "version": "[13.0.1, )"
             },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[5.5.0, )"
+              "version": "[6.13.1, )"
             }
           },
           "imports": [
@@ -525,7 +525,7 @@
           "dependencies": {
             "Autofac": {
               "target": "Package",
-              "version": "[4.9.4, )"
+              "version": "[6.3.0, )"
             },
             "Microsoft.AspNetCore.Http.Abstractions": {
               "target": "Package",
@@ -649,19 +649,19 @@
           "dependencies": {
             "Dapper.Contrib": {
               "target": "Package",
-              "version": "[2.0.30, )"
+              "version": "[2.0.78, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[5.0.11, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.2, )"
+              "version": "[13.0.1, )"
             },
             "RabbitMQ.Client": {
               "target": "Package",
-              "version": "[5.1.1, )"
+              "version": "[6.2.2, )"
             }
           },
           "imports": [
@@ -791,35 +791,35 @@
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[5.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[5.0.11, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[5.0.11, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[5.0.0, )"
             },
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[5.0.0, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[5.0.10, )"
             },
             "Pomelo.EntityFrameworkCore.MySql": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[5.0.2, )"
             },
             "System.Data.SqlClient": {
               "target": "Package",
-              "version": "[4.7.0, )"
+              "version": "[4.8.3, )"
             }
           },
           "imports": [
@@ -949,11 +949,11 @@
           "dependencies": {
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.2, )"
+              "version": "[13.0.1, )"
             },
             "RabbitMQ.Client": {
               "target": "Package",
-              "version": "[5.1.2, )"
+              "version": "[6.2.2, )"
             }
           },
           "imports": [

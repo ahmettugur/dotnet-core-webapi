@@ -8,6 +8,7 @@ using ATCommon.Utilities.Extensions;
 using ATCommon.Utilities.Security.Encyption;
 using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
+using Newtonsoft.Json;
 using OnlineStore.Entity.Concrete;
 
 namespace ATCommon.Utilities.Security.Jwt
@@ -20,7 +21,7 @@ namespace ATCommon.Utilities.Security.Jwt
         public JwtHelper(IConfiguration configuration)
         {
             Configuration = configuration;
-            _tokenOptions = Configuration.GetSection("TokenOptions").Get<TokenOptions>();
+            _tokenOptions = JsonConvert.DeserializeObject<TokenOptions>(Configuration.GetSection("TokenOptions").Value);
             
         }
         public AccessToken CreateToken(User user, string[] roles)

@@ -37,7 +37,7 @@ namespace OnlineStore.MQService
 
                     consumer.Received += (model, ea) =>
                     {
-                        var body = ea.Body;
+                        var body = ea.Body.ToArray();
                         var data = Encoding.UTF8.GetString(body);
                         Product product = JsonConvert.DeserializeObject<Product>(data);
                         

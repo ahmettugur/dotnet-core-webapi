@@ -108,11 +108,11 @@
           "dependencies": {
             "FluentValidation": {
               "target": "Package",
-              "version": "[8.5.0, )"
+              "version": "[10.3.3, )"
             },
             "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[12.0.2, )"
+              "version": "[13.0.1, )"
             }
           },
           "imports": [

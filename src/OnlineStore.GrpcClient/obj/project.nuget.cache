@@ -1,16 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "6K68MlPmIQxHfWk4U7iOTSHQVDHCqFIZSaa+BMRxeEyL7npwEJJg5tk3ylMboauijsH3XKIIo8nu7j8eUPirdw==",
+  "dgSpecHash": "jgvAi0BxpehbhRqxCh8l8dqacQPP+qVygI86Nz4LMt8apg8mE/IAEh4WxQDSaUZFIQkd73YMPrEd60GxjfdEog==",
   "success": true,
   "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
   "expectedPackageFiles": [
-    "/home/ahmet/.nuget/packages/google.protobuf/3.9.2/google.protobuf.3.9.2.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/grpc.core.api/2.23.0/grpc.core.api.2.23.0.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/grpc.net.client/2.23.2/grpc.net.client.2.23.2.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/grpc.net.common/2.23.2/grpc.net.common.2.23.2.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/grpc.tools/2.24.0/grpc.tools.2.24.0.nupkg.sha512",
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.extensions.logging.abstractions/2.1.1/microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/system.diagnostics.diagnosticsource/4.5.1/system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/google.protobuf/3.18.1/google.protobuf.3.18.1.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/grpc.core.api/2.40.0/grpc.core.api.2.40.0.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/grpc.net.client/2.40.0/grpc.net.client.2.40.0.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/grpc.net.common/2.40.0/grpc.net.common.2.40.0.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/grpc.tools/2.41.0/grpc.tools.2.41.0.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/microsoft.extensions.logging.abstractions/3.0.3/microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
     "/home/ahmet/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512"
   ],
   "logs": []
