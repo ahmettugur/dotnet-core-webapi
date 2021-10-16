@@ -15,7 +15,6 @@
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.GrpcClient/obj/Debug/net5.0/OnlineStore.GrpcClient.AssemblyInfoInputs.cache
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.GrpcClient/obj/Debug/net5.0/OnlineStore.GrpcClient.AssemblyInfo.cs
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.GrpcClient/obj/Debug/net5.0/OnlineStore.GrpcClient.csproj.CoreCompileInputs.cache
-/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.GrpcClient/obj/Debug/net5.0/OnlineStore.GrpcClient.csproj.CopyComplete
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.GrpcClient/obj/Debug/net5.0/OnlineStore.GrpcClient.dll
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.GrpcClient/obj/Debug/net5.0/ref/OnlineStore.GrpcClient.dll
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.GrpcClient/obj/Debug/net5.0/OnlineStore.GrpcClient.pdb

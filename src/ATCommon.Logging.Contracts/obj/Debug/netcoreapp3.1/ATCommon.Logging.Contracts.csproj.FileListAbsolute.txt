@@ -7,3 +7,4 @@
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.1/ATCommon.Logging.Contracts.csproj.CoreCompileInputs.cache
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.1/ATCommon.Logging.Contracts.dll
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.1/ATCommon.Logging.Contracts.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.1/ATCommon.Logging.Contracts.csproj.AssemblyReference.cache
