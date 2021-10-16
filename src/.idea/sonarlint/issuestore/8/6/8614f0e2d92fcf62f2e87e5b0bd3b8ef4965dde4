@@ -1,0 +1,6 @@
+
+kcsharpsquid:S1118"OAdd a 'protected' constructor or the 'static' keyword to the class declaration.(¶Íæ
+
+;csharpsquid:S3877"Remove this 'throw' statement.(Óç€À
+gcsharpsquid:S3963"JInitialize all 'static fields' inline and remove the 'static constructor'.(ÕŠ™™
+Qcsharpsquid:S112"5'System.Exception' should not be thrown by user code.(Óç€À

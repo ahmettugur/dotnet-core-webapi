@@ -1,0 +1,16 @@
+
+ucsharpsquid:S3776”"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(¿âééÿÿÿÿÿ
+pcsharpsquid:S3776Ç"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(›—Í­
+?csharpsquid:S1116•"Remove this empty statement.(Ô½°»ûÿÿÿÿ
+Rcsharpsquid:S1656’"/Remove or correct this useless self-assignment.(ß—Ì€ûÿÿÿÿ
+?csharpsquid:S1643³"Use a StringBuilder instead.(æÙç¨øÿÿÿÿ
+?csharpsquid:S1643ç"Use a StringBuilder instead.(æÙç¨øÿÿÿÿ
+?csharpsquid:S1643”"Use a StringBuilder instead.(»éÉ½úÿÿÿÿ
+Hcsharpsquid:S1075ê"%Remove this hardcoded path-delimiter.(æßÓ°şÿÿÿÿ
+Ccsharpsquid:S1075ë"%Remove this hardcoded path-delimiter.(×«ğ
+Hcsharpsquid:S1075ú"%Remove this hardcoded path-delimiter.(æßÓ°şÿÿÿÿ
+Ccsharpsquid:S1075û"%Remove this hardcoded path-delimiter.(×«ğ
+Icsharpsquid:S1481„"&Remove the unused local variable 'vl'.(í©¿Šúÿÿÿÿ
+@csharpsquid:S1258"Remove this commented out code.(‚øÓÅøÿÿÿÿ
+;csharpsquid:S125>"Remove this commented out code.(¼¤¬
+Ccsharpsquid:S125À"Remove this commented out code.(Ú°à¬8ë¸’ÜÇ/
