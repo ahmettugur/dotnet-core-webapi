@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QLUKlC/jnMX2uPoSqYXDG7B2kAewtVdB1Uu2MR5H2u8DqMJYDtZmZLUxtcOT1WulCQyOo/2zfu6pxN8BXaz9tw==",
+  "dgSpecHash": "9IYo/SonPZRaLbRhts4wBMZkxCA2pKl7N6Yn2khsGISCW+FmitJ0za6V2zK+6+YHEA1ygQcChyU9wdbiTKpxBQ==",
   "success": true,
   "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Entity/OnlineStore.Entity.csproj",
   "expectedPackageFiles": [

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+PekJlUCat7BU7Kfp7en4Xc6Hs62xw4+TYfrAP0SH8cafPk0K+231Xur3TKHvvGdNuaQrnI7JImSwVogWfNZQA==",
+  "dgSpecHash": "jGdGsNlUqK+y7mTwvKUswgHgRyepPVjlmdsH2UiKTHNeCklCIfUB7L3Mo27i/mgtkK9l+g4vMGFcd5oDrILhXA==",
   "success": true,
   "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj",
   "expectedPackageFiles": [],

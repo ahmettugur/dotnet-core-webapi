@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vONIpMpwFySrNDvBGrCiJUvDDF13ZPdvzThBfnlkJ6ZaHt8E1DeiGj/+f0Ch/42jDRrQvrUa93iT3F3YQyAyUg==",
+  "dgSpecHash": "V45nRRV1FbC7G02nqaY5Gbqd0HV9lFypQKnNvhf5pMydkZIspTvvJpYyQS6a+xeYqGhdih0uwk+QKM8hWIL+nQ==",
   "success": true,
   "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Caching.Memcached/ATCommon.Caching.Memcached.csproj",
   "expectedPackageFiles": [

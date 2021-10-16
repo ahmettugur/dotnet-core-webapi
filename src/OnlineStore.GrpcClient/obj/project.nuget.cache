@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jgvAi0BxpehbhRqxCh8l8dqacQPP+qVygI86Nz4LMt8apg8mE/IAEh4WxQDSaUZFIQkd73YMPrEd60GxjfdEog==",
+  "dgSpecHash": "dhkym4rg/AoFwf75uRVnWeLORiNae/h+PEhyyyn8XDxYssNSURjdsa5CNj4gHk4/qf3AlYTCEe1OD21XoQQbLA==",
   "success": true,
   "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.GrpcClient/OnlineStore.GrpcClient.csproj",
   "expectedPackageFiles": [

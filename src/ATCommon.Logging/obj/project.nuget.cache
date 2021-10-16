@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gWiFtXvtgSsQkXjgQV5c6yBXv8QD2jwd0NDU8VjwHu5tXTlJpOmTOeZq2kcyKwARXPNli4Uk+Jkb5KZHUm+iUA==",
+  "dgSpecHash": "zKiA+QD8iubzuMQheq8AzOXWdd7YV57rRV2PrJyKaxwO/eJ2MMZzpihyzN10GFmEp7tfMgYKwYVkXXspPP+LHg==",
   "success": true,
   "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging/ATCommon.Logging.csproj",
   "expectedPackageFiles": [

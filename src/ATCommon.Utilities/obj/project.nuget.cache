@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3eKaJEn+Hap4v9nSIKmz1YaIFNZtX1IW/cest2lo6Of4CP5Yk2aMBU+fQ2bmpx7ZL3nImGo0tqPJYjvLI/zUOQ==",
+  "dgSpecHash": "5oVymFVjx3Pq16yDUf8TGfShoFNT+woKH6rycnlER5dutmHcjT0J6+tyc2qImEPkuTlroP/ZPsNsOWfPmjynVA==",
   "success": true,
   "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Utilities/ATCommon.Utilities.csproj",
   "expectedPackageFiles": [

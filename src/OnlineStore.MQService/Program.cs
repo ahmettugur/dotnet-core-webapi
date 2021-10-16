@@ -26,7 +26,6 @@ namespace OnlineStore.MQService
             {
                 using (var channel = connection.CreateModel())
                 {
-                    //Connect().Wait();
                     channel.QueueDeclare(queue: queueName,
                                         durable: true,
                                         exclusive: false,

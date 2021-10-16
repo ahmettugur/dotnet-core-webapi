@@ -24,6 +24,96 @@
   <component name="ChangeListManager">
     <list default="true" id="aeb052b0-3d3e-4a98-b53b-01af40aecfb1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/0498729b51024489a5dd40f913ac65c62ef1013d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/0820aa2152af1d29e4771922a1b900bb91d1f5ed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/0848bfabfcea50528084992e33551fb01d365659" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/9/0927514f170695a216032e04756f9ec8a05d7e22" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/7/17ed745f96f4f0f37565389d124700b82fa8a933" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1bfc23f8ecd26a29bc88c238337e7fb69fde2534" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1cd9accad40792852ac7bd6b8f4594bb12757c12" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/31a12e5c002a87ca6c7f318e25cdb067177dbfa2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/1/31d120c67d688fbac90ffa6b2cc84e923d78feac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38d5faa8b73f880ba42169090bd188586b099413" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/a/3a5aaf9fa740798858e0b3f08f40d3132c37a55e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/9/495800c16e8f43880b88595ae4f010da87cd1df0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/591e8b599dfcce03e3d75f1c742cf2308e6f06ab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/61fc875cbb3880729c64d0c62eeb49add6d04765" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/a/6a01fe2f7180e42d9c5977d3d05d2b697e0dd506" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/b/6b21412323b9438d2953afe09aa51256376ca609" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/795a5a31310d5aae3acc2782d22c3571c5245b7c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7df069f5ac577f400ebff69ad743fd37f9703d2e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f3ee99fe8fe3baec9d668e3adcd20ae3e39684e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/6/8614f0e2d92fcf62f2e87e5b0bd3b8ef4965dde4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/8757cdce96ec8ee4084ad519b22388b291980f28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/87a8c0e83701f7e8bcc0b3ef5a07a27150c66756" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/b/8b7f70604a6ad44dca67f46c1a8da905bdfd7428" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/92c2de9b2c700b383645552b6e87762c32c58041" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/4/944bcbd33a03325461f84c0e3f0300640b781235" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/9727f6fafd81f585bdbe47762e6915db6827f6f7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/2/b286bf7c80b533605f78ba9a6b2dbb96323595aa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/b/bb0b3b853f0061e3c355675f464efca3a7558b51" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c206897ed5d29b4bcb950f2fffd4daff879f9e18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c591dedf78f18f645b11f26c6a5f8f4ee7a886a1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/7/c7882f74dff465249cb1ba1d21d43aef1b823853" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/f/cf9681d81b12da74c19746ed815e379a1f53e832" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e36b9268064334e1289cd0a91a769833e02b449f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f03f5b54c752f263de1efe8d854f0848f319693d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f0d99fa5a1f5abeab910c58f23be63d9f0afeed9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/ATCommon.Aspect.Contracts.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/ATCommon.Aspect.Contracts.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Aspect.Contracts/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Aspect/obj/ATCommon.Aspect.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/ATCommon.Aspect.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Aspect/obj/Debug/net5.0/ATCommon.Aspect.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/Debug/net5.0/ATCommon.Aspect.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Aspect/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Aspect/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Aspect/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Contracts/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/net5.0/ATCommon.Caching.Memcached.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/net5.0/ATCommon.Caching.Memcached.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/net5.0/ATCommon.Caching.Redis.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/net5.0/ATCommon.Caching.Redis.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/ATCommon.Logging.Contracts.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/ATCommon.Logging.Contracts.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.1/ATCommon.Logging.Contracts.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.1/ATCommon.Logging.Contracts.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/ATCommon.Logging.Log4net.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/ATCommon.Logging.Log4net.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/Debug/net5.0/ATCommon.Logging.Log4net.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/Debug/net5.0/ATCommon.Logging.Log4net.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging/obj/Debug/net5.0/ATCommon.Logging.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/Debug/net5.0/ATCommon.Logging.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/net5.0/ATCommon.Utilities.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/net5.0/ATCommon.Utilities.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Utilities/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/net5.0/OnlineStore.API.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/net5.0/OnlineStore.API.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/obj/OnlineStore.API.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/obj/OnlineStore.API.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/net5.0/OnlineStore.Business.Contracts.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/net5.0/OnlineStore.Business.Contracts.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/net5.0/OnlineStore.Business.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/net5.0/OnlineStore.Business.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/Debug/net5.0/OnlineStore.Core.Contracts.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/Debug/net5.0/OnlineStore.Core.Contracts.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Core/obj/Debug/net5.0/OnlineStore.Core.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/Debug/net5.0/OnlineStore.Core.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Core/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/Debug/net5.0/OnlineStore.Data.Contracts.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/Debug/net5.0/OnlineStore.Data.Contracts.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Data.Contracts/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Data/obj/Debug/net5.0/OnlineStore.Data.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/Debug/net5.0/OnlineStore.Data.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Data/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/net5.0/OnlineStore.Entity.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/net5.0/OnlineStore.Entity.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Entity/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/net5.0/OnlineStore.GrpcClient.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/net5.0/OnlineStore.GrpcClient.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/net5.0/OnlineStore.MQ.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/Debug/net5.0/OnlineStore.MQ.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQ/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQ/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQService/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQService/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/net5.0/OnlineStore.MQService.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/net5.0/OnlineStore.MQService.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQService/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +204,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ATCommon.Aspect.Contracts/ATCommon.Aspect.Contracts.csproj" />
     <property name="settings.editor.selected.configurable" value="sonarlint" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -199,6 +290,7 @@
       <workItem from="1589391664889" duration="11000" />
       <workItem from="1634149837630" duration="2312000" />
       <workItem from="1634156575122" duration="4233000" />
+      <workItem from="1634410007078" duration="704000" />
     </task>
     <servers />
   </component>
