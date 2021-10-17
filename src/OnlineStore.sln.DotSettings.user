@@ -1,4 +1,5 @@
 ﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/home/ahmet/.cache/JetBrains/Rider2021.2/resharper-host/temp/Rider/vAny/CoverageData/_OnlineStore.-388237054/Snapshot/snapshot.utdcvr</s:String>
 	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=99578c94_002Da731_002D4906_002Dbc5a_002Df3d2cce0aa3a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetCategory_ValidId_ReturnIResult" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::5B7628B0-BED8-432E-A1EC-E1AFAB079E71::net5.0::OnlineStore.Business.Tests.CategoryServiceTest.GetCategory_ValidId_ReturnIResult&lt;/TestId&gt;
