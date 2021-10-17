@@ -24,7 +24,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aeb052b0-3d3e-4a98-b53b-01af40aecfb1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/CategoryServiceTest.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/CategoryServiceTest.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/9/190beddad8228379c4b111cb7487a29ca103a633" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/e/2ee86a7e2d23188c459ab888578c7a81baf53304" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d2e0403f4a3cd78a48a16627ba3d65f8800cd1b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f696922476ba7d91b988df67041d076653182bd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/a/eaaee04a6aa893d38a2e2235c9d3cda75f69ad14" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f5687081ecf0384a377c816e83c7cb4e10beec97" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fd7d36cdc8fbab6dba468cc728cfa1bdf2dfafb6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Aspect/obj/Debug/net5.0/ATCommon.Aspect.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Aspect/obj/Debug/net5.0/ATCommon.Aspect.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/net5.0/ATCommon.Caching.Memcached.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/obj/Debug/net5.0/ATCommon.Caching.Memcached.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/net5.0/ATCommon.Caching.Redis.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Redis/obj/Debug/net5.0/ATCommon.Caching.Redis.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.1/ATCommon.Logging.Contracts.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Contracts/obj/Debug/netcoreapp3.1/ATCommon.Logging.Contracts.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/Debug/net5.0/ATCommon.Logging.Log4net.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Logging.Log4net/obj/Debug/net5.0/ATCommon.Logging.Log4net.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Utilities/Extensions/Extension.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Utilities/Extensions/Extension.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/net5.0/ATCommon.Utilities.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Utilities/obj/Debug/net5.0/ATCommon.Utilities.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/net5.0/OnlineStore.API.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.API/obj/Debug/net5.0/OnlineStore.API.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/net5.0/OnlineStore.Business.Contracts.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business.Contracts/obj/Debug/net5.0/OnlineStore.Business.Contracts.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/net5.0/OnlineStore.Business.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Business/obj/Debug/net5.0/OnlineStore.Business.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/Debug/net5.0/OnlineStore.Core.Contracts.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Core.Contracts/obj/Debug/net5.0/OnlineStore.Core.Contracts.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Core/obj/Debug/net5.0/OnlineStore.Core.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Core/obj/Debug/net5.0/OnlineStore.Core.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Data/obj/Debug/net5.0/OnlineStore.Data.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Data/obj/Debug/net5.0/OnlineStore.Data.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/net5.0/OnlineStore.Entity.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.Entity/obj/Debug/net5.0/OnlineStore.Entity.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/net5.0/OnlineStore.GrpcClient.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.GrpcClient/obj/Debug/net5.0/OnlineStore.GrpcClient.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/net5.0/OnlineStore.MQService.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OnlineStore.MQService/obj/Debug/net5.0/OnlineStore.MQService.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/obj/Debug/net5.0/OnlineStore.Business.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/obj/Debug/net5.0/OnlineStore.Business.Tests.csproj.AssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +65,7 @@
     <setting file="file://$PROJECT_DIR$/OnlineStore.Business/Services/UserService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OnlineStore.Business/Services/CategoryService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OnlineStore.Business/DependencyResolvers/Autofac/InstanceFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/53ef14d9e3b9404fad8f84cace173c678d8400/99/d9322e07/ICustomAttributeProvider.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/22212396df71407db43c067581a672f431600/c4/696875c7/MemcachedClientConfiguration.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/OnlineStore.Business/Logging/DatabaseLogger.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/af93ab1e92f54cbcb9356bed7b1ee3c4f600/2/SqlMapperExtensions.cs" root0="SKIP_HIGHLIGHTING" />
@@ -225,7 +251,8 @@
       <workItem from="1634410007078" duration="2556000" />
       <workItem from="1634446732980" duration="13968000" />
       <workItem from="1634462400733" duration="411000" />
-      <workItem from="1634474024024" duration="8159000" />
+      <workItem from="1634474024024" duration="8994000" />
+      <workItem from="1634503912500" duration="1308000" />
     </task>
     <servers />
   </component>
@@ -241,42 +268,42 @@
       <expand>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 2% 2096/2147" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 2% 2103/2154" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 2% 2096/2147" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Business 19% 153/188" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 2% 2103/2154" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Business 18% 160/195" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 2% 2096/2147" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Business 19% 153/188" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="OnlineStore.Business.Tests 100% 0/24" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 2% 2103/2154" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Business 18% 160/195" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="OnlineStore.Business.Tests 77% 7/31" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 2% 2096/2147" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Business 19% 153/188" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="OnlineStore.Business.Tests 100% 0/24" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="(1.0.0.0, net5.0) 100% 0/24" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 2% 2103/2154" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Business 18% 160/195" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="OnlineStore.Business.Tests 77% 7/31" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="(1.0.0.0, net5.0) 77% 7/31" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 2% 2096/2147" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Business 19% 153/188" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="OnlineStore.Business.Tests 100% 0/24" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="(1.0.0.0, net5.0) 100% 0/24" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="OnlineStore.Business.Tests 100% 0/24" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 2% 2103/2154" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Business 18% 160/195" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="OnlineStore.Business.Tests 77% 7/31" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="(1.0.0.0, net5.0) 77% 7/31" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="OnlineStore.Business.Tests 77% 7/31" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
         <path>
           <item name="rootNode" type="c53c71d1:RiderDotCoverCoverageTreeModel$RootNode" />
-          <item name="Total 2% 2096/2147" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="Business 19% 153/188" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="OnlineStore.Business.Tests 100% 0/24" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="(1.0.0.0, net5.0) 100% 0/24" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="OnlineStore.Business.Tests 100% 0/24" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
-          <item name="CategoryServiceTest 100% 0/24" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Total 2% 2103/2154" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="Business 18% 160/195" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="OnlineStore.Business.Tests 77% 7/31" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="(1.0.0.0, net5.0) 77% 7/31" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="OnlineStore.Business.Tests 77% 7/31" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
+          <item name="CategoryServiceTest 77% 7/31" type="8b8fad3a:RiderDotCoverCoverageTreeNode" />
         </path>
       </expand>
       <select />

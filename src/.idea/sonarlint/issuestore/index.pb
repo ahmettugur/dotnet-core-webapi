@@ -131,8 +131,6 @@ KOnlineStore.Data/EntityFramework/DbContextExtensions/PostgreSqlExtension.cs,4/
 .OnlineStore.API/Properties/launchSettings.json,5/9/591e8b599dfcce03e3d75f1c742cf2308e6f06ab
 m
 =OnlineStore.Data/EntityFramework/Mappings/MySql/ProductMap.cs,b/1/b1ed043d19cd2ff011db1e2fe557d8dee7be7e74
-Z
-*ATCommon.Utilities/Extensions/Extension.cs,4/9/495800c16e8f43880b88595ae4f010da87cd1df0
 r
 BOnlineStore.Data/EntityFramework/Mappings/PostgreSQL/ProductMap.cs,5/8/58984db088a291cec78492f8c46c7eb05bfbfc0c
 q
@@ -141,3 +139,13 @@ J
 OnlineStore.API/Startup.cs,3/1/31a12e5c002a87ca6c7f318e25cdb067177dbfa2
 J
 OnlineStore.API/Program.cs,a/d/ad53c18946a20613e817e32995acb0041af29d7d
+V
+&OnlineStore.Entity/Concrete/Product.cs,1/9/190beddad8228379c4b111cb7487a29ca103a633
+`
+0OnlineStore.Business/Services/CategoryService.cs,2/e/2ee86a7e2d23188c459ab888578c7a81baf53304
+^
+.ATCommon.Caching.Memcached/MemcachedManager.cs,9/f/9f696922476ba7d91b988df67041d076653182bd
+V
+&ATCommon.Aspect/Caching/CacheAspect.cs,e/a/eaaee04a6aa893d38a2e2235c9d3cda75f69ad14
+k
+;OnlineStore.Core.Contracts/Repository/IGenericRepository.cs,4/d/4d2e0403f4a3cd78a48a16627ba3d65f8800cd1b
