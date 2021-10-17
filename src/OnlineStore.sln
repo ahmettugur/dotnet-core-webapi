@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATCommon.Utilities", "ATCom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATCommon.Logging.Log4net", "ATCommon.Logging.Log4net\ATCommon.Logging.Log4net.csproj", "{DA85BC06-DEE9-4267-BBEF-B01C35177E66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineStore.Business.Tests", "..\tests\Business\OnlineStore.Business.Tests\OnlineStore.Business.Tests.csproj", "{5B7628B0-BED8-432E-A1EC-E1AFAB079E71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -151,6 +153,10 @@ Global
 		{DA85BC06-DEE9-4267-BBEF-B01C35177E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA85BC06-DEE9-4267-BBEF-B01C35177E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA85BC06-DEE9-4267-BBEF-B01C35177E66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B7628B0-BED8-432E-A1EC-E1AFAB079E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B7628B0-BED8-432E-A1EC-E1AFAB079E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B7628B0-BED8-432E-A1EC-E1AFAB079E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B7628B0-BED8-432E-A1EC-E1AFAB079E71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -176,6 +182,7 @@ Global
 		{032849A1-46CA-4B46-B2B8-79F070F8A7BC} = {82CB139C-0BA8-4613-9D39-E19C6839F18B}
 		{FF9B5897-F5D6-44F7-8083-11D9F1F10072} = {82CB139C-0BA8-4613-9D39-E19C6839F18B}
 		{FFDFFBDE-85A9-4B23-9945-C4F2956E2F41} = {6601FF57-EBE0-4EC6-915A-79CECB186C62}
+		{5B7628B0-BED8-432E-A1EC-E1AFAB079E71} = {8CAFF2BC-FF0B-43F9-B40E-5C3ED8853E76}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7447EBF2-4973-498E-8B43-4315D1744D31}

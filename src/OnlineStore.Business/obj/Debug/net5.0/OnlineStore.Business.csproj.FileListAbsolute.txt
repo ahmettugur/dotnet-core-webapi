@@ -33,7 +33,6 @@
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Business/obj/Debug/net5.0/OnlineStore.Business.AssemblyInfoInputs.cache
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Business/obj/Debug/net5.0/OnlineStore.Business.AssemblyInfo.cs
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Business/obj/Debug/net5.0/OnlineStore.Business.csproj.CoreCompileInputs.cache
-/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Business/obj/Debug/net5.0/OnlineStore.Business.csproj.CopyComplete
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Business/obj/Debug/net5.0/OnlineStore.Business.dll
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Business/obj/Debug/net5.0/ref/OnlineStore.Business.dll
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Business/obj/Debug/net5.0/OnlineStore.Business.pdb

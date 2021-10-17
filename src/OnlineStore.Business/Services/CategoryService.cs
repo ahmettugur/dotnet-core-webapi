@@ -37,6 +37,11 @@ namespace OnlineStore.Business.Services
 
         public IResult<Category> Get(Expression<Func<Category, bool>> predicate)
         {
+            var result = _categoryRepository.Get(predicate);
+            if (result == null)
+            {
+                return new Result<Category>(404,null,"Category cannot found");
+            }
             return new Result<Category>(200,_categoryRepository.Get(predicate));
         }
 
