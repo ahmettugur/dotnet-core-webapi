@@ -11,16 +11,20 @@ namespace ATCommon.Logging.Log4net
     public class LoggerServiceBase:ICommonLogger
     {
         private readonly ILog _log;
-        public LoggerServiceBase(string name)
+        private const string LOG_XML_FILE= "log4net.config";
+        private const string XML_NODE= "log4net";
+
+
+        protected LoggerServiceBase(string name)
         {
             XmlDocument xmlDocument = new XmlDocument();
-            var t = AppDomain.CurrentDomain.BaseDirectory + "log4net.config";
-            xmlDocument.Load(File.OpenRead(t));
+            var log4netXmlPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory,LOG_XML_FILE);
+            xmlDocument.Load(File.OpenRead(log4netXmlPath));
 
-            ILoggerRepository loggerRepository = LogManager.CreateRepository(Assembly.GetEntryAssembly(),
+            var loggerRepository = LogManager.CreateRepository(Assembly.GetEntryAssembly(),
             typeof(log4net.Repository.Hierarchy.Hierarchy));
 
-            log4net.Config.XmlConfigurator.Configure(loggerRepository, xmlDocument["log4net"]);
+            log4net.Config.XmlConfigurator.Configure(loggerRepository, xmlDocument[XML_NODE]);
 
             _log = LogManager.GetLogger(loggerRepository.Name, name);
         }

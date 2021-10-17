@@ -16,3 +16,4 @@
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Utilities/obj/Debug/net5.0/ATCommon.Utilities.dll
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Utilities/obj/Debug/net5.0/ref/ATCommon.Utilities.dll
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Utilities/obj/Debug/net5.0/ATCommon.Utilities.pdb
+/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Utilities/obj/Debug/net5.0/ATCommon.Utilities.csproj.CopyComplete

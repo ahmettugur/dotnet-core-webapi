@@ -105,7 +105,6 @@
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.API/obj/Debug/net5.0/staticwebassets/OnlineStore.API.StaticWebAssets.xml
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.API/obj/Debug/net5.0/scopedcss/bundle/OnlineStore.API.styles.css
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.API/obj/Debug/net5.0/OnlineStore.API.RazorTargetAssemblyInfo.cache
-/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.API/obj/Debug/net5.0/OnlineStore.API.csproj.CopyComplete
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.API/obj/Debug/net5.0/OnlineStore.API.dll
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.API/obj/Debug/net5.0/ref/OnlineStore.API.dll
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.API/obj/Debug/net5.0/OnlineStore.API.pdb
