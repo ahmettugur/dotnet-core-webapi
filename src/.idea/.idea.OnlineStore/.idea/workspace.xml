@@ -22,56 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aeb052b0-3d3e-4a98-b53b-01af40aecfb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/linter.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.github/workflows/sonar-cloud-scan.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.github/workflows/build.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.github/workflows/linter.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.github/workflows/sonar-cloud-scan.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/projectSettingsUpdater.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/sonarlint-state.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/sonarlint.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/UserPrefs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/ATCommon.Aspect-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/ATCommon.Aspect.Contracts-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/ATCommon.Caching.Contracts-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/ATCommon.Caching.Memcached-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/ATCommon.Caching.Redis-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/ATCommon.Logging-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/ATCommon.Logging.Contracts-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/ATCommon.Logging.Log4net-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/ATCommon.Utilities-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.API-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.Business-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.Business.Contracts-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.Core-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.Core.Contracts-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.Data-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.Data.Contracts-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.Entity-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.GrpcClient-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.GrpcService-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.MQ-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/project-cache/OnlineStore.MQService-Debug.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/sqlite3/db.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vs/OnlineStore/xs/sqlite3/storage.ide" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/solution-explorer/class.cs-template" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/solution-explorer/class.ts-template" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/solution-explorer/class.vb-template" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/solution-explorer/default.ts-template" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/solution-explorer/enum.cs-template" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/solution-explorer/interface.cs-template" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/solution-explorer/interface.ts-template" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/solution-explorer/template-list.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/solution-explorer/template-parameters.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/tasks.json" beforeDir="false" />
-    </list>
+    <list default="true" id="aeb052b0-3d3e-4a98-b53b-01af40aecfb1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -247,7 +198,7 @@
       <workItem from="1589391664889" duration="11000" />
       <workItem from="1634149837630" duration="2312000" />
       <workItem from="1634156575122" duration="4233000" />
-      <workItem from="1634410007078" duration="2170000" />
+      <workItem from="1634410007078" duration="2556000" />
     </task>
     <servers />
   </component>
