@@ -8,11 +8,11 @@ using System.Text;
 
 namespace ATCommon.Aspect.Logging
 {
-    public class ExceptionLogAspect : InterceptionAttribute, IExceptionInterception
+    public class ExceptionLogAspectAttribute : InterceptionAttribute, IExceptionInterception
     {
         private readonly Type _loggerType;
         private readonly ICommonLogger _logger;
-        public ExceptionLogAspect(Type loggerType)
+        public ExceptionLogAspectAttribute(Type loggerType)
         {
             _loggerType = loggerType;
             if (!typeof(ICommonLogger).IsAssignableFrom(_loggerType))

@@ -126,12 +126,6 @@ namespace OnlineStore.API
             app.UseOpenApi();
             app.UseSwaggerUi3();
 
-            //app.UseSwagger()
-            //.UseSwaggerUI(c =>
-            //{
-            //    c.SwaggerEndpoint("/swagger/CoreSwagger/swagger.json", "Swagger Test .Net Core");
-            //});
-
             app.UseCors(builder => builder.WithOrigins("http://localhost:3000").AllowAnyHeader().AllowAnyMethod());
 
             app.UseAuthentication();

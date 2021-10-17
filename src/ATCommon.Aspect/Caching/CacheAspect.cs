@@ -7,14 +7,14 @@ using System.Text;
 
 namespace ATCommon.Aspect.Caching
 {
-    public class CacheAspect : InterceptionAttribute, IBeforeInterception, IAfterInterception
+    public class CacheAspectAttribute : InterceptionAttribute, IBeforeInterception, IAfterInterception
     {
         private readonly Type _cacheType;
         private readonly Type _returnType;
         private readonly int _expireAsMinute;
         private readonly ICacheManager _cacheManager;
 
-        public CacheAspect(Type cacheType, Type returnType, int expireAsMinute = 60)
+        public CacheAspectAttribute(Type cacheType, Type returnType, int expireAsMinute = 60)
         {
             _cacheType = cacheType;
 
@@ -32,17 +32,14 @@ namespace ATCommon.Aspect.Caching
             string key = $"{beforeMethodArgs.MethodInfo.DeclaringType.FullName}.{beforeMethodArgs.MethodInfo.Name}";
 
             object data = null;
-            if (_cacheManager.IsExist(key))
+            if (!_cacheManager.IsExist(key)) return data;
+            var cacheData = _cacheManager.Get<object>(key);
+            if (cacheData == null)
             {
-                var cacheData = _cacheManager.Get<object>(key);
-                if (cacheData == null)
-                {
-                    _cacheManager.Remove(key);
-                    return null;
-                }
-                data = JsonConvert.DeserializeObject(cacheData.ToString(), _returnType);
-
+                _cacheManager.Remove(key);
+                return null;
             }
+            data = JsonConvert.DeserializeObject(cacheData.ToString(), _returnType);
 
             return data;
         }
@@ -50,16 +47,11 @@ namespace ATCommon.Aspect.Caching
         public void OnAfter(AfterMethodArgs afterMethodArgs)
         {
             string key = $"{afterMethodArgs.MethodInfo.DeclaringType.FullName}.{afterMethodArgs.MethodInfo.Name}";
-            if (!_cacheManager.IsExist(key))
+            if (_cacheManager.IsExist(key)) return;
+            if (afterMethodArgs.Value == null) return;
+            if (afterMethodArgs.Value.ToString() != "[]" && !string.IsNullOrEmpty(afterMethodArgs.Value.ToString()))
             {
-                if (afterMethodArgs.Value != null)
-                {
-                    if (afterMethodArgs.Value.ToString() != "[]" && afterMethodArgs.Value.ToString() != "[]" && !string.IsNullOrEmpty(afterMethodArgs.Value.ToString()))
-                    {
-                        _cacheManager.Add(key, afterMethodArgs.Value, _expireAsMinute);
-                    }
-                }
-
+                _cacheManager.Add(key, afterMethodArgs.Value, _expireAsMinute);
             }
         }
     }

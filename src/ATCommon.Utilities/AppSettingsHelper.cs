@@ -6,6 +6,10 @@ namespace ATCommon.Utilities
 {
     public class AppSettingsHelper
     {
+        protected AppSettingsHelper()
+        {
+            
+        }
         public static string GetAppSettings(string key)
         {
             var builder = new ConfigurationBuilder()
@@ -20,17 +24,15 @@ namespace ATCommon.Utilities
             {
                 value = Configuration.GetSection($"AppSettings:{key}").Value;
             }
-            catch
+            catch (Exception ex)
             {
+                Console.WriteLine(ex.Message);
             }
 
             return value;
         }
         public static string GetConnectionString(string connectionString)
         {
-            //var builder = new ConfigurationBuilder()
-            //    .SetBasePath(Directory.GetCurrentDirectory())
-            //    .AddJsonFile("appsettings.json");
             var builder = new ConfigurationBuilder()
                 .SetBasePath(AppContext.BaseDirectory)
                 .AddJsonFile("appsettings.json");
@@ -42,8 +44,9 @@ namespace ATCommon.Utilities
             {
                 value = Configuration.GetConnectionString(connectionString);
             }
-            catch
+            catch (Exception ex)
             {
+                Console.WriteLine(ex.Message);
             }
 
             return value;

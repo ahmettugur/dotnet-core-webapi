@@ -21,12 +21,10 @@ namespace OnlineStore.API.Controllers
     [Route("api/[controller]")]
     public class TokenController : Controller
     {
-        private readonly IConfiguration _configuration;
-        private readonly IUserService _userServive;
+        private readonly IUserService _userService;
         public TokenController(IConfiguration configuration, IUserService userService)
         {
-            _configuration = configuration;
-            _userServive = userService;
+            _userService = userService;
         }
 
         [AllowAnonymous]
@@ -43,7 +41,7 @@ namespace OnlineStore.API.Controllers
                     return NotFound("Invaliid Username and password");
                 }
                 
-                var result = _userServive.CreateAccessToken(user);
+                var result = _userService.CreateAccessToken(user);
                 if (result.StatusCode == 200)
                 {
                     return Ok(result.Data);
@@ -51,30 +49,6 @@ namespace OnlineStore.API.Controllers
 
                 return BadRequest(result.ErrorMessage);
                 
-                //
-                // var jsonUser = JsonConvert.SerializeObject(user);
-                //
-                // var claims = new[]
-                // {
-                //     new Claim(JwtRegisteredClaimNames.Sub,""),
-                //     new Claim(ClaimTypes.Name,"tokenAuthentication"),
-                //     new Claim(ClaimTypes.Role,"Admin"),
-                //     new Claim(ClaimTypes.UserData,jsonUser),
-                //     new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
-                // };
-                //
-                // var token = new JwtSecurityToken
-                // (
-                //     issuer: _configuration["Issuer"],
-                //     audience: _configuration["Audience"],
-                //     claims: claims,
-                //     expires: DateTime.UtcNow.AddHours(10),
-                //     notBefore: DateTime.UtcNow,
-                //     signingCredentials: new SigningCredentials(new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["SigningKey"])),
-                //             SecurityAlgorithms.HmacSha256)
-                // );
-                //
-                // return Ok(new { token = new JwtSecurityTokenHandler().WriteToken(token) });
             }
 
             return BadRequest();
@@ -82,7 +56,7 @@ namespace OnlineStore.API.Controllers
 
         private User GetUserIdFromCredentials(LoginViewModel loginViewModel)
         {
-            var user = _userServive.Get(_ => _.Email == loginViewModel.Email && _.Password == loginViewModel.Password).Data;
+            var user = _userService.Get(_ => _.Email == loginViewModel.Email && _.Password == loginViewModel.Password).Data;
             return user;
         }
     }

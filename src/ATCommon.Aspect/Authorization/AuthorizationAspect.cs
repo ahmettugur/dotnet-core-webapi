@@ -1,35 +1,27 @@
 ﻿using ATCommon.Aspect.Contracts.Interception;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Security;
 using System.Text;
 using System.Threading;
 
 namespace ATCommon.Aspect.Authorization
 {
-    public class AuthorizationAspect : InterceptionAttribute, IBeforeVoidInterception
+    public class AuthorizationAspectAttribute : InterceptionAttribute, IBeforeVoidInterception
     {
         public string Roles { get; set; }
         public void OnBefore(BeforeMethodArgs beforeMethodArgs)
         {
             if (string.IsNullOrWhiteSpace(Roles))
             {
-                throw new Exception("Invalid roles");
+                throw new SecurityException("Invalid roles");
             }
 
             var roles = Roles.Split(",");
-            bool isAuthorize = false;
+            bool isAuthorize = roles.Any(role => Thread.CurrentPrincipal.IsInRole(role));
 
-            foreach (var role in roles)
-            {
-                if (Thread.CurrentPrincipal.IsInRole(role))
-                {
-                    isAuthorize = true;
-                    break;
-                }
-            }
-
-            if (isAuthorize == false)
+            if (!isAuthorize)
             {
                 throw new SecurityException("You are not authorized");
             }

@@ -11,23 +11,23 @@ namespace ATCommon.Caching.Redis
 {
     public class RedisConnectionFactory
     {
-        static RedisConnectionFactory()
+
+        protected RedisConnectionFactory()
         {
-            var RedisCacheUrl = AppSettingsHelper.GetAppSettings("RedisCacheUrl");
-            lazyConnection = new Lazy<ConnectionMultiplexer>(() =>
-            {
-
-
-                if (string.IsNullOrEmpty(RedisCacheUrl))
-                {
-                    throw new Exception("appsettings.json > AppSettings > \"RedisCacheUrl\": \"localhost:6379\" bulunamadı.");
-                }
-
-                return ConnectionMultiplexer.Connect(RedisCacheUrl);
-            });
+         
         }
 
-        private static Lazy<ConnectionMultiplexer> lazyConnection;
+
+        private static Lazy<ConnectionMultiplexer> lazyConnection = new(() =>
+        {
+            var RedisCacheUrl = AppSettingsHelper.GetAppSettings("RedisCacheUrl");
+            if (string.IsNullOrEmpty(RedisCacheUrl))
+            {
+                throw new ArgumentException("appsettings.json > AppSettings > \"RedisCacheUrl\": \"localhost:6379\" bulunamadı.");
+            }
+
+            return ConnectionMultiplexer.Connect(RedisCacheUrl);
+        });
 
         public static ConnectionMultiplexer Connection => lazyConnection.Value;
 

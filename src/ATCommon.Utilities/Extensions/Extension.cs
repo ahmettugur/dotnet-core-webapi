@@ -26,16 +26,11 @@ namespace ATCommon.Utilities.Extensions
 
         public static T XmlToObject<T>(this string @this) where T : class
         {
-            var reader = XmlReader.Create(@this.Trim().ToStream(), new XmlReaderSettings() { ConformanceLevel = ConformanceLevel.Document });
+            var reader = XmlReader.Create(@this.Trim().ToStream(),
+                new XmlReaderSettings() { ConformanceLevel = ConformanceLevel.Document });
             return new XmlSerializer(typeof(T)).Deserialize(reader) as T;
         }
 
-        /// <summary>
-        /// DataTable'ı List'e çevirir
-        /// </summary>
-        /// <typeparam name="T"></typeparam>
-        /// <param name="dataTable"></param>
-        /// <returns></returns>
         public static List<T> ConvertDataTableToList<T>(this object dataTable) where T : class, new()
         {
             DataTable dt = dataTable as DataTable;
@@ -48,29 +43,27 @@ namespace ATCommon.Utilities.Extensions
                 T obj = new T();
                 foreach (PropertyInfo property in properties)
                 {
-                    ColumnMapperAttribute mapperAttribute = property.GetCustomAttributes(typeof(ColumnMapperAttribute), true).Select((o) => o as ColumnMapperAttribute).FirstOrDefault();
+                    ColumnMapperAttribute mapperAttribute = property
+                        .GetCustomAttributes(typeof(ColumnMapperAttribute), true)
+                        .Select((o) => o as ColumnMapperAttribute).FirstOrDefault();
                     string propertyName = mapperAttribute == null ? property.Name : mapperAttribute.HeaderName;
 
                     dynamic value = dt.Rows[i][propertyName].ToString();
-
-                    //var converter = TypeDescriptor.GetConverter(property.PropertyType);
-                    //var result = converter.ConvertFrom(value);
-                    if (dt.Rows[i][propertyName].ToString() != "")
+                    if (i >= 0 && dt.Rows.Count > i && dt.Rows[i][propertyName].ToString() != "")
                     {
                         var converter = TypeDescriptor.GetConverter(property.PropertyType);
                         var result = converter.ConvertFrom(value);
-                        //var result = Convert.ChangeType(value, property.PropertyType);
                         obj.GetType().GetProperty(property.Name).SetValue(obj, result, null);
                     }
                     else if (property.PropertyType == typeof(string))
                     {
                         obj.GetType().GetProperty(property.Name).SetValue(obj, "", null);
                     }
-
-
                 }
+
                 arr.Add(obj);
             }
+
             return arr;
         }
 
@@ -90,7 +83,9 @@ namespace ATCommon.Utilities.Extensions
 
             foreach (PropertyInfo property in properties)
             {
-                ColumnMapperAttribute mapperAttribute = property.GetCustomAttributes(typeof(ColumnMapperAttribute), true).Select((x) => x as ColumnMapperAttribute).FirstOrDefault();
+                ColumnMapperAttribute mapperAttribute = property
+                    .GetCustomAttributes(typeof(ColumnMapperAttribute), true).Select((x) => x as ColumnMapperAttribute)
+                    .FirstOrDefault();
                 string propertyName = mapperAttribute == null ? property.Name : mapperAttribute.HeaderName;
                 dynamic value = dt.Rows[0][propertyName].ToString();
 
@@ -99,6 +94,7 @@ namespace ATCommon.Utilities.Extensions
 
                 obj.GetType().GetProperty(property.Name).SetValue(obj, result, null);
             }
+
             return obj;
         }
 
@@ -122,6 +118,7 @@ namespace ATCommon.Utilities.Extensions
                 return objValue;
             }
         }
+
         /// <summary>
         /// Gelen Boş değeri ekrana yazdırmak için kullanıyoruz
         /// </summary>
@@ -129,15 +126,12 @@ namespace ATCommon.Utilities.Extensions
         /// <returns></returns>
         public static object ToEmpty(this object strValue)
         {
-            string vl = strValue.GetType().ToString();
-            if (object.ReferenceEquals(strValue, DBNull.Value))
+            if (ReferenceEquals(strValue, DBNull.Value))
             {
                 return null;
             }
-            else
-            {
-                return strValue;
-            }
+
+            return strValue;
         }
 
         /// <summary>
@@ -150,45 +144,39 @@ namespace ATCommon.Utilities.Extensions
             text = text.TrimEnd();
             text = text.TrimStart();
             text = text.Replace("_", " ");
-            string newString = string.Empty;
+            var newString = string.Empty;
 
-            if (text != "")
+            if (text == "") return newString;
+            var textArr = text.Split(' ');
+            List<string> clearTextArr = new List<string>();
+
+            if (textArr.Length > 1)
             {
-                string[] textArr = text.Split(' ');
-                List<string> clearTextArr = new List<string>();
+                clearTextArr.AddRange(textArr.Where(item => !string.IsNullOrWhiteSpace(item)));
 
-                if (textArr.Length > 1)
+                foreach (var item in clearTextArr)
                 {
-                    foreach (var item in textArr)
+                    var tempString = string.Empty;
+                    tempString = item.ToLower();
+                    tempString = char.ToUpper(tempString[0]) + tempString.Substring(1);
+                    if (newString == string.Empty)
                     {
-                        if (!string.IsNullOrWhiteSpace(item))
-                            clearTextArr.Add(item);
+                        newString = tempString;
                     }
-
-                    for (int i = 0; i < clearTextArr.Count; i++)
+                    else
                     {
-                        string tempString = string.Empty;
-                        tempString = clearTextArr[i].ToLower();
-                        tempString = char.ToUpper(tempString[0]) + tempString.Substring(1);
-                        if (newString == string.Empty)
-                        {
-                            newString = tempString;
-                        }
-                        else
-                        {
-                            newString = newString + " " + tempString;
-                        }
+                        newString = $"{newString} {tempString}";
                     }
-                }
-                else
-                {
-                    text = text.ToLower();
-                    text = char.ToUpper(text[0]) + text.Substring(1);
-                    newString = text;
                 }
             }
-            return newString;
+            else
+            {
+                text = text.ToLower();
+                text = char.ToUpper(text[0]) + text.Substring(1);
+                newString = text;
+            }
 
+            return newString;
         }
 
         /// <summary>
@@ -206,21 +194,17 @@ namespace ATCommon.Utilities.Extensions
 
             if (text != "")
             {
-                string[] textArr = text.Split(' ');
-                List<string> clearTextArr = new List<string>();
+                var textArr = text.Split(' ');
+                var clearTextArr = new List<string>();
 
                 if (textArr.Length > 1)
                 {
-                    foreach (var item in textArr)
-                    {
-                        if (!string.IsNullOrWhiteSpace(item))
-                            clearTextArr.Add(item);
-                    }
+                    clearTextArr.AddRange(textArr.Where(item => !string.IsNullOrWhiteSpace(item)));
 
-                    for (int i = 0; i < clearTextArr.Count; i++)
+                    foreach (var item in clearTextArr)
                     {
-                        string tempString = string.Empty;
-                        tempString = clearTextArr[i].ToLower();
+                        var tempString = string.Empty;
+                        tempString = item.ToLower();
                         tempString = char.ToUpper(tempString[0]) + tempString.Substring(1);
                         if (newString == string.Empty)
                         {
@@ -228,7 +212,7 @@ namespace ATCommon.Utilities.Extensions
                         }
                         else
                         {
-                            newString = newString + " " + tempString;
+                            newString = $"{newString} {tempString}";
                         }
                     }
                 }
@@ -239,10 +223,10 @@ namespace ATCommon.Utilities.Extensions
                     newString = text;
                 }
             }
+
             newString = newString.Replace(" ", string.Empty);
             newString = ToEnglishCharacter(newString);
             return newString;
-
         }
 
 
@@ -253,29 +237,56 @@ namespace ATCommon.Utilities.Extensions
         /// <returns></returns>
         public static string ToEnglishCharacter(this string word)
         {
-            char[] Wordin = word.ToCharArray();
-            string result = string.Empty;
-            for (int i = 0; i < Wordin.Length; i++)
+            var wordin = word.ToCharArray();
+            var result = new StringBuilder();
+            for (int i = 0; i < wordin.Length; i++)
             {
-                switch (Wordin[i])
+                switch (wordin[i])
                 {
-                    case 'ç': Wordin[i] = 'c'; break;
-                    case 'ğ': Wordin[i] = 'g'; break;
-                    case 'ı': Wordin[i] = 'i'; break;
-                    case 'ö': Wordin[i] = 'o'; break;
-                    case 'ş': Wordin[i] = 's'; break;
-                    case 'ü': Wordin[i] = 'u'; break;
-                    case 'Ç': Wordin[i] = 'C'; break;
-                    case 'Ğ': Wordin[i] = 'G'; break;
-                    case 'İ': Wordin[i] = 'I'; break;
-                    case 'Ö': Wordin[i] = 'O'; break;
-                    case 'Ş': Wordin[i] = 'S'; break;
-                    case 'Ü': Wordin[i] = 'U'; break;
-                    default: Wordin[i] = Wordin[i]; break;
+                    case 'ç':
+                        wordin[i] = 'c';
+                        break;
+                    case 'ğ':
+                        wordin[i] = 'g';
+                        break;
+                    case 'ı':
+                        wordin[i] = 'i';
+                        break;
+                    case 'ö':
+                        wordin[i] = 'o';
+                        break;
+                    case 'ş':
+                        wordin[i] = 's';
+                        break;
+                    case 'ü':
+                        wordin[i] = 'u';
+                        break;
+                    case 'Ç':
+                        wordin[i] = 'C';
+                        break;
+                    case 'Ğ':
+                        wordin[i] = 'G';
+                        break;
+                    case 'İ':
+                        wordin[i] = 'I';
+                        break;
+                    case 'Ö':
+                        wordin[i] = 'O';
+                        break;
+                    case 'Ş':
+                        wordin[i] = 'S';
+                        break;
+                    case 'Ü':
+                        wordin[i] = 'U';
+                        break;
+                    default:
+                        break;
                 }
-                result += Wordin[i].ToString();
+
+                result.AppendLine(wordin[i].ToString());
             }
-            return result;
+
+            return result.ToString();
         }
 
         /// <summary>
@@ -287,7 +298,6 @@ namespace ATCommon.Utilities.Extensions
         {
             var value = System.Text.RegularExpressions.Regex.Replace(Html, "<[^>]*>", string.Empty);
             return value;
-
         }
 
         /// <summary>
@@ -308,22 +318,6 @@ namespace ATCommon.Utilities.Extensions
             return stringToShorten.Substring(0, cutOffPoint);
         }
 
-        // public static byte[] ObjectToByteArray<T>(this List<T> obj) where T : class, new()
-        // {
-        //     var bf = new BinaryFormatter();
-        //     var ms = new MemoryStream();
-        //     bf.Serialize(ms, obj);
-        //     return ms.ToArray();
-        // }
-
-        // public static List<T> ByteArrayToObject<T>(this byte[] _ByteArray) where T : class, new()
-        // {
-        //     MemoryStream _MemoryStream = new MemoryStream(_ByteArray);
-        //     BinaryFormatter _BinaryFormatter = new BinaryFormatter();
-        //     _MemoryStream.Position = 0;
-        //     return _BinaryFormatter(_MemoryStream) as List<T>;
-        // }
-
         public static string GetDataType(string dataType)
         {
             if (dataType == "VARCHAR2")
@@ -342,6 +336,7 @@ namespace ATCommon.Utilities.Extensions
             {
                 return "string";
             }
+
             return "string";
         }
 
@@ -357,16 +352,17 @@ namespace ATCommon.Utilities.Extensions
             return Encoding.UTF8.GetString(decodedText);
         }
 
-        public static void WriteTextFile(FileMode fileMode,string message, string folder, string fileName)
+        public static void WriteTextFile(FileMode fileMode, string message, string folder, string fileName)
         {
-            string folderPath = AppDomain.CurrentDomain.BaseDirectory + "/"+ folder;
-            string filePath = folderPath + "/" + fileName;
+            var folderPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, folder);
+            var filePath = Path.Combine(folderPath, fileName);
             if (!Directory.Exists(folderPath))
             {
                 Directory.CreateDirectory(folderPath);
             }
-            FileStream fs = new FileStream(filePath, fileMode, FileAccess.Write);
-            StreamWriter sw = new StreamWriter(fs);
+
+            var fs = new FileStream(filePath, fileMode, FileAccess.Write);
+            var sw = new StreamWriter(fs);
             sw.WriteLine(message);
             sw.Flush();
             sw.Close();
@@ -375,18 +371,16 @@ namespace ATCommon.Utilities.Extensions
 
         public static string ReadTextFile(string folder, string fileName)
         {
-            string folderPath = AppDomain.CurrentDomain.BaseDirectory + "/" + folder;
-            string filePath = folderPath + "/" + fileName;
+            string filePath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, folder, fileName);
             if (!File.Exists(filePath))
             {
                 return "";
             }
-            StreamReader sr = new StreamReader(filePath);
-            string text = sr.ReadToEnd();
+
+            var sr = new StreamReader(filePath);
+            var text = sr.ReadToEnd();
             if (string.IsNullOrWhiteSpace(text.Trim()))
-            {
                 return "";
-            }
 
             text = text.Trim();
             sr.Close();
@@ -402,7 +396,8 @@ namespace ATCommon.Utilities.Extensions
                     return true;
                 }
             }
-            return false; ;
+
+            return false;
         }
     }
 }

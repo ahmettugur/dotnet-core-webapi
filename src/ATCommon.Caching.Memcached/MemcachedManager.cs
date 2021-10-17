@@ -17,8 +17,7 @@ namespace ATCommon.Caching.Memcached
 {
     public class MemcachedManager : ICacheManager
     {
-        private MemcachedClientConfiguration config;
-        private MemcachedClient client;
+        private readonly MemcachedClient client;
 
         public MemcachedManager()
         {
@@ -26,10 +25,10 @@ namespace ATCommon.Caching.Memcached
 
             if (string.IsNullOrEmpty(MemcachedUrl))
             {
-                throw new Exception("appsettings.json > AppSettings > \"MemcachedUrl\": \"127.0.0.1:11211\" bulunamadı.");
+                throw new ArgumentException("appsettings.json > AppSettings > \"MemcachedUrl\": \"127.0.0.1:11211\" bulunamadı.");
             }
 
-            config = new MemcachedClientConfiguration(new LoggerFactory(), new MemcachedClientOptions());
+            var config = new MemcachedClientConfiguration(new LoggerFactory(), new MemcachedClientOptions());
             config.AddServer(MemcachedUrl);
             config.Protocol = MemcachedProtocol.Binary;
             client = new MemcachedClient(new LoggerFactory(), config);
@@ -72,11 +71,6 @@ namespace ATCommon.Caching.Memcached
         {
             client.Remove(key);
         }
-
-        //public void RemoveByPattern(string pattern)
-        //{
-        //    throw new NotImplementedException();
-        //}
 
     }
 }

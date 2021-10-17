@@ -31,17 +31,6 @@ namespace OnlineStore.Business.DependencyResolvers.Autofac
             builder.RegisterType<OnlineStoreContext>().As<DbContext>();
             
             builder.RegisterType<JwtHelper>().As<ITokenHelper>();
-            
-            //builder.RegisterType<HttpContextAccessor>().As<IHttpContextAccessor>();
-            
-            
-
-            //builder.RegisterType<DapperProductRepository>().As<IProductRepository>();
-            //builder.RegisterType<DapperCategoryRepository>().As<ICategoryRepository>();
-            //builder.RegisterType<DapperUserRepository>().As<IUserRespository>();
-            //builder.RegisterType<DapperLogRepository>().As<ILogRepository>();
-
-
 
         }
     }

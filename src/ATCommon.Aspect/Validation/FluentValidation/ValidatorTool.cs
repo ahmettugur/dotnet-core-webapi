@@ -7,16 +7,18 @@ namespace ATCommon.Aspect.Validation.FluentValidation
 {
     public class ValidatorTool
     {
-        public static void FluentValidate(IValidator validator, object entity)
+        protected ValidatorTool()
         {
-            throw new ValidationException("");
             
-            // var result = validator.Validate(entity);
-            //
-            // if (result.Errors.Count > 0)
-            // {
-            //     throw new ValidationException(result.Errors);
-            // }
+        }
+        public static void FluentValidate(IValidator validator,object entity)
+        {
+            
+            var result = validator.Validate((IValidationContext)entity);
+            if (result.Errors.Count > 0)
+            {
+                throw new ValidationException(result.Errors);
+            }
         }
     }
 }

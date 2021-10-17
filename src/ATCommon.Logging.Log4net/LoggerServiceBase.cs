@@ -10,7 +10,7 @@ namespace ATCommon.Logging.Log4net
 {
     public class LoggerServiceBase:ICommonLogger
     {
-        private ILog _log;
+        private readonly ILog _log;
         public LoggerServiceBase(string name)
         {
             XmlDocument xmlDocument = new XmlDocument();

@@ -16,23 +16,12 @@ namespace OnlineStore.API.Controllers
 {
     public class ProductsController : Controller
     {
-        private IProductService _productService;
+        private readonly IProductService _productService;
 
         public ProductsController(IProductService productService)
         {
             _productService = productService;
         }
-
-        //[Authorize(Roles = "Admin")]
-        //[Route("api/products")]
-        //[HttpGet]
-        //public IActionResult Get()
-        //{
-        //    //var currentUser = HttpContext.User.Claims.Single(claim => claim.Type == ClaimTypes.UserData);
-
-        //    var products = _productService.GetAll();
-        //    return Ok(products);
-        //}
 
         [Route("api/products/{categoryId?}/{page?}")]
         [HttpGet]
@@ -63,18 +52,14 @@ namespace OnlineStore.API.Controllers
                 {
                     return BadRequest("ProductId can not be zero. ProductId: " + productId);
                 }
-                else
+
+                var product = _productService.Get(_ => _.Id == productId);
+                if (product == null)
                 {
-                    var product = _productService.Get(_ => _.Id == productId);
-                    if (product == null)
-                    {
-                        return BadRequest("Product not found. ProductId: " + productId);
-                    }
-                    else
-                    {
-                        return Ok(product);
-                    }
+                    return BadRequest("Product not found. ProductId: " + productId);
                 }
+
+                return Ok(product);
 
             }
             catch (Exception ex)
@@ -88,14 +73,12 @@ namespace OnlineStore.API.Controllers
         [HttpGet]
         public IActionResult ProductComplexList(int page = 1)
         {
-            //Thread.Sleep(5000);
-
             try
             {
-                int pageSize = 10;
+                var pageSize = 10;
                 var productComplex = _productService.GetAllProductWithCategory().Data.OrderByDescending(_ => _.ProductId).ToList();
 
-                ProductWithCategoryResponse ProductComplexResponse = new ProductWithCategoryResponse
+                var ProductComplexResponse = new ProductWithCategoryResponse
                 {
                     Products = productComplex.Skip((page - 1) * pageSize).Take(pageSize).ToList(),
                     PageCount = (int)Math.Ceiling(productComplex.Count / (double)pageSize),
@@ -201,24 +184,19 @@ namespace OnlineStore.API.Controllers
                 worksheet.Row(1).Style.HorizontalAlignment = ExcelHorizontalAlignment.Center;
 
                 worksheet.Cells[1, 1].Value = "Product Id";
-                //worksheet.Cells[1, 1].Style.HorizontalAlignment = ExcelHorizontalAlignment.Center;
                 worksheet.Cells[1, 1].AutoFitColumns();
 
 
                 worksheet.Cells[1, 2].Value = "Product Name";
-                //worksheet.Cells[1, 2].Style.HorizontalAlignment = ExcelHorizontalAlignment.Center;
                 worksheet.Cells[1, 2].AutoFitColumns();
 
                 worksheet.Cells[1, 3].Value = "Category";
-                //worksheet.Cells[1, 3].Style.HorizontalAlignment = ExcelHorizontalAlignment.Center;
                 worksheet.Cells[1, 3].AutoFitColumns();
 
                 worksheet.Cells[1, 4].Value = "Price";
-                //worksheet.Cells[1, 4].Style.HorizontalAlignment = ExcelHorizontalAlignment.Center;
                 worksheet.Cells[1, 4].AutoFitColumns();
 
                 worksheet.Cells[1, 5].Value = "Stock Quantity";
-                //worksheet.Cells[1, 5].Style.HorizontalAlignment = ExcelHorizontalAlignment.Center;
                 worksheet.Cells[1, 5].AutoFitColumns();
 
                 for (int i = 1; i <= 5; i++)

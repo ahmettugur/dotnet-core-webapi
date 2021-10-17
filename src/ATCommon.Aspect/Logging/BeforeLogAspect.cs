@@ -9,19 +9,19 @@ using ATCommon.Logging.Contracts;
 
 namespace ATCommon.Aspect.Logging
 {
-    public class BeforeLogAspect : InterceptionAttribute, IBeforeVoidInterception
+    public class BeforeLogAspectAttribute : InterceptionAttribute, IBeforeVoidInterception
     {
         private readonly Type _loggerType;
         private readonly ICommonLogger _logger;
 
-        public BeforeLogAspect(Type loggerType)
+        public BeforeLogAspectAttribute(Type loggerType)
         {
 
             _loggerType = loggerType;
 
             if (!typeof(ICommonLogger).IsAssignableFrom(_loggerType))
             {
-                throw new Exception("Wrong logger type");
+                throw new ArgumentException("Wrong logger type");
             }
 
             _logger = (ICommonLogger)Activator.CreateInstance(_loggerType);

@@ -8,6 +8,10 @@ namespace ATCommon.Utilities
 {
     public class DataTableParser
     {
+        protected DataTableParser()
+        {
+            
+        }
         public static string DataTableToJsonList(DataTable dataTable)
         {
             if (dataTable == null)
@@ -74,23 +78,23 @@ namespace ATCommon.Utilities
         }
         public static string DataTableToHTML(DataTable dataTable)
         {
-            string html = "<table>";
+            var html = new StringBuilder();
             //add header row
-            html += "<thead><tr>";
-            for (int i = 0; i < dataTable.Columns.Count; i++)
-                html += "<td>" + dataTable.Columns[i].ColumnName + "</td>";
-            html += "</tr></thead>";
+            html.AppendLine("<table><thead><tr>");
+            for (var i = 0; i < dataTable.Columns.Count; i++)
+                html.AppendLine("<td>" + dataTable.Columns[i].ColumnName + "</td>");
+            html.AppendLine("</tr></thead>");
             //add rows
-            html += "<tbody>";
-            for (int i = 0; i < dataTable.Rows.Count; i++)
+            html.AppendLine("<tbody>");
+            for (var i = 0; i < dataTable.Rows.Count; i++)
             {
-                html += "<tr>";
+                html.AppendLine("<tr>");
                 for (int j = 0; j < dataTable.Columns.Count; j++)
-                    html += "<td>" + dataTable.Rows[i][j].ToString() + "</td>";
-                html += "</tr>";
+                    html.AppendLine("<td>" + dataTable.Rows[i][j].ToString() + "</td>");
+                html.AppendLine("</tr>");
             }
-            html += "</thead></table>";
-            return html;
+            html.AppendLine("</thead></table>");
+            return html.ToString();
         }
     }
 }

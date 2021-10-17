@@ -36,7 +36,6 @@ namespace ATCommon.Aspect.Contracts.Proxy
                 //After İnterceptionlar çalıştırılır
                 AfterMethodArgs afterMethodArgs = new AfterMethodArgs(interceptionArgs);
                 RunOnAfterInterception(interceptions, new AfterMethodArgs(afterMethodArgs, result));
-                //RunOnAfterInterception(interceptions, new AfterMethodArgs(interceptionArgs, result));
 
                 return result;
             }
@@ -46,16 +45,7 @@ namespace ATCommon.Aspect.Contracts.Proxy
                 var exArg = new ExceptionMethodArgs(interceptionArgs, ex);
                 RunOnExceptionInterception(interceptions, exArg);
                 throw ex.InnerException ?? ex;  
-                //return null;
             }
-            //catch (Exception ex) when (ex is TargetInvocationException)
-            //{
-
-            //    var exArg = new ExceptionMethodArgs(e,ex);
-            //    RunOnExceptionInterception(interceptions, exArg);
-            //    //throw ex.InnerException ?? ex;  
-            //    return null;
-            //}
         }
         public static T Create(T service)
         {
@@ -66,14 +56,6 @@ namespace ATCommon.Aspect.Contracts.Proxy
 
             return (T)proxy;
         }
-        //public static T Create(T decorated, ICommonLogger logger)
-        //{
-        //    _logger = logger;
-        //    object proxy = Create<T, CommonAspect<T>>();
-        //    ((CommonAspect<T>)proxy).SetParameters(decorated);
-
-        //    return (T)proxy;
-        //}
 
         private void SetParameters(T services)
         {
@@ -113,24 +95,24 @@ namespace ATCommon.Aspect.Contracts.Proxy
             object response = null;
             foreach (IInterception loopAttribute in aspects)
             {
-                if (loopAttribute is IBeforeVoidInterception)
+                if (loopAttribute is IBeforeVoidInterception interception)
                 {
-                    ((IBeforeVoidInterception)loopAttribute).OnBefore(beforeMethodArgs);
+                    interception.OnBefore(beforeMethodArgs);
                 }
-                else if (loopAttribute is IBeforeInterception)
+                else if (loopAttribute is IBeforeInterception beforeInterception)
                 {
-                    response = ((IBeforeInterception)loopAttribute).OnBefore(beforeMethodArgs);
+                    response = beforeInterception.OnBefore(beforeMethodArgs);
                 }
             }
             return response;
         }
-        private void RunOnAfterInterception(object[] aspects, AfterMethodArgs afterMethodArgs)
+        private  void RunOnAfterInterception(object[] aspects, AfterMethodArgs afterMethodArgs)
         {
             foreach (IInterception loopAttribute in aspects)
             {
-                if (loopAttribute is IAfterInterception)
+                if (loopAttribute is IAfterInterception interception)
                 {
-                    ((IAfterInterception)loopAttribute).OnAfter(afterMethodArgs);
+                    interception.OnAfter(afterMethodArgs);
                 }
             }
         }
@@ -142,9 +124,9 @@ namespace ATCommon.Aspect.Contracts.Proxy
 
             foreach (IInterception loopAttribute in aspects)
             {
-                if (loopAttribute is IExceptionInterception)
+                if (loopAttribute is IExceptionInterception interception)
                 {
-                    ((IExceptionInterception)loopAttribute).OnException(exceptionMethodArgs);
+                    interception.OnException(exceptionMethodArgs);
                 }
             }
         }

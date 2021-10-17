@@ -13,7 +13,6 @@
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Utilities/obj/Debug/net5.0/ATCommon.Utilities.AssemblyInfoInputs.cache
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Utilities/obj/Debug/net5.0/ATCommon.Utilities.AssemblyInfo.cs
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Utilities/obj/Debug/net5.0/ATCommon.Utilities.csproj.CoreCompileInputs.cache
-/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Utilities/obj/Debug/net5.0/ATCommon.Utilities.csproj.CopyComplete
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Utilities/obj/Debug/net5.0/ATCommon.Utilities.dll
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Utilities/obj/Debug/net5.0/ref/ATCommon.Utilities.dll
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Utilities/obj/Debug/net5.0/ATCommon.Utilities.pdb

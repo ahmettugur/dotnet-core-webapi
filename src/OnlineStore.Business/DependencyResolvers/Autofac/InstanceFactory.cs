@@ -5,6 +5,10 @@ namespace OnlineStore.Business.DependencyResolvers.Autofac
 {
     public class InstanceFactory
     {
+        protected InstanceFactory()
+        {
+            
+        }
         public static T GetInstance<T>()
         {
             var builder = new ContainerBuilder();

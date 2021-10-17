@@ -6,11 +6,11 @@ using System.Text;
 
 namespace ATCommon.Aspect.Caching
 {
-    public class CacheRemoveAspect : InterceptionAttribute, IAfterInterception
+    public class CacheRemoveAspectAttribute : InterceptionAttribute, IAfterInterception
     {
         private readonly Type _cacheType;
         private readonly ICacheManager _cacheManager;
-        public CacheRemoveAspect(Type cacheType)
+        public CacheRemoveAspectAttribute(Type cacheType)
         {
             _cacheType = cacheType;
 

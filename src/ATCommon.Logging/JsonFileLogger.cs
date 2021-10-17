@@ -18,7 +18,7 @@ namespace ATCommon.Logging
 
             if (logMethodParameter == null)
             {
-                throw new Exception("Log method parameter cannot be null");
+                throw new ArgumentException("Log method parameter cannot be null");
             }
             if (!string.IsNullOrWhiteSpace(logMethodParameter.LogName))
             {
@@ -53,9 +53,9 @@ namespace ATCommon.Logging
                 sw.Close();
                 fs.Close();
             }
-            catch
+            catch (Exception ex)
             {
-
+                Console.WriteLine(ex.Message);
             }
         }
     }

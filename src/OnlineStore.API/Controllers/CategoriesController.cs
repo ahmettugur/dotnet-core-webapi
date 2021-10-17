@@ -21,7 +21,6 @@ namespace OnlineStore.API.Controllers
         public CategoriesController(ICategoryService categoryService)
         {
             _categoryService = CommonAspect<ICategoryService>.Create(categoryService);
-            //_categoryService = categoryService;
         }
 
         [Route("")]
