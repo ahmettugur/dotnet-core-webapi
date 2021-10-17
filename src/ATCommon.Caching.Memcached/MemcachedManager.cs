@@ -19,9 +19,9 @@ namespace ATCommon.Caching.Memcached
     {
         private readonly MemcachedClient client;
 
-        public MemcachedManager(ILoggerFactory loggerFactory)
+        public MemcachedManager()
         {
-            var _loggerFactory = loggerFactory;
+            // var _loggerFactory = loggerFactory;
             string MemcachedUrl = AppSettingsHelper.GetAppSettings("MemcachedUrl");
 
             if (string.IsNullOrEmpty(MemcachedUrl))
@@ -29,10 +29,10 @@ namespace ATCommon.Caching.Memcached
                 throw new ArgumentException("appsettings.json > AppSettings > \"MemcachedUrl\": \"127.0.0.1:11211\" bulunamadı.");
             }
 
-            var config = new MemcachedClientConfiguration(_loggerFactory, new MemcachedClientOptions());
+            var config = new MemcachedClientConfiguration(new LoggerFactory(), new MemcachedClientOptions());
             config.AddServer(MemcachedUrl);
             config.Protocol = MemcachedProtocol.Binary;
-            client = new MemcachedClient(_loggerFactory, config);
+            client = new MemcachedClient(new LoggerFactory(), config);
         }
 
         public void Add(string key, object data, int expireAsMinute)

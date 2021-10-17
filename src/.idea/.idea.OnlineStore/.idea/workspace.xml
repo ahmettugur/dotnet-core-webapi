@@ -23,7 +23,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aeb052b0-3d3e-4a98-b53b-01af40aecfb1" name="Default Changelist" comment="" />
+    <list default="true" id="aeb052b0-3d3e-4a98-b53b-01af40aecfb1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ATCommon.Caching.Memcached/MemcachedManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ATCommon.Caching.Memcached/MemcachedManager.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -223,7 +225,7 @@
       <workItem from="1634410007078" duration="2556000" />
       <workItem from="1634446732980" duration="13968000" />
       <workItem from="1634462400733" duration="411000" />
-      <workItem from="1634474024024" duration="3949000" />
+      <workItem from="1634474024024" duration="4625000" />
     </task>
     <servers />
   </component>
