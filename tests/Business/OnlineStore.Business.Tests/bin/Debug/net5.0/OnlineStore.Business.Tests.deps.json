@@ -13,7 +13,9 @@
           "OnlineStore.Business": "1.0.0",
           "OnlineStore.Business.Contracts": "1.0.0",
           "OnlineStore.Data.Contracts": "1.0.0",
+          "OpenCover": "4.7.1189",
           "coverlet.collector": "3.0.2",
+          "coverlet.msbuild": "3.0.3",
           "xunit": "2.4.1",
           "xunit.runner.visualstudio": "2.4.3"
         },
@@ -53,6 +55,7 @@
         }
       },
       "coverlet.collector/3.0.2": {},
+      "coverlet.msbuild/3.0.3": {},
       "Dapper/2.0.78": {
         "runtime": {
           "lib/net5.0/Dapper.dll": {
@@ -895,6 +898,7 @@
           }
         }
       },
+      "OpenCover/4.7.1189": {},
       "Pomelo.EntityFrameworkCore.MySql/5.0.2": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Relational": "5.0.11",
@@ -2136,6 +2140,13 @@
       "path": "coverlet.collector/3.0.2",
       "hashPath": "coverlet.collector.3.0.2.nupkg.sha512"
     },
+    "coverlet.msbuild/3.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fzxcn4+TZEfNEPP96mzmGWnKARCVKkEdBfhor8oTVhQWtxwZz9NuxuJxK7A2j7X20Rr8BSIK8qGclIJgTW7lsg==",
+      "path": "coverlet.msbuild/3.0.3",
+      "hashPath": "coverlet.msbuild.3.0.3.nupkg.sha512"
+    },
     "Dapper/2.0.78": {
       "type": "package",
       "serviceable": true,
@@ -2492,6 +2503,13 @@
       "sha512": "sha512-c5JVjuVAm4f7E9Vj+v09Z9s2ZsqFDjBpcsyS3M9xRo0bEdm/LVZSzLxxNvfvAwRiiE8nwe1h2G4OwiwlzFKXlA==",
       "path": "nuget.frameworks/5.0.0",
       "hashPath": "nuget.frameworks.5.0.0.nupkg.sha512"
+    },
+    "OpenCover/4.7.1189": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-tuYqx5Jzf6P3bLC6wUJPskOow/yyozrOaz7Pq1IU9ZVblNRmo+C5TT9M9W03D1Dp2E0PjfdvOzv0Q96+cVU5gQ==",
+      "path": "opencover/4.7.1189",
+      "hashPath": "opencover.4.7.1189.nupkg.sha512"
     },
     "Pomelo.EntityFrameworkCore.MySql/5.0.2": {
       "type": "package",
