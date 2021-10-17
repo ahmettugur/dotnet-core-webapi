@@ -24,18 +24,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aeb052b0-3d3e-4a98-b53b-01af40aecfb1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/CodeCoverage.runsettings" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.OnlineStore/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/OnlineStore.Business.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/OnlineStore.Business.Tests.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/obj/Debug/net5.0/OnlineStore.Business.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/obj/Debug/net5.0/OnlineStore.Business.Tests.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/obj/Debug/net5.0/OnlineStore.Business.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/obj/Debug/net5.0/OnlineStore.Business.Tests.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/obj/OnlineStore.Business.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/obj/OnlineStore.Business.Tests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/obj/OnlineStore.Business.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/obj/OnlineStore.Business.Tests.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/obj/OnlineStore.Business.Tests.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/obj/OnlineStore.Business.Tests.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../tests/Business/OnlineStore.Business.Tests/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -236,7 +225,7 @@
       <workItem from="1634410007078" duration="2556000" />
       <workItem from="1634446732980" duration="13968000" />
       <workItem from="1634462400733" duration="411000" />
-      <workItem from="1634474024024" duration="5551000" />
+      <workItem from="1634474024024" duration="6534000" />
     </task>
     <servers />
   </component>
