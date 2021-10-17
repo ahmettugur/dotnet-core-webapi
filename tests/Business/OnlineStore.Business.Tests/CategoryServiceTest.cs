@@ -56,5 +56,17 @@ namespace OnlineStore.Business.Tests
             Assert.Equal(200,result.StatusCode);
             Assert.Equal(_categories.First().Id, result.Data.Id);
         }
+        
+        [Fact]
+       public void GetCategory_ExecuteMethod_ReturnIResult()
+        {
+            _mock.Setup(_ => _.GetAll(null)).Returns(_categories);
+
+            var result = _categoryService.GetAll();
+            
+            Assert.IsType<List<Category>>(result.Data);
+            Assert.NotNull(result.Data);
+            Assert.Equal(200,result.StatusCode);
+        }
     }
 }

@@ -4,5 +4,6 @@
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::5B7628B0-BED8-432E-A1EC-E1AFAB079E71::net5.0::OnlineStore.Business.Tests.CategoryServiceTest.GetCategory_ValidId_ReturnIResult&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::5B7628B0-BED8-432E-A1EC-E1AFAB079E71::net5.0::OnlineStore.Business.Tests.CategoryServiceTest.GetCategory_InValidId_ReturnIResult&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::5B7628B0-BED8-432E-A1EC-E1AFAB079E71::net5.0::OnlineStore.Business.Tests.CategoryServiceTest.GetCategory_ExecuteMethod_ReturnIResult&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
