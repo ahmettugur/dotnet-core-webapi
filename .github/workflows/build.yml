@@ -1,8 +1,8 @@
-ame: Build
+name: Build
 on:
   push:
     branches:
-      - develop
+      - master
   pull_request:
     types: [opened, synchronize, reopened]
 jobs:
