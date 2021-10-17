@@ -18,10 +18,10 @@ namespace ATCommon.Caching.Memcached
     public class MemcachedManager : ICacheManager
     {
         private readonly MemcachedClient client;
-        private readonly ILoggerFactory _loggerFactory;
+
         public MemcachedManager(ILoggerFactory loggerFactory)
         {
-            _loggerFactory = loggerFactory;
+            var _loggerFactory = loggerFactory;
             string MemcachedUrl = AppSettingsHelper.GetAppSettings("MemcachedUrl");
 
             if (string.IsNullOrEmpty(MemcachedUrl))
