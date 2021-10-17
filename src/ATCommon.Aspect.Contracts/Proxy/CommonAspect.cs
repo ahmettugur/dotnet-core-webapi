@@ -90,7 +90,7 @@ namespace ATCommon.Aspect.Contracts.Proxy
             return totalAttribute.ToArray();
         }
 
-        private object RunOnBeforeInterception(object[] aspects, BeforeMethodArgs beforeMethodArgs)
+        private static object RunOnBeforeInterception(object[] aspects, BeforeMethodArgs beforeMethodArgs)
         {
             object response = null;
             foreach (IInterception loopAttribute in aspects)
@@ -106,7 +106,7 @@ namespace ATCommon.Aspect.Contracts.Proxy
             }
             return response;
         }
-        private  void RunOnAfterInterception(object[] aspects, AfterMethodArgs afterMethodArgs)
+        private static void RunOnAfterInterception(object[] aspects, AfterMethodArgs afterMethodArgs)
         {
             foreach (IInterception loopAttribute in aspects)
             {
@@ -117,7 +117,7 @@ namespace ATCommon.Aspect.Contracts.Proxy
             }
         }
 
-        private void RunOnExceptionInterception(object[] aspects, ExceptionMethodArgs exceptionMethodArgs)
+        private static void RunOnExceptionInterception(object[] aspects, ExceptionMethodArgs exceptionMethodArgs)
         {
             if (aspects == null)
                 return;

@@ -8,13 +8,15 @@ namespace OnlineStore.GrpcClient
 {
     class Program
     {
+        protected Program()
+        {
+            
+        }
         static async Task Main(string[] args)
         {
 
             var httpClientHandler = new HttpClientHandler();
             // Return `true` to allow certificates that are untrusted/invalid
-            httpClientHandler.ServerCertificateCustomValidationCallback = 
-                HttpClientHandler.DangerousAcceptAnyServerCertificateValidator;
             var httpClient = new HttpClient(httpClientHandler);
 
             var channel = GrpcChannel.ForAddress("https://localhost:5005", new GrpcChannelOptions { HttpClient = httpClient });

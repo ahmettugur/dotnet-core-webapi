@@ -9,22 +9,20 @@ namespace ATCommon.Aspect.Caching
 {
     public class CacheAspectAttribute : InterceptionAttribute, IBeforeInterception, IAfterInterception
     {
-        private readonly Type _cacheType;
         private readonly Type _returnType;
         private readonly int _expireAsMinute;
         private readonly ICacheManager _cacheManager;
 
         public CacheAspectAttribute(Type cacheType, Type returnType, int expireAsMinute = 60)
         {
-            _cacheType = cacheType;
 
-            if (!typeof(ICacheManager).IsAssignableFrom(_cacheType))
+            if (!typeof(ICacheManager).IsAssignableFrom(cacheType))
             {
                 throw new ArgumentException("Wrong caching type");
             }
             _returnType = returnType;
             _expireAsMinute = expireAsMinute;
-            _cacheManager = (ICacheManager)Activator.CreateInstance(_cacheType);
+            _cacheManager = (ICacheManager)Activator.CreateInstance(cacheType);
 
         }
         public object OnBefore(BeforeMethodArgs beforeMethodArgs)

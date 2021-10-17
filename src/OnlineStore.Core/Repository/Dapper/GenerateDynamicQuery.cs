@@ -11,7 +11,10 @@ namespace OnlineStore.Core.Repository.Dapper
 {
     public sealed class GenerateDynamicQuery
     {
-
+        private GenerateDynamicQuery()
+        {
+            
+        }
         public static string GenerateInsertQuery(string tableName, dynamic item)
         {
             PropertyInfo[] props = item.GetType().GetProperties();
@@ -50,9 +53,9 @@ namespace OnlineStore.Core.Repository.Dapper
             builder.Append(tableName);
             builder.Append(" WHERE ");
 
-            for (int i = 0; i < queryProperties.Count(); i++)
+            for (var i = 0; i < queryProperties.Count; i++)
             {
-                SqlQueryParameter item = queryProperties[i];
+                var item = queryProperties[i];
 
                 if (!string.IsNullOrEmpty(item.LinkingOperator) && i > 0)
                 {

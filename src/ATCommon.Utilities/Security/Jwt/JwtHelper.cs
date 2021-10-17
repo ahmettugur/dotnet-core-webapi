@@ -55,7 +55,7 @@ namespace ATCommon.Utilities.Security.Jwt
             return jwt;
         }
 
-        private IEnumerable<Claim> SetClaims(User user, string[] roles)
+        private static IEnumerable<Claim> SetClaims(User user, string[] roles)
         {
             var claims = new List<Claim>();
             claims.AddNameIdentifier(user.UserId.ToString());

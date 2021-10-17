@@ -8,18 +8,16 @@ namespace ATCommon.Aspect.Caching
 {
     public class CacheRemoveAspectAttribute : InterceptionAttribute, IAfterInterception
     {
-        private readonly Type _cacheType;
         private readonly ICacheManager _cacheManager;
         public CacheRemoveAspectAttribute(Type cacheType)
         {
-            _cacheType = cacheType;
 
-            if (!typeof(ICacheManager).IsAssignableFrom(_cacheType))
+            if (!typeof(ICacheManager).IsAssignableFrom(cacheType))
             {
                 throw new ArgumentException("Wrong caching type");
             }
 
-            _cacheManager = (ICacheManager)Activator.CreateInstance(_cacheType);
+            _cacheManager = (ICacheManager)Activator.CreateInstance(cacheType);
         }
         public void OnAfter(AfterMethodArgs afterMethodArgs)
         {

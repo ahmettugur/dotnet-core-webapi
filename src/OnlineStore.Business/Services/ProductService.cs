@@ -12,8 +12,8 @@ namespace OnlineStore.Business.Services
 {
     public class ProductService : IProductService
     {
-        private IProductRepository _productRepository;
-        private RabbitMQEntityPost<Product> rabbitMQ;
+        private readonly IProductRepository _productRepository;
+        private readonly RabbitMQEntityPost<Product> rabbitMQ;
 
         public ProductService(IProductRepository productRepository)
         {

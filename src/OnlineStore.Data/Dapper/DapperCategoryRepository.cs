@@ -13,13 +13,14 @@ namespace OnlineStore.Data.Dapper
 {
     public class DapperCategoryRepository : DapperGenericRepository<Category>, ICategoryRepository
     {
-        private SqlDbConnection _connection;
+        private readonly SqlDbConnection _connection;
         public DapperCategoryRepository()
         {
             _connection = new SqlDbConnection();
         }
-        public override IDbConnection Connection => _connection.GetSqlServerConnection();
 
-        public override string TableName => "Categories";
+        protected override IDbConnection Connection => _connection.GetSqlServerConnection();
+
+        protected override string TableName => "Categories";
     }
 }

@@ -11,15 +11,14 @@ namespace OnlineStore.Business.Logging
 
     public class DatabaseLogger : ICommonLogger
     {
-        private ILogService _logService;
         public void Log(LogMethodParameter logMethodParameter)
         {
-            _logService = InstanceFactory.GetInstance<ILogService>();
+            var logService = InstanceFactory.GetInstance<ILogService>();
 
 
             if (logMethodParameter == null)
             {
-                throw new Exception("Log method parameter cannot be null");
+                throw new ArgumentException("Log method parameter cannot be null");
             }
     
             if (string.IsNullOrWhiteSpace(logMethodParameter.Message))
@@ -37,7 +36,7 @@ namespace OnlineStore.Business.Logging
                     LogDetail = logMethodParameter.Message
                 };
 
-                _logService.Add(log);
+                logService.Add(log);
             }
             catch(Exception ex)
             {

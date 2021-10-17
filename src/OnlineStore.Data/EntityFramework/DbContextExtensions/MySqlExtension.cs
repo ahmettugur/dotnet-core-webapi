@@ -31,10 +31,6 @@ namespace OnlineStore.Data.EntityFramework.DbContextExtensions
         public static DbContextOptionsBuilder AddMySqlOptionBuilder(this DbContextOptionsBuilder optionsBuilder,string connectionString)
         {
             optionsBuilder.UseMySql(connectionString,new MySqlServerVersion(new Version(8, 0, 18)));
-            
-            
-            // optionsBuilder.UseMySql(connectionString, mySqlOptions => mySqlOptions
-            //         .ServerVersion(new ServerVersion(new Version(8, 0, 18), ServerType.MySql)));
             return optionsBuilder;
         }
     }

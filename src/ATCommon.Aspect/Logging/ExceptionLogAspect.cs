@@ -10,17 +10,15 @@ namespace ATCommon.Aspect.Logging
 {
     public class ExceptionLogAspectAttribute : InterceptionAttribute, IExceptionInterception
     {
-        private readonly Type _loggerType;
         private readonly ICommonLogger _logger;
         public ExceptionLogAspectAttribute(Type loggerType)
         {
-            _loggerType = loggerType;
-            if (!typeof(ICommonLogger).IsAssignableFrom(_loggerType))
+            if (!typeof(ICommonLogger).IsAssignableFrom(loggerType))
             {
                 throw new ArgumentException("Wrong logger type");
             }
 
-            _logger = (ICommonLogger)Activator.CreateInstance(_loggerType);
+            _logger = (ICommonLogger)Activator.CreateInstance(loggerType);
         }
         public void OnException(ExceptionMethodArgs exceptionMethodArgs)
         {

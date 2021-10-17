@@ -13,6 +13,10 @@ namespace OnlineStore.MQService
 {
     class Program
     {
+        protected Program()
+        {
+            
+        }
         static HubConnection connectionSignalR;
         static void Main(string[] args)
         {
@@ -22,39 +26,36 @@ namespace OnlineStore.MQService
 
             var queueName = AppSettingsHelper.GetAppSettings("ProductQueue");
 
-            using (var connection = rabbitMQService.CreateConnection())
-            {
-                using (var channel = connection.CreateModel())
-                {
-                    channel.QueueDeclare(queue: queueName,
-                                        durable: true,
-                                        exclusive: false,
-                                        autoDelete: false,
-                                        arguments: null);
+            using var connection = rabbitMQService.CreateConnection();
+            using var channel = connection.CreateModel();
+            channel.QueueDeclare(queue: queueName,
+                durable: true,
+                exclusive: false,
+                autoDelete: false,
+                arguments: null);
     
-                    var consumer = new EventingBasicConsumer(channel);
+            var consumer = new EventingBasicConsumer(channel);
 
-                    consumer.Received += (model, ea) =>
-                    {
-                        var body = ea.Body.ToArray();
-                        var data = Encoding.UTF8.GetString(body);
-                        Product product = JsonConvert.DeserializeObject<Product>(data);
+            consumer.Received += (model, ea) =>
+            {
+                var body = ea.Body.ToArray();
+                var data = Encoding.UTF8.GetString(body);
+                Product product = JsonConvert.DeserializeObject<Product>(data);
                         
-                        connectionSignalR.InvokeAsync("PushNotify", product);
-                        Console.WriteLine(" Received message: "+ product.Name + " : " + product.Price);
-                    };
+                connectionSignalR.InvokeAsync("PushNotify", product);
+                Console.WriteLine(" Received message: "+ product.Name + " : " + product.Price);
+            };
 
-                    channel.BasicConsume(queue: queueName,
-                    autoAck: true,
-                    consumer: consumer);
+            channel.BasicConsume(queue: queueName,
+                autoAck: true,
+                consumer: consumer);
 
-                    Console.ReadLine();
-                }
-            }
+            Console.ReadLine();
         }
-        public static async Task Connect()
+
+        private static async Task Connect()
         {
-            string HubConnectionUrl = AppSettingsHelper.GetAppSettings("HubConnection");
+            var HubConnectionUrl = AppSettingsHelper.GetAppSettings("HubConnection");
              connectionSignalR = new HubConnectionBuilder()
                 .WithUrl(HubConnectionUrl)
                 .Build();   

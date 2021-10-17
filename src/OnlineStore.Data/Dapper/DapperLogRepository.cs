@@ -13,13 +13,14 @@ namespace OnlineStore.Data.Dapper
 {
     public class DapperLogRepository : DapperGenericRepository<Category>, ICategoryRepository
     {
-        private SqlDbConnection _connection;
+        private readonly SqlDbConnection _connection;
         public DapperLogRepository()
         {
             _connection = new SqlDbConnection();
         }
-        public override IDbConnection Connection => _connection.GetSqlServerConnection();
 
-        public override string TableName => "Log";
+        protected override IDbConnection Connection => _connection.GetSqlServerConnection();
+
+        protected override string TableName => "Log";
     }
 }

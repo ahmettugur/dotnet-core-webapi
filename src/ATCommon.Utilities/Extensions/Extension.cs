@@ -389,15 +389,7 @@ namespace ATCommon.Utilities.Extensions
 
         public static bool IsIn(object value, params object[] parameters)
         {
-            foreach (var item in parameters)
-            {
-                if (string.Equals(item.ToString(), value.ToString(), StringComparison.OrdinalIgnoreCase))
-                {
-                    return true;
-                }
-            }
-
-            return false;
+            return parameters.Any(item => string.Equals(item.ToString(), value.ToString(), StringComparison.OrdinalIgnoreCase));
         }
     }
 }

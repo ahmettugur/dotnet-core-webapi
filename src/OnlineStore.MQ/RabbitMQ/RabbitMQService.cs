@@ -6,7 +6,7 @@ namespace OnlineStore.MQ.RabbitMQ
 {
     public class RabbitMQService
     {
-        private readonly string messageQueueHostName="";
+        private readonly string messageQueueHostName;
         public RabbitMQService()
         {
             messageQueueHostName = AppSettingsHelper.GetAppSettings("MessageQueueHostName");
@@ -14,7 +14,7 @@ namespace OnlineStore.MQ.RabbitMQ
  
         public IConnection CreateConnection()
         {
-            ConnectionFactory connectionFactory = new ConnectionFactory()
+            var connectionFactory = new ConnectionFactory()
             {
                 // RabbitMQ'nun bağlantı kuracağı host'u tanımlıyoruz. Herhangi bir güvenlik önlemi koymak istersek, Management ekranından password adımlarını tanımlayıp factory içerisindeki "UserName" ve "Password" property'lerini set etmemiz yeterlidir.
                 HostName = messageQueueHostName

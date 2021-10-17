@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Autofac;
 using Autofac.Extensions.DependencyInjection;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
@@ -14,6 +15,10 @@ namespace OnlineStore.API
 {
     public class Program
     {
+        protected Program()
+        {
+            
+        }
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
