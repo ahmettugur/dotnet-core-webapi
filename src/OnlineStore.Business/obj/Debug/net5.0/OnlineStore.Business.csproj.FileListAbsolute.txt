@@ -44,7 +44,6 @@ D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Business\bin\Debug\net5.0\A
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Business\bin\Debug\net5.0\ATCommon.Aspect.dll
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Business\bin\Debug\net5.0\ATCommon.Caching.Contracts.dll
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Business\bin\Debug\net5.0\ATCommon.Logging.Contracts.dll
-D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Business\bin\Debug\net5.0\ATCommon.Logging.Log4net.dll
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Business\bin\Debug\net5.0\ATCommon.Utilities.dll
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Business\bin\Debug\net5.0\OnlineStore.Business.Contracts.dll
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Business\bin\Debug\net5.0\OnlineStore.Core.Contracts.dll
@@ -59,7 +58,6 @@ D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Business\bin\Debug\net5.0\O
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Business\bin\Debug\net5.0\OnlineStore.Data.pdb
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Business\bin\Debug\net5.0\OnlineStore.Entity.pdb
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Business\bin\Debug\net5.0\OnlineStore.MQ.pdb
-D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Business\bin\Debug\net5.0\ATCommon.Logging.Log4net.pdb
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Business\bin\Debug\net5.0\ATCommon.Aspect.Contracts.pdb
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Business\bin\Debug\net5.0\ATCommon.Caching.Contracts.pdb
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Business\bin\Debug\net5.0\ATCommon.Logging.Contracts.pdb

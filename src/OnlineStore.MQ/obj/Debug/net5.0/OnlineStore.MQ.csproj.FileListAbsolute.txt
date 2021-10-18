@@ -39,3 +39,4 @@ D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.MQ\obj\Debug\net5.0\OnlineS
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.MQ\obj\Debug\net5.0\OnlineStore.MQ.dll
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.MQ\obj\Debug\net5.0\ref\OnlineStore.MQ.dll
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.MQ\obj\Debug\net5.0\OnlineStore.MQ.pdb
+D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.MQ\obj\Debug\net5.0\OnlineStore.MQ.csproj.AssemblyReference.cache

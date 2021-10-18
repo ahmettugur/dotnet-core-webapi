@@ -215,7 +215,6 @@ D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\b
 D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\Dapper.dll
 D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\Dapper.Contrib.dll
 D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\FluentValidation.dll
-D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\log4net.dll
 D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Abstractions.dll
 D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
 D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
@@ -363,7 +362,6 @@ D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\b
 D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\ATCommon.Aspect.dll
 D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\ATCommon.Caching.Contracts.dll
 D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\ATCommon.Logging.Contracts.dll
-D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\ATCommon.Logging.Log4net.dll
 D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\ATCommon.Utilities.dll
 D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\OnlineStore.Business.Contracts.dll
 D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\OnlineStore.Business.dll
@@ -380,7 +378,6 @@ D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\b
 D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\ATCommon.Aspect.Contracts.pdb
 D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\ATCommon.Caching.Contracts.pdb
 D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\ATCommon.Logging.Contracts.pdb
-D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\ATCommon.Logging.Log4net.pdb
 D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\ATCommon.Utilities.pdb
 D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\OnlineStore.Core.pdb
 D:\GithubProjects\dotnet-core-webapi\tests\Business\OnlineStore.Business.Tests\bin\Debug\net5.0\OnlineStore.Core.Contracts.pdb
