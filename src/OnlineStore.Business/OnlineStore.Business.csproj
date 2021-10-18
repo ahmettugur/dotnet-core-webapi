@@ -17,7 +17,6 @@
     <ProjectReference Include="..\OnlineStore.Data\OnlineStore.Data.csproj" />
     <ProjectReference Include="..\OnlineStore.Entity\OnlineStore.Entity.csproj" />
     <ProjectReference Include="..\OnlineStore.MQ\OnlineStore.MQ.csproj" />
-    <ProjectReference Include="..\ATCommon.Logging.Log4net\ATCommon.Logging.Log4net.csproj" />
   </ItemGroup>
 
   <ItemGroup>

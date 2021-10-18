@@ -31,7 +31,6 @@ D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.MQ\bin\Debug\net5.0\ATCommo
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.MQ\bin\Debug\net5.0\OnlineStore.Core.Contracts.pdb
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.MQ\bin\Debug\net5.0\OnlineStore.Core.pdb
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.MQ\bin\Debug\net5.0\OnlineStore.Entity.pdb
-D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.MQ\obj\Debug\net5.0\OnlineStore.MQ.csproj.AssemblyReference.cache
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.MQ\obj\Debug\net5.0\OnlineStore.MQ.GeneratedMSBuildEditorConfig.editorconfig
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.MQ\obj\Debug\net5.0\OnlineStore.MQ.AssemblyInfoInputs.cache
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.MQ\obj\Debug\net5.0\OnlineStore.MQ.AssemblyInfo.cs

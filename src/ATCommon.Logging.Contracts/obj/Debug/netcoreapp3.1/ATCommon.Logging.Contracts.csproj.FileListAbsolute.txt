@@ -11,7 +11,6 @@
 D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Logging.Contracts\bin\Debug\netcoreapp3.1\ATCommon.Logging.Contracts.deps.json
 D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Logging.Contracts\bin\Debug\netcoreapp3.1\ATCommon.Logging.Contracts.dll
 D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Logging.Contracts\bin\Debug\netcoreapp3.1\ATCommon.Logging.Contracts.pdb
-D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Logging.Contracts\obj\Debug\netcoreapp3.1\ATCommon.Logging.Contracts.csproj.AssemblyReference.cache
 D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Logging.Contracts\obj\Debug\netcoreapp3.1\ATCommon.Logging.Contracts.GeneratedMSBuildEditorConfig.editorconfig
 D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Logging.Contracts\obj\Debug\netcoreapp3.1\ATCommon.Logging.Contracts.AssemblyInfoInputs.cache
 D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Logging.Contracts\obj\Debug\netcoreapp3.1\ATCommon.Logging.Contracts.AssemblyInfo.cs

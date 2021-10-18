@@ -14,7 +14,6 @@ D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Aspect.Contracts\bin\Debug\net
 D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Aspect.Contracts\bin\Debug\net5.0\ATCommon.Aspect.Contracts.dll
 D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Aspect.Contracts\bin\Debug\net5.0\ref\ATCommon.Aspect.Contracts.dll
 D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Aspect.Contracts\bin\Debug\net5.0\ATCommon.Aspect.Contracts.pdb
-D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Aspect.Contracts\obj\Debug\net5.0\ATCommon.Aspect.Contracts.csproj.AssemblyReference.cache
 D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Aspect.Contracts\obj\Debug\net5.0\ATCommon.Aspect.Contracts.GeneratedMSBuildEditorConfig.editorconfig
 D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Aspect.Contracts\obj\Debug\net5.0\ATCommon.Aspect.Contracts.AssemblyInfoInputs.cache
 D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Aspect.Contracts\obj\Debug\net5.0\ATCommon.Aspect.Contracts.AssemblyInfo.cs

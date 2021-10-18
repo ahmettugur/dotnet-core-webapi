@@ -45,27 +45,25 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aspect", "Aspect", "{1AF9B3
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATCommon.Aspect.Contracts", "ATCommon.Aspect.Contracts\ATCommon.Aspect.Contracts.csproj", "{A40310BA-716F-44FD-8770-C027E385D76B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATCommon.Aspect", "ATCommon.Aspect\ATCommon.Aspect.csproj", "{9D18EF96-2A34-4877-9B9B-212592C5A686}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATCommon.Aspect", "ATCommon.Aspect\ATCommon.Aspect.csproj", "{9D18EF96-2A34-4877-9B9B-212592C5A686}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Caching", "Caching", "{EB5341AA-50E5-414F-B55A-82D19F8ACC98}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATCommon.Caching.Contracts", "ATCommon.Caching.Contracts\ATCommon.Caching.Contracts.csproj", "{BEAC0A08-0AD2-4D91-BDBB-2894A8F3FBB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATCommon.Caching.Contracts", "ATCommon.Caching.Contracts\ATCommon.Caching.Contracts.csproj", "{BEAC0A08-0AD2-4D91-BDBB-2894A8F3FBB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATCommon.Caching.Redis", "ATCommon.Caching.Redis\ATCommon.Caching.Redis.csproj", "{2AE5B0F1-3135-4E16-998C-968490B84F95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATCommon.Caching.Redis", "ATCommon.Caching.Redis\ATCommon.Caching.Redis.csproj", "{2AE5B0F1-3135-4E16-998C-968490B84F95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATCommon.Caching.Memcached", "ATCommon.Caching.Memcached\ATCommon.Caching.Memcached.csproj", "{F707725A-8939-47AF-A2BA-F9EFA11FB370}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATCommon.Caching.Memcached", "ATCommon.Caching.Memcached\ATCommon.Caching.Memcached.csproj", "{F707725A-8939-47AF-A2BA-F9EFA11FB370}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logging", "Logging", "{82CB139C-0BA8-4613-9D39-E19C6839F18B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATCommon.Logging.Contracts", "ATCommon.Logging.Contracts\ATCommon.Logging.Contracts.csproj", "{032849A1-46CA-4B46-B2B8-79F070F8A7BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATCommon.Logging.Contracts", "ATCommon.Logging.Contracts\ATCommon.Logging.Contracts.csproj", "{032849A1-46CA-4B46-B2B8-79F070F8A7BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATCommon.Logging", "ATCommon.Logging\ATCommon.Logging.csproj", "{FF9B5897-F5D6-44F7-8083-11D9F1F10072}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATCommon.Logging", "ATCommon.Logging\ATCommon.Logging.csproj", "{FF9B5897-F5D6-44F7-8083-11D9F1F10072}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATCommon.Utilities", "ATCommon.Utilities\ATCommon.Utilities.csproj", "{FFDFFBDE-85A9-4B23-9945-C4F2956E2F41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ATCommon.Utilities", "ATCommon.Utilities\ATCommon.Utilities.csproj", "{FFDFFBDE-85A9-4B23-9945-C4F2956E2F41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATCommon.Logging.Log4net", "ATCommon.Logging.Log4net\ATCommon.Logging.Log4net.csproj", "{DA85BC06-DEE9-4267-BBEF-B01C35177E66}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineStore.Business.Tests", "..\tests\Business\OnlineStore.Business.Tests\OnlineStore.Business.Tests.csproj", "{5B7628B0-BED8-432E-A1EC-E1AFAB079E71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineStore.Business.Tests", "..\tests\Business\OnlineStore.Business.Tests\OnlineStore.Business.Tests.csproj", "{5B7628B0-BED8-432E-A1EC-E1AFAB079E71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -149,10 +147,6 @@ Global
 		{FFDFFBDE-85A9-4B23-9945-C4F2956E2F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFDFFBDE-85A9-4B23-9945-C4F2956E2F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFDFFBDE-85A9-4B23-9945-C4F2956E2F41}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DA85BC06-DEE9-4267-BBEF-B01C35177E66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DA85BC06-DEE9-4267-BBEF-B01C35177E66}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{DA85BC06-DEE9-4267-BBEF-B01C35177E66}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{DA85BC06-DEE9-4267-BBEF-B01C35177E66}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5B7628B0-BED8-432E-A1EC-E1AFAB079E71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5B7628B0-BED8-432E-A1EC-E1AFAB079E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B7628B0-BED8-432E-A1EC-E1AFAB079E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -162,7 +156,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{DA85BC06-DEE9-4267-BBEF-B01C35177E66} = {82CB139C-0BA8-4613-9D39-E19C6839F18B}
 		{07B0A43E-E434-444E-BB54-44BCD9F2F186} = {18E7BD5E-44B9-40D0-A8FF-0CE2C033D7C5}
 		{64096AA5-706C-4CCB-A8FD-CEA025050789} = {18E7BD5E-44B9-40D0-A8FF-0CE2C033D7C5}
 		{A7C053BB-927E-450A-B66B-73644959903B} = {E9F15D72-19C3-463F-95EB-E3B73B8857C2}
