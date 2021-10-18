@@ -1,5 +1,4 @@
 ﻿using ATCommon.Aspect.Logging;
-using ATCommon.Logging.Log4net.Loggers;
 using ATCommon.Utilities.Response;
 using OnlineStore.Business.BusinessAspects.Authorization;
 using OnlineStore.Business.Contracts;

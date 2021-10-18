@@ -14,7 +14,6 @@ D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\bin\Debug\ne
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\bin\Debug\net5.0\OnlineStore.Core.Contracts.dll
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\bin\Debug\net5.0\ref\OnlineStore.Core.Contracts.dll
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\bin\Debug\net5.0\OnlineStore.Core.Contracts.pdb
-D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\obj\Debug\net5.0\OnlineStore.Core.Contracts.csproj.AssemblyReference.cache
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\obj\Debug\net5.0\OnlineStore.Core.Contracts.GeneratedMSBuildEditorConfig.editorconfig
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\obj\Debug\net5.0\OnlineStore.Core.Contracts.AssemblyInfoInputs.cache
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\obj\Debug\net5.0\OnlineStore.Core.Contracts.AssemblyInfo.cs
