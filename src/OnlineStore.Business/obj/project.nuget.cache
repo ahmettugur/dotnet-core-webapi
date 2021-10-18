@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "sccGqgH7Bt0jSV+j7vzJjZSNrPEXD2pgCxH2xFlG4Dqrmyi+UiNWQrj4xNTJbDFBv4kYtqNUezph6NTO2bEuhg==",
+  "dgSpecHash": "grT7Jle2a8Mt+/zbmJFVeeiusow2vMXZi4BTeZVpKo7E37PLIBT/rs+SfhVt8PceyFyOL3yH7Kgh2llFr1hojQ==",
   "success": true,
   "projectFilePath": "D:\\GithubProjects\\dotnet-core-webapi\\src\\OnlineStore.Business\\OnlineStore.Business.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,6 @@
     "C:\\Users\\atugur\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
     "C:\\Users\\atugur\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",
     "C:\\Users\\atugur\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
-    "C:\\Users\\atugur\\.nuget\\packages\\log4net\\2.0.12\\log4net.2.0.12.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
