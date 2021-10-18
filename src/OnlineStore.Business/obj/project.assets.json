@@ -1978,7 +1978,7 @@
       ]
     },
     "Microsoft.AspNetCore.Http.Abstractions/2.2.0": {
-      "sha512": "Nxs7Z1q3f1STfLYKJSVXCs1iBl+Ya6E8o4Oy1bCxJ/rNI44E/0f6tbsrVqAWfB7jlnJfyaAtIalBVxPKUPQb4Q==",
+      "sha512": "IkuRKkTFEbO30FwfCVuL0piikRBK/kgsaLbfbeUg8Rejpe5nCRUDZ3RDLzaW0FPMZxdb1opQ/zBYibItL1AezQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.http.abstractions/2.2.0",
       "files": [
@@ -1991,7 +1991,7 @@
       ]
     },
     "Microsoft.AspNetCore.Http.Features/2.2.0": {
-      "sha512": "ziFz5zH8f33En4dX81LW84I6XrYXKf9jg6aM39cM+LffN9KJahViKZ61dGMSO2gd3e+qe5yBRwsesvyqlZaSMg==",
+      "sha512": "0GNO7G290ULLrFcL7Yig7EYNpWF0ZisATpoPGszArH7wtuDDNt97o3vr4CANPzxAcJuXlhIPKuAhk+GPKm6AHg==",
       "type": "package",
       "path": "microsoft.aspnetcore.http.features/2.2.0",
       "files": [
@@ -6461,54 +6461,59 @@
     ]
   },
   "packageFolders": {
-    "/home/ahmet/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\atugur\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Business/OnlineStore.Business.csproj",
+      "projectUniqueName": "D:\\GithubProjects\\dotnet-core-webapi\\src\\OnlineStore.Business\\OnlineStore.Business.csproj",
       "projectName": "OnlineStore.Business",
-      "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Business/OnlineStore.Business.csproj",
-      "packagesPath": "/home/ahmet/.nuget/packages/",
-      "outputPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Business/obj/",
+      "projectPath": "D:\\GithubProjects\\dotnet-core-webapi\\src\\OnlineStore.Business\\OnlineStore.Business.csproj",
+      "packagesPath": "C:\\Users\\atugur\\.nuget\\packages\\",
+      "outputPath": "D:\\GithubProjects\\dotnet-core-webapi\\src\\OnlineStore.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/ahmet/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\atugur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/ATCommon.Aspect.csproj": {
-              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/ATCommon.Aspect.csproj"
+            "D:\\GithubProjects\\dotnet-core-webapi\\src\\ATCommon.Aspect\\ATCommon.Aspect.csproj": {
+              "projectPath": "D:\\GithubProjects\\dotnet-core-webapi\\src\\ATCommon.Aspect\\ATCommon.Aspect.csproj"
             },
-            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj": {
-              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Logging.Log4net/ATCommon.Logging.Log4net.csproj"
+            "D:\\GithubProjects\\dotnet-core-webapi\\src\\ATCommon.Logging.Log4net\\ATCommon.Logging.Log4net.csproj": {
+              "projectPath": "D:\\GithubProjects\\dotnet-core-webapi\\src\\ATCommon.Logging.Log4net\\ATCommon.Logging.Log4net.csproj"
             },
-            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj": {
-              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Business.Contracts/OnlineStore.Business.Contracts.csproj"
+            "D:\\GithubProjects\\dotnet-core-webapi\\src\\OnlineStore.Business.Contracts\\OnlineStore.Business.Contracts.csproj": {
+              "projectPath": "D:\\GithubProjects\\dotnet-core-webapi\\src\\OnlineStore.Business.Contracts\\OnlineStore.Business.Contracts.csproj"
             },
-            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj": {
-              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data.Contracts/OnlineStore.Data.Contracts.csproj"
+            "D:\\GithubProjects\\dotnet-core-webapi\\src\\OnlineStore.Data.Contracts\\OnlineStore.Data.Contracts.csproj": {
+              "projectPath": "D:\\GithubProjects\\dotnet-core-webapi\\src\\OnlineStore.Data.Contracts\\OnlineStore.Data.Contracts.csproj"
             },
-            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data/OnlineStore.Data.csproj": {
-              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Data/OnlineStore.Data.csproj"
+            "D:\\GithubProjects\\dotnet-core-webapi\\src\\OnlineStore.Data\\OnlineStore.Data.csproj": {
+              "projectPath": "D:\\GithubProjects\\dotnet-core-webapi\\src\\OnlineStore.Data\\OnlineStore.Data.csproj"
             },
-            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Entity/OnlineStore.Entity.csproj": {
-              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Entity/OnlineStore.Entity.csproj"
+            "D:\\GithubProjects\\dotnet-core-webapi\\src\\OnlineStore.Entity\\OnlineStore.Entity.csproj": {
+              "projectPath": "D:\\GithubProjects\\dotnet-core-webapi\\src\\OnlineStore.Entity\\OnlineStore.Entity.csproj"
             },
-            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.MQ/OnlineStore.MQ.csproj": {
-              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.MQ/OnlineStore.MQ.csproj"
+            "D:\\GithubProjects\\dotnet-core-webapi\\src\\OnlineStore.MQ\\OnlineStore.MQ.csproj": {
+              "projectPath": "D:\\GithubProjects\\dotnet-core-webapi\\src\\OnlineStore.MQ\\OnlineStore.MQ.csproj"
             }
           }
         }
@@ -6547,7 +6552,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

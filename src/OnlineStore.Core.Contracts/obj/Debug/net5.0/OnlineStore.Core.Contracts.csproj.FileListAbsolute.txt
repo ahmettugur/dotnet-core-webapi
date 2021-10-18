@@ -10,3 +10,15 @@
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Core.Contracts/obj/Debug/net5.0/OnlineStore.Core.Contracts.dll
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Core.Contracts/obj/Debug/net5.0/ref/OnlineStore.Core.Contracts.dll
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/OnlineStore.Core.Contracts/obj/Debug/net5.0/OnlineStore.Core.Contracts.pdb
+D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\bin\Debug\net5.0\OnlineStore.Core.Contracts.deps.json
+D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\bin\Debug\net5.0\OnlineStore.Core.Contracts.dll
+D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\bin\Debug\net5.0\ref\OnlineStore.Core.Contracts.dll
+D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\bin\Debug\net5.0\OnlineStore.Core.Contracts.pdb
+D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\obj\Debug\net5.0\OnlineStore.Core.Contracts.csproj.AssemblyReference.cache
+D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\obj\Debug\net5.0\OnlineStore.Core.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\obj\Debug\net5.0\OnlineStore.Core.Contracts.AssemblyInfoInputs.cache
+D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\obj\Debug\net5.0\OnlineStore.Core.Contracts.AssemblyInfo.cs
+D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\obj\Debug\net5.0\OnlineStore.Core.Contracts.csproj.CoreCompileInputs.cache
+D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\obj\Debug\net5.0\OnlineStore.Core.Contracts.dll
+D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\obj\Debug\net5.0\ref\OnlineStore.Core.Contracts.dll
+D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\obj\Debug\net5.0\OnlineStore.Core.Contracts.pdb

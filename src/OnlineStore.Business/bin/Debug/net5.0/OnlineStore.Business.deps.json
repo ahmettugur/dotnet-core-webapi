@@ -134,7 +134,7 @@
           "runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll": {
             "rid": "win-arm",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "2.0.1.0"
           },
           "runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb": {
             "rid": "win-arm",
@@ -144,7 +144,7 @@
           "runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll": {
             "rid": "win-arm64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "2.0.1.0"
           },
           "runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb": {
             "rid": "win-arm64",
@@ -154,7 +154,7 @@
           "runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "2.0.1.0"
           },
           "runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb": {
             "rid": "win-x64",
@@ -164,7 +164,7 @@
           "runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll": {
             "rid": "win-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "2.0.1.0"
           },
           "runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb": {
             "rid": "win-x86",
@@ -582,7 +582,7 @@
           "runtimes/win-arm64/native/sni.dll": {
             "rid": "win-arm64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "4.6.25512.1"
           }
         }
       },
@@ -591,7 +591,7 @@
           "runtimes/win-x64/native/sni.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "4.6.25512.1"
           }
         }
       },
@@ -600,7 +600,7 @@
           "runtimes/win-x86/native/sni.dll": {
             "rid": "win-x86",
             "assetType": "native",
-            "fileVersion": "0.0.0.0"
+            "fileVersion": "4.6.25512.1"
           }
         }
       },
@@ -1399,14 +1399,14 @@
     "Microsoft.AspNetCore.Http.Abstractions/2.2.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Nxs7Z1q3f1STfLYKJSVXCs1iBl+Ya6E8o4Oy1bCxJ/rNI44E/0f6tbsrVqAWfB7jlnJfyaAtIalBVxPKUPQb4Q==",
+      "sha512": "sha512-IkuRKkTFEbO30FwfCVuL0piikRBK/kgsaLbfbeUg8Rejpe5nCRUDZ3RDLzaW0FPMZxdb1opQ/zBYibItL1AezQ==",
       "path": "microsoft.aspnetcore.http.abstractions/2.2.0",
       "hashPath": "microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Http.Features/2.2.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-ziFz5zH8f33En4dX81LW84I6XrYXKf9jg6aM39cM+LffN9KJahViKZ61dGMSO2gd3e+qe5yBRwsesvyqlZaSMg==",
+      "sha512": "sha512-0GNO7G290ULLrFcL7Yig7EYNpWF0ZisATpoPGszArH7wtuDDNt97o3vr4CANPzxAcJuXlhIPKuAhk+GPKm6AHg==",
       "path": "microsoft.aspnetcore.http.features/2.2.0",
       "hashPath": "microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512"
     },

@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
-using OnlineStore.Data.EntityFramework.Mappings.PostgreSQL;
 using OnlineStore.Data.EntityFramework.DbContextExtensions;
 using OnlineStore.Entity.Concrete;
 using System.IO;

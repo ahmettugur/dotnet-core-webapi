@@ -22,11 +22,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="EntityFramework\Mappings\" />
-    <Folder Include="EntityFramework\Mappings\PostgreSQL\" />
     <Folder Include="EntityFramework\Mappings\SqlServer\" />
-    <Folder Include="EntityFramework\DbContextExtensions\" />
-    <Folder Include="EntityFramework\Mappings\MySql\" />
+    <Folder Include="EntityFramework\Mappings\MySqlAndPostgreSQL\" />
   </ItemGroup>
   <ItemGroup>
     <Compile Remove="EntityFramework\Contexts\OnlineStoreSqlServerContext.cs" />

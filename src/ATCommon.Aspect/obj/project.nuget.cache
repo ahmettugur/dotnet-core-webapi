@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "j1VfAPCeqRErmFsvXaOJxtgIm9eQu8POCyZoh30Uo/Fgj2FXUbqsUu3GWc4Gj62JLxQOhi91L/wN/bClaurm/Q==",
+  "dgSpecHash": "M5BfNkZFgFp5AVkn2EyUdqUGmFcAJK5AwMZkWZsRD2kfq8R9ArvfYcPKr+M23R2hUa0JQYWcSMTZ1guH5ZT2OA==",
   "success": true,
-  "projectFilePath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Aspect/ATCommon.Aspect.csproj",
+  "projectFilePath": "D:\\GithubProjects\\dotnet-core-webapi\\src\\ATCommon.Aspect\\ATCommon.Aspect.csproj",
   "expectedPackageFiles": [
-    "/home/ahmet/.nuget/packages/fluentvalidation/10.3.3/fluentvalidation.10.3.3.nupkg.sha512",
-    "/home/ahmet/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\atugur\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\atugur\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

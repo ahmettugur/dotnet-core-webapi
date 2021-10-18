@@ -9,3 +9,15 @@
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Caching.Contracts/obj/Debug/net5.0/ATCommon.Caching.Contracts.dll
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Caching.Contracts/obj/Debug/net5.0/ref/ATCommon.Caching.Contracts.dll
 /home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Caching.Contracts/obj/Debug/net5.0/ATCommon.Caching.Contracts.pdb
+D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Caching.Contracts\bin\Debug\net5.0\ATCommon.Caching.Contracts.deps.json
+D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Caching.Contracts\bin\Debug\net5.0\ATCommon.Caching.Contracts.dll
+D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Caching.Contracts\bin\Debug\net5.0\ref\ATCommon.Caching.Contracts.dll
+D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Caching.Contracts\bin\Debug\net5.0\ATCommon.Caching.Contracts.pdb
+D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Caching.Contracts\obj\Debug\net5.0\ATCommon.Caching.Contracts.csproj.AssemblyReference.cache
+D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Caching.Contracts\obj\Debug\net5.0\ATCommon.Caching.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Caching.Contracts\obj\Debug\net5.0\ATCommon.Caching.Contracts.AssemblyInfoInputs.cache
+D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Caching.Contracts\obj\Debug\net5.0\ATCommon.Caching.Contracts.AssemblyInfo.cs
+D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Caching.Contracts\obj\Debug\net5.0\ATCommon.Caching.Contracts.csproj.CoreCompileInputs.cache
+D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Caching.Contracts\obj\Debug\net5.0\ATCommon.Caching.Contracts.dll
+D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Caching.Contracts\obj\Debug\net5.0\ref\ATCommon.Caching.Contracts.dll
+D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Caching.Contracts\obj\Debug\net5.0\ATCommon.Caching.Contracts.pdb

@@ -9,11 +9,11 @@ namespace OnlineStore.Data.EntityFramework.DbContextExtensions
     {
         public static ModelBuilder AddMsSqlServerModelBuilder(this ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Product>().ToTable("Products", schema: "dbo");
-            modelBuilder.Entity<Category>().ToTable("Categories", schema: "dbo");
-            modelBuilder.Entity<User>().ToTable("Users", schema: "dbo");
-            modelBuilder.Entity<Role>().ToTable("Roles", schema: "dbo");
-            modelBuilder.Entity<UserRole>().ToTable("UserRoles", schema: "dbo");
+            modelBuilder.Entity<Product>().ToTable("Products", schema: "store");
+            modelBuilder.Entity<Category>().ToTable("Categories", schema: "store");
+            modelBuilder.Entity<User>().ToTable("Users", schema: "store");
+            modelBuilder.Entity<Role>().ToTable("Roles", schema: "store");
+            modelBuilder.Entity<UserRole>().ToTable("UserRoles", schema: "store");
             modelBuilder.Entity<Log>().ToTable("Log", schema: "dbo");
 
             modelBuilder.ApplyConfiguration(new ProductMap());

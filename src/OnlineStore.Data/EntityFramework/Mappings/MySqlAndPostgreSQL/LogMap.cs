@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using OnlineStore.Entity.Concrete;
 
-namespace OnlineStore.Data.EntityFramework.Mappings.PostgreSQL
+namespace OnlineStore.Data.EntityFramework.Mappings.MySqlAndPostgreSQL
 {
     public class LogMap : IEntityTypeConfiguration<Log>
     {

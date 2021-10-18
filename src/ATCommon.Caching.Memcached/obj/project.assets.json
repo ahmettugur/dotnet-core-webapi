@@ -608,7 +608,7 @@
       ]
     },
     "Microsoft.AspNetCore.Http.Abstractions/2.2.0": {
-      "sha512": "Nxs7Z1q3f1STfLYKJSVXCs1iBl+Ya6E8o4Oy1bCxJ/rNI44E/0f6tbsrVqAWfB7jlnJfyaAtIalBVxPKUPQb4Q==",
+      "sha512": "IkuRKkTFEbO30FwfCVuL0piikRBK/kgsaLbfbeUg8Rejpe5nCRUDZ3RDLzaW0FPMZxdb1opQ/zBYibItL1AezQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.http.abstractions/2.2.0",
       "files": [
@@ -621,7 +621,7 @@
       ]
     },
     "Microsoft.AspNetCore.Http.Features/2.2.0": {
-      "sha512": "ziFz5zH8f33En4dX81LW84I6XrYXKf9jg6aM39cM+LffN9KJahViKZ61dGMSO2gd3e+qe5yBRwsesvyqlZaSMg==",
+      "sha512": "0GNO7G290ULLrFcL7Yig7EYNpWF0ZisATpoPGszArH7wtuDDNt97o3vr4CANPzxAcJuXlhIPKuAhk+GPKm6AHg==",
       "type": "package",
       "path": "microsoft.aspnetcore.http.features/2.2.0",
       "files": [
@@ -1180,7 +1180,7 @@
       ]
     },
     "Newtonsoft.Json.Bson/1.0.2": {
-      "sha512": "QYFyxhaABwmq3p/21VrZNYvCg3DaEoN/wUuw5nmfAf0X3HLjgupwhkEWdgfb9nvGAUIv3osmZoD3kKl4jxEmYQ==",
+      "sha512": "M52Tfhn8KzsfmTKHl9/KjVHvA6zWxuYa46HZ3ldqlT4U3N/pEeHvwtyzYx+3/jVnLb4t62hB2zWNVwDGl0VHfg==",
       "type": "package",
       "path": "newtonsoft.json.bson/1.0.2",
       "files": [
@@ -1584,39 +1584,44 @@
     ]
   },
   "packageFolders": {
-    "/home/ahmet/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\atugur\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Caching.Memcached/ATCommon.Caching.Memcached.csproj",
+      "projectUniqueName": "D:\\GithubProjects\\dotnet-core-webapi\\src\\ATCommon.Caching.Memcached\\ATCommon.Caching.Memcached.csproj",
       "projectName": "ATCommon.Caching.Memcached",
-      "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Caching.Memcached/ATCommon.Caching.Memcached.csproj",
-      "packagesPath": "/home/ahmet/.nuget/packages/",
-      "outputPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Caching.Memcached/obj/",
+      "projectPath": "D:\\GithubProjects\\dotnet-core-webapi\\src\\ATCommon.Caching.Memcached\\ATCommon.Caching.Memcached.csproj",
+      "packagesPath": "C:\\Users\\atugur\\.nuget\\packages\\",
+      "outputPath": "D:\\GithubProjects\\dotnet-core-webapi\\src\\ATCommon.Caching.Memcached\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/ahmet/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\atugur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj": {
-              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Caching.Contracts/ATCommon.Caching.Contracts.csproj"
+            "D:\\GithubProjects\\dotnet-core-webapi\\src\\ATCommon.Caching.Contracts\\ATCommon.Caching.Contracts.csproj": {
+              "projectPath": "D:\\GithubProjects\\dotnet-core-webapi\\src\\ATCommon.Caching.Contracts\\ATCommon.Caching.Contracts.csproj"
             },
-            "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Utilities/ATCommon.Utilities.csproj": {
-              "projectPath": "/home/ahmet/Desktop/Applications/AspNetCore/GithubProjects/dotnet-core-webapi/src/ATCommon.Utilities/ATCommon.Utilities.csproj"
+            "D:\\GithubProjects\\dotnet-core-webapi\\src\\ATCommon.Utilities\\ATCommon.Utilities.csproj": {
+              "projectPath": "D:\\GithubProjects\\dotnet-core-webapi\\src\\ATCommon.Utilities\\ATCommon.Utilities.csproj"
             }
           }
         }
@@ -1659,7 +1664,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
