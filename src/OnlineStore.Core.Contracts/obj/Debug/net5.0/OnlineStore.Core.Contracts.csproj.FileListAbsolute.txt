@@ -21,3 +21,4 @@ D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\obj\Debug\ne
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\obj\Debug\net5.0\OnlineStore.Core.Contracts.dll
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\obj\Debug\net5.0\ref\OnlineStore.Core.Contracts.dll
 D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\obj\Debug\net5.0\OnlineStore.Core.Contracts.pdb
+D:\GithubProjects\dotnet-core-webapi\src\OnlineStore.Core.Contracts\obj\Debug\net5.0\OnlineStore.Core.Contracts.csproj.AssemblyReference.cache

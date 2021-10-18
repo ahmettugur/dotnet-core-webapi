@@ -20,3 +20,4 @@ D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Caching.Contracts\obj\Debug\ne
 D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Caching.Contracts\obj\Debug\net5.0\ATCommon.Caching.Contracts.dll
 D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Caching.Contracts\obj\Debug\net5.0\ref\ATCommon.Caching.Contracts.dll
 D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Caching.Contracts\obj\Debug\net5.0\ATCommon.Caching.Contracts.pdb
+D:\GithubProjects\dotnet-core-webapi\src\ATCommon.Caching.Contracts\obj\Debug\net5.0\ATCommon.Caching.Contracts.csproj.AssemblyReference.cache

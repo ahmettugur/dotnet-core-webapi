@@ -68,5 +68,52 @@ namespace OnlineStore.Business.Tests
             Assert.NotNull(result.Data);
             Assert.Equal(200,result.StatusCode);
         }
+        [Fact]
+        public void GetCategory_ExecuteMethod_ReturnDataNull()
+        {
+            List<Category> categories = null;
+            _mock.Setup(_ => _.GetAll(_ => _.Name == "Demo")).Returns(categories);
+
+            var result = _categoryService.GetAll(_ => _.Name == "Demo");
+
+            Assert.IsNotType<List<Category>>(result.Data);
+            Assert.Null(result.Data);
+        }
+
+        [Fact]
+        public void AddCategory_ExecuteMethod_ReturnAddedCategory()
+        {
+            var category = _categories.First();
+            _mock.Setup(_=>_.Add(category)).Returns(category);
+
+            var result = _categoryService.Add(category);
+
+            Assert.NotNull(result.Data);
+            Assert.IsAssignableFrom<Category>(result.Data);
+        }
+
+        [Fact]
+        public void UpdateCategory_ExecuteMethod_ReturnUpdatedCategory()
+        {
+            var category = _categories.First();
+            category.Name = "Keyboard";
+            _mock.Setup(_ => _.Update(category)).Returns(category);
+
+            var result = _categoryService.Update(category);
+
+            Assert.NotNull(result.Data);
+            Assert.IsAssignableFrom<Category>(result.Data);
+            Assert.Equal("Keyboard", result.Data.Name);
+        }
+
+        [Fact]
+        public void DeleteCategory_ExecuteMethod_ReturnDeletedCategoryCount()
+        {
+            var category = _categories.First();
+            _mock.Setup(_ => _.Delete(category)).Returns(1);
+
+            var result = _categoryService.Delete(category);
+            Assert.Equal(1, result.Data);
+        }
     }
 }

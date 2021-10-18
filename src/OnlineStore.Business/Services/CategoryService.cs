@@ -49,7 +49,9 @@ namespace OnlineStore.Business.Services
         [AuthorizationAspect(Roles ="Admin")]
         public IResult<List<Category>> GetAll(Expression<Func<Category, bool>> predicate = null)
         {
-            var model = _categoryRepository.GetAll(predicate).OrderByDescending(_ => _.Id).ToList();
+            var model = _categoryRepository.GetAll(predicate);
+            if (model != null)
+                model = model.OrderByDescending(_ => _.Id).ToList();
             return new Result<List<Category>>(200, model);
         }
 
