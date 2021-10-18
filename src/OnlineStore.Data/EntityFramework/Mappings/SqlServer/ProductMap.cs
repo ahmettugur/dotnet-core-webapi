@@ -12,12 +12,11 @@ namespace OnlineStore.Data.EntityFramework.Mappings.SqlServer
 
             builder.HasKey(_ => _.Id);
 
-            builder.Property(_ => _.Id).HasColumnName("Id");
-            builder.Property(_ => _.CategoryId).HasColumnName("CategoryId");
-            builder.Property(_ => _.Name).HasColumnName("Name");
-            builder.Property(_ => _.Details).HasColumnName("Details");
-            builder.Property(_ => _.Price).HasColumnName("Price");
-            builder.Property(_ => _.StockQuantity).HasColumnName("StockQuantity");
+            builder.Property(_ => _.CategoryId);
+            builder.Property(_ => _.Name);
+            builder.Property(_ => _.Details);
+            builder.Property(_ => _.Price).HasColumnType("decimal(18,2)");
+            builder.Property(_ => _.StockQuantity);
         }
     }
 }

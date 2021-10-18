@@ -16,7 +16,7 @@ namespace OnlineStore.Data.EntityFramework.Mappings.MySqlAndPostgreSQL
             builder.Property(_ => _.CategoryId).HasColumnName("category_id");
             builder.Property(_ => _.Name).HasColumnName("name");
             builder.Property(_ => _.Details).HasColumnName("details");
-            builder.Property(_ => _.Price).HasColumnName("price");
+            builder.Property(_ => _.Price).HasColumnName("price").HasColumnType("decimal(18,2)");
             builder.Property(_ => _.StockQuantity).HasColumnName("stock_quantity");
         }
     }
